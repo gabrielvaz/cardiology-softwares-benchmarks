@@ -1,0 +1,1199 @@
+[
+ {
+  "id": "dr-ecg-01",
+  "product_id": "dr-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/dr-ecg/dr-ecg-01.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "dr-ecg-02",
+  "product_id": "dr-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/dr-ecg/dr-ecg-02.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "dr-ecg-03",
+  "product_id": "dr-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/dr-ecg/dr-ecg-03.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "dr-ecg-04",
+  "product_id": "dr-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/dr-ecg/dr-ecg-04.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "ecg-academy-01",
+  "product_id": "ecg-academy",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/ecg-academy/ecg-academy-01.png",
+  "width": 158,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "ecg-academy-02",
+  "product_id": "ecg-academy",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/ecg-academy/ecg-academy-02.png",
+  "width": 158,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "ecg-academy-03",
+  "product_id": "ecg-academy",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/ecg-academy/ecg-academy-03.png",
+  "width": 158,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "ecg-academy-04",
+  "product_id": "ecg-academy",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/ecg-academy/ecg-academy-04.png",
+  "width": 158,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "ecg-academy-05",
+  "product_id": "ecg-academy",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/ecg-academy/ecg-academy-05.png",
+  "width": 158,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "ecg-academy-06",
+  "product_id": "ecg-academy",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/ecg-academy/ecg-academy-06.png",
+  "width": 158,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "ecg-academy-07",
+  "product_id": "ecg-academy",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/ecg-academy/ecg-academy-07.png",
+  "width": 158,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "ecg-academy-08",
+  "product_id": "ecg-academy",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/ecg-academy/ecg-academy-08.png",
+  "width": 158,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "kardiastation-01",
+  "product_id": "kardiastation",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/kardiastation/kardiastation-01.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "kardiastation-02",
+  "product_id": "kardiastation",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/kardiastation/kardiastation-02.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "kardiastation-03",
+  "product_id": "kardiastation",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/kardiastation/kardiastation-03.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "kardiastation-04",
+  "product_id": "kardiastation",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/kardiastation/kardiastation-04.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "kardiastation-05",
+  "product_id": "kardiastation",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/kardiastation/kardiastation-05.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "kardiastation-06",
+  "product_id": "kardiastation",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/kardiastation/kardiastation-06.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "kardiastation-07",
+  "product_id": "kardiastation",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/kardiastation/kardiastation-07.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "kardiastation-08",
+  "product_id": "kardiastation",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/kardiastation/kardiastation-08.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "kardiastation-09",
+  "product_id": "kardiastation",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/kardiastation/kardiastation-09.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "kardiastation-10",
+  "product_id": "kardiastation",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/kardiastation/kardiastation-10.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "kardiastation-11",
+  "product_id": "kardiastation",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/kardiastation/kardiastation-11.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "kardiastation-12",
+  "product_id": "kardiastation",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/kardiastation/kardiastation-12.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "kardiastation-13",
+  "product_id": "kardiastation",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/kardiastation/kardiastation-13.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "kardiastation-14",
+  "product_id": "kardiastation",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/kardiastation/kardiastation-14.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "kardiastation-15",
+  "product_id": "kardiastation",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/kardiastation/kardiastation-15.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "kardiastation-16",
+  "product_id": "kardiastation",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/kardiastation/kardiastation-16.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "kardiastation-17",
+  "product_id": "kardiastation",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/kardiastation/kardiastation-17.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "kardiastation-18",
+  "product_id": "kardiastation",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/kardiastation/kardiastation-18.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "kardiastation-19",
+  "product_id": "kardiastation",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/kardiastation/kardiastation-19.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "kardiastation-20",
+  "product_id": "kardiastation",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/kardiastation/kardiastation-20.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "pmcardio-01",
+  "product_id": "pmcardio",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/pmcardio/pmcardio-01.png",
+  "width": 167,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "pmcardio-02",
+  "product_id": "pmcardio",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/pmcardio/pmcardio-02.png",
+  "width": 167,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "pmcardio-03",
+  "product_id": "pmcardio",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/pmcardio/pmcardio-03.png",
+  "width": 167,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "pmcardio-04",
+  "product_id": "pmcardio",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/pmcardio/pmcardio-04.png",
+  "width": 167,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "pmcardio-05",
+  "product_id": "pmcardio",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/pmcardio/pmcardio-05.png",
+  "width": 167,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "pmcardio-06",
+  "product_id": "pmcardio",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/pmcardio/pmcardio-06.png",
+  "width": 167,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "pmcardio-07",
+  "product_id": "pmcardio",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/pmcardio/pmcardio-07.png",
+  "width": 167,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "spandan-ecg-01",
+  "product_id": "spandan-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/spandan-ecg/spandan-ecg-01.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "spandan-ecg-02",
+  "product_id": "spandan-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/spandan-ecg/spandan-ecg-02.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "spandan-ecg-03",
+  "product_id": "spandan-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/spandan-ecg/spandan-ecg-03.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "spandan-ecg-04",
+  "product_id": "spandan-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/spandan-ecg/spandan-ecg-04.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "spandan-ecg-05",
+  "product_id": "spandan-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/spandan-ecg/spandan-ecg-05.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "spandan-ecg-06",
+  "product_id": "spandan-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/spandan-ecg/spandan-ecg-06.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "spandan-ecg-07",
+  "product_id": "spandan-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/spandan-ecg/spandan-ecg-07.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "spandan-ecg-08",
+  "product_id": "spandan-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/spandan-ecg/spandan-ecg-08.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "spandan-ecg-09",
+  "product_id": "spandan-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/spandan-ecg/spandan-ecg-09.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "spandan-ecg-10",
+  "product_id": "spandan-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/spandan-ecg/spandan-ecg-10.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "spandan-ecg-11",
+  "product_id": "spandan-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/spandan-ecg/spandan-ecg-11.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "spandan-ecg-12",
+  "product_id": "spandan-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/spandan-ecg/spandan-ecg-12.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "spandan-ecg-13",
+  "product_id": "spandan-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/spandan-ecg/spandan-ecg-13.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "spandan-ecg-14",
+  "product_id": "spandan-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/spandan-ecg/spandan-ecg-14.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "spandan-ecg-15",
+  "product_id": "spandan-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/spandan-ecg/spandan-ecg-15.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "spandan-ecg-16",
+  "product_id": "spandan-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/spandan-ecg/spandan-ecg-16.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "spandan-ecg-17",
+  "product_id": "spandan-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/spandan-ecg/spandan-ecg-17.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "spandan-ecg-18",
+  "product_id": "spandan-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/spandan-ecg/spandan-ecg-18.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "spandan-ecg-19",
+  "product_id": "spandan-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/spandan-ecg/spandan-ecg-19.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "spandan-ecg-20",
+  "product_id": "spandan-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/spandan-ecg/spandan-ecg-20.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "spandan-ecg-21",
+  "product_id": "spandan-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/spandan-ecg/spandan-ecg-21.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "spandan-ecg-22",
+  "product_id": "spandan-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/spandan-ecg/spandan-ecg-22.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "spandan-ecg-23",
+  "product_id": "spandan-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/spandan-ecg/spandan-ecg-23.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ },
+ {
+  "id": "spandan-ecg-24",
+  "product_id": "spandan-ecg",
+  "pattern": null,
+  "modalities": [],
+  "image": "screens/spandan-ecg/spandan-ecg-24.png",
+  "width": 166,
+  "height": 296,
+  "caption": null,
+  "confidence": null,
+  "lang": "en",
+  "source": {
+   "type": "web",
+   "url": null,
+   "captured_at": "2025-06-12"
+  },
+  "caption_source": null,
+  "note": "app store listing thumbnail, 166x296 or similar; needs recapture at full resolution"
+ }
+]

@@ -1,0 +1,2443 @@
+[
+ {
+  "id": "alfamed-compassus-3000",
+  "name": "Compassus 3000",
+  "vendor": "Alfa Med Sistemas Médicos",
+  "vendor_slug": "alfamed",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [
+   "br"
+  ],
+  "website": null,
+  "manual_ids": [
+   "alfamed-compassus-3000-manual-usuario-pt"
+  ],
+  "notes": "Eletrocardiógrafo de mesa fabricado pela Alfa Med (Brasil); manual do usuário em português, único documento deste produto no lote.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "alfamed-ritmus-1200a",
+  "name": "Ritmus 1200A",
+  "vendor": "Alfa Med Sistemas Médicos",
+  "vendor_slug": "alfamed",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [
+   "br"
+  ],
+  "website": null,
+  "manual_ids": [
+   "alfamed-ritmus-1200a-manual-usuario-pt"
+  ],
+  "notes": "Eletrocardiógrafo Alfa Med, modelo distinto do Compassus 3000 (número de peça e revisão diferentes).",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "alivecor-kardia-app-family",
+  "name": "Kardia by AliveCor (app + KardiaMobile/KardiaBand)",
+  "vendor": "AliveCor",
+  "vendor_slug": "alivecor",
+  "modalities": [
+   "resting-ecg",
+   "ai-analysis"
+  ],
+  "architectures": [
+   "mobile-app",
+   "wearable"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "telemedicine"
+  ],
+  "markets": [
+   "us"
+  ],
+  "website": null,
+  "manual_ids": [
+   "alivecor-kardia-user-manual-updated",
+   "alivecor-kardiamobile-omron-user-manual"
+  ],
+  "notes": "Estes dois manuais não documentam um único SKU: cobrem o app Kardia (e sua variante co-branded 'OMRON Connect Powered by AliveCor') usado tanto com o dispositivo KardiaMobile quanto com o wearable KardiaBand para Apple Watch. Tratados como entrada de família porque descrevem o ecossistema app+dispositivos, não um produto de hardware isolado.",
+  "screen_count": 0,
+  "manual_count": 2
+ },
+ {
+  "id": "alivecor-kardiamobile-1-lead",
+  "name": "KardiaMobile",
+  "vendor": "AliveCor",
+  "vendor_slug": "alivecor",
+  "modalities": [
+   "resting-ecg",
+   "ai-analysis"
+  ],
+  "architectures": [
+   "mobile-app"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis"
+  ],
+  "markets": [
+   "us",
+   "eu"
+  ],
+  "website": null,
+  "manual_ids": [
+   "alivecor-kardia-mobile-user-manual-2017",
+   "alivecor-kardiamobile-1-lead-manual-utilizador-pt"
+  ],
+  "notes": "Dispositivo pessoal de ECG de 1 derivação que se acopla a smartphone/tablet. O manual de 2017 é a versão original em inglês (mercado dos EUA); o manual em português cita a Obelis s.a. em Bruxelas como representante autorizado, indicando distribuição na UE. O manual PT também menciona o app clínico KardiaStation, mas o produto documentado é explicitamente o 'KardiaMobile System'.",
+  "screen_count": 0,
+  "manual_count": 2
+ },
+ {
+  "id": "alivecor-kardiamobile-6l",
+  "name": "KardiaMobile 6L",
+  "vendor": "AliveCor",
+  "vendor_slug": "alivecor",
+  "modalities": [
+   "resting-ecg",
+   "ai-analysis"
+  ],
+  "architectures": [
+   "mobile-app"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "alivecor-kardiamobile-6l-instrucoes-utilizacao-pt"
+  ],
+  "notes": "Dispositivo AC-019, sucessor do KardiaMobile original, com 3 eletrodos e captura de 6 derivações. IFU traduzida do inglês para português, sem indicação de representante regional específico no texto disponível.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "amedtec-ecgpro",
+  "name": "AMEDTEC ECGpro",
+  "vendor": "Amedtec",
+  "vendor_slug": "amedtec",
+  "modalities": [
+   "resting-ecg",
+   "holter",
+   "stress-test",
+   "abpm"
+  ],
+  "architectures": [
+   "desktop-client"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "management-worklist"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "amedtec-ecgpro-guide"
+  ],
+  "notes": "Software de PC (\"the PC ECG with the highest sampling rate\") que unifica módulos de teste (ECG de repouso, ritmo, esforço, Holter, pressão arterial) e um módulo de gestão de dados; é software, não um aparelho.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "apple-watch-ecg-app",
+  "name": "ECG App (Apple Watch)",
+  "vendor": "Apple",
+  "vendor_slug": "apple",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "wearable"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis"
+  ],
+  "markets": [
+   "eu"
+  ],
+  "website": null,
+  "manual_ids": [
+   "apple-ecg-app-manual",
+   "apple-watch-series-9-ecg-instrucoes-pt"
+  ],
+  "notes": "App de ECG de canal único do Apple Watch (não é hardware separado); os dois manuais são variantes regionais do mesmo IFU (EN-GB e PT-PT), ambas europeias.",
+  "screen_count": 0,
+  "manual_count": 2
+ },
+ {
+  "id": "bionet-cardio7",
+  "name": "Cardio7",
+  "vendor": "Bionet",
+  "vendor_slug": "bionet",
+  "modalities": [
+   "resting-ecg",
+   "spirometry"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "management-worklist",
+   "distribution-integration"
+  ],
+  "markets": [
+   "br"
+  ],
+  "website": null,
+  "manual_ids": [
+   "bionet-cardio-7-manual-instalacao-pt",
+   "bionet-cardio7-user-manual"
+  ],
+  "notes": "Eletrocardiógrafo/telediagnóstico de mesa da Bionet com tela touch, que também faz espirometria e se conecta a um servidor BMS para worklist; manual de instalação em pt e manual de operação em en são do mesmo aparelho.",
+  "screen_count": 0,
+  "manual_count": 2
+ },
+ {
+  "id": "bionet-cardiocare-2000",
+  "name": "CardioCare 2000",
+  "vendor": "Bionet",
+  "vendor_slug": "bionet",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [
+   "br"
+  ],
+  "website": null,
+  "manual_ids": [
+   "bionet-cardiocare-2000-manual-instalacao-pt",
+   "bionet-cardiocare-2000-manual-operador-pt",
+   "bionet-cardiocare-2000-operation-manual-v3.22",
+   "bionet-cardiocare-2000-user-manual"
+  ],
+  "notes": "Eletrocardiógrafo de mesa da Bionet com portas RS232/LAN; quatro manuais (instalação pt, operador pt, e duas versões en v2.43/v3.22) descrevem o mesmo aparelho em versões de firmware diferentes.",
+  "screen_count": 0,
+  "manual_count": 4
+ },
+ {
+  "id": "bionet-cardiotouch-3000",
+  "name": "CardioTouch 3000",
+  "vendor": "Bionet",
+  "vendor_slug": "bionet",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "bionet-cardiotouch-3000-guia-rapido-pt",
+   "bionet-cardiotouch-3000-user-manual-updated"
+  ],
+  "notes": "Eletrocardiógrafo touchscreen da Bionet; guia rápido em pt e manual de operação completo em en cobrem o mesmo aparelho.",
+  "screen_count": 0,
+  "manual_count": 2
+ },
+ {
+  "id": "bpl-medical-technologies-cardiology-portfolio",
+  "name": "BPL Medical Technologies — Portfólio de Cardiologia (catálogo corporativo)",
+  "vendor": "BPL Medical Technologies",
+  "vendor_slug": "bpl-medical",
+  "modalities": [
+   "resting-ecg",
+   "defibrillation",
+   "stress-test"
+  ],
+  "architectures": [
+   "embedded-firmware",
+   "desktop-client"
+  ],
+  "functions": [
+   "acquisition"
+  ],
+  "markets": [
+   "in"
+  ],
+  "website": null,
+  "manual_ids": [
+   "bpl-medical-technologies-product-catalogue"
+  ],
+  "notes": "Catálogo corporativo amplo que cobre múltiplas linhas não relacionadas: cardiógrafos CARDIART 9108D e 108T-DIGI, desfibrilador DF 2509 e sistema de teste de esforço DYNATRAC Ultra (este com software Windows dedicado). O CARDIART GenX3, do outro manual deste lote, não aparece neste catálogo. Tratado como família ampla por não ser específico de um único produto.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "bpl-cardiart-genx3",
+  "name": "CARDIART GenX3",
+  "vendor": "BPL Medical Technologies",
+  "vendor_slug": "bpl-medical",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [
+   "in"
+  ],
+  "website": null,
+  "manual_ids": [
+   "bpl-cardiart-genx3-3-channel-ecg-machine"
+  ],
+  "notes": "Eletrocardiógrafo de 3 canais com tela TFT colorida e conversor PDF interno para exportação via USB; fabricante indiano BPL Medical Technologies.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "btl-08-ecg-series",
+  "name": "BTL-08 ECG Series",
+  "vendor": "BTL",
+  "vendor_slug": "btl",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "btl-8-ecg-manual-usuario-pt",
+   "btl-ekg-08-series-manual"
+  ],
+  "notes": "Família de eletrocardiógrafos portáteis BTL-08 (variantes MT Plus, LT, LT Plus, LC, LC Plus); os dois manuais cobrem a mesma linha de produto em revisões diferentes (2006 e 2010), não o software modular CardioPoint da BTL, que não aparece neste lote.",
+  "screen_count": 0,
+  "manual_count": 2
+ },
+ {
+  "id": "burdick-e350i",
+  "name": "E350i",
+  "vendor": "Burdick",
+  "vendor_slug": "burdick",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "burdick-e350i-ecg-user-manual"
+  ],
+  "notes": "Eletrocardiógrafo de mesa Burdick E350i. O PDF é uma digitalização sem camada de texto extraível, então a classificação usa apenas o título do manual.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "burdick-eclipse",
+  "name": "Eclipse",
+  "vendor": "Burdick",
+  "vendor_slug": "burdick",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "burdick-eclipse-ecg-user-manual"
+  ],
+  "notes": "Eletrocardiógrafo Burdick Eclipse. Manual totalmente escaneado sem texto extraível, classificação baseada apenas no título.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "cardiac-science-q-stress",
+  "name": "Q-Stress",
+  "vendor": "Cardiac Science (Quinton)",
+  "vendor_slug": "cardiac-science",
+  "modalities": [
+   "stress-test"
+  ],
+  "architectures": [
+   "desktop-client"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [
+   "us"
+  ],
+  "website": null,
+  "manual_ids": [
+   "quinton-q-stress-4.5-manual",
+   "quinton-q-stress-system-user-manual-hillrom"
+  ],
+  "notes": "Sistema de teste de esforco (stress test) baseado em PC, com historico de marca Quinton -> Welch Allyn -> distribuido pela Hillrom, hoje sob Cardiac Science. Um dos manuais menciona instalacao de antivirus e configuracao do sistema operacional, confirmando arquitetura desktop-client; a linguagem 'Federal law restricts...' e o endereco em Skaneateles Falls, NY indicam mercado US.",
+  "screen_count": 0,
+  "manual_count": 2
+ },
+ {
+  "id": "cardiolex-ec-store",
+  "name": "EC Store",
+  "vendor": "Cardiolex",
+  "vendor_slug": "cardiolex",
+  "modalities": [],
+  "architectures": [
+   "webapp",
+   "server-management"
+  ],
+  "functions": [
+   "management-worklist",
+   "distribution-integration"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "cardiolex-ec-store-ecg-management-brochure-2023",
+   "cardiolex-ec-store-ecg-management-brochure-v21"
+  ],
+  "notes": "Sistema de gestão de ECG (Vendor Neutral Archive) baseado em web, com cliente web acessível de tablets/smartphones; não é aparelho. Não há evidência de modalidade específica (gerencia ECG de forma genérica). Duas versões de brochure (2023 e v21) do mesmo produto.",
+  "screen_count": 0,
+  "manual_count": 2
+ },
+ {
+  "id": "cardioline-200p",
+  "name": "200P",
+  "vendor": "Cardioline",
+  "vendor_slug": "cardioline",
+  "modalities": [],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "cardioline-cubestress-impressora-manual-usuario-pt"
+  ],
+  "notes": "Impressora térmica portátil acessória. O manual confirma que ela foi projetada para trabalhar com os sistemas Cardioline CubeStress e touchECG. É um periférico de impressão, não um dispositivo de aquisição de ECG, por isso as modalidades e funções clínicas ficam vazias.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "cardioline-ar600",
+  "name": "ar600",
+  "vendor": "Cardioline",
+  "vendor_slug": "cardioline",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "cardioline-ar600-user-manual"
+  ],
+  "notes": "Eletrocardiógrafo Cardioline ar600, chamado no próprio manual de 'the electrocardiograph', com preparo de paciente e aquisição de ECG de repouso.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "cardioline-delta-1-plus",
+  "name": "Delta 1 Plus",
+  "vendor": "Cardioline",
+  "vendor_slug": "cardioline",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "cardioline-delta-1-plus-ecg-recorder-user-manual",
+   "cardioline-delta-1-plus-user-manual-en"
+  ],
+  "notes": "Eletrocardiógrafo portátil de mesa com teclado, tela de cristal líquido e impressora integrada, apesar de um dos arquivos usar 'Recorder' no nome. São dois arquivos distintos (revisões/idiomas) do mesmo produto.",
+  "screen_count": 0,
+  "manual_count": 2
+ },
+ {
+  "id": "cardioline-touchecg",
+  "name": "touchECG",
+  "vendor": "Cardioline",
+  "vendor_slug": "cardioline",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "desktop-client",
+   "mobile-app"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing",
+   "management-worklist",
+   "distribution-integration"
+  ],
+  "markets": [
+   "de"
+  ],
+  "website": null,
+  "manual_ids": [
+   "cardioline-touchecg-user-manual"
+  ],
+  "notes": "Software de ECG de repouso instalável em Windows ou Android, conectado por Bluetooth a módulos de aquisição HD+. O manual descreve confirmação de laudo por médico, download de worklists e conectividade no formato GDT (padrão alemão), o que justifica o mercado 'de'.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "cardios-dynamis-ecg",
+  "name": "Dynamis ECG",
+  "vendor": "Cardios",
+  "vendor_slug": "cardios",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "desktop-client"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing",
+   "telemedicine"
+  ],
+  "markets": [
+   "br"
+  ],
+  "website": null,
+  "manual_ids": [
+   "cardios-dynamis-ecg-brochure",
+   "cardios-dynamis-ecg-manual-anvisa-pt",
+   "cardios-dynamis-ecg-telemedicina-passo-a-passo-pt"
+  ],
+  "notes": "Eletrocardiógrafo de aquisição por USB fornecido sem computador (o software roda no PC do cliente); o manual descreve assinatura digital do laudo e o passo a passo de envio de exames para telemedicina. Registro junto à ANVISA confirma mercado brasileiro.",
+  "screen_count": 0,
+  "manual_count": 3
+ },
+ {
+  "id": "corpuls-aed",
+  "name": "corpuls AED",
+  "vendor": "corpuls",
+  "vendor_slug": "corpuls",
+  "modalities": [
+   "defibrillation"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "corpuls-aed-user-manual-v7.0-eng"
+  ],
+  "notes": "Desfibrilador automatico externo (AED) portatil, aparelho dedicado com firmware embarcado.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "corpuls-corpuls3",
+  "name": "corpuls3",
+  "vendor": "corpuls",
+  "vendor_slug": "corpuls",
+  "modalities": [
+   "defibrillation",
+   "patient-monitoring"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "corpuls3-defibrillator-user-manual-frankshospitalworkshop",
+   "corpuls3-user-manual-v4.2-eng"
+  ],
+  "notes": "Desfibrilador/monitor modular corpuls3 para emergencia e transporte. Dois manuais (fonte terceira e versao oficial v4.2) descrevem o mesmo aparelho.",
+  "screen_count": 0,
+  "manual_count": 2
+ },
+ {
+  "id": "custo-med-diagnostic-systems-safety",
+  "name": "custo diagnostic Systems / Devices (manual genérico de segurança)",
+  "vendor": "custo med",
+  "vendor_slug": "customed",
+  "modalities": [],
+  "architectures": [],
+  "functions": [],
+  "markets": [
+   "de"
+  ],
+  "website": null,
+  "manual_ids": [
+   "customed-gluco-hct-manual",
+   "customed-all-devices-safety-part-1"
+  ],
+  "notes": "Ambos os PDFs contêm o mesmo documento genérico 'Part 1: Safety, Maintenance and Warranty' aplicável a todos os sistemas custo med, sem descrever um produto específico; apesar do nome de arquivo 'Gluco-hct', o conteúdo real não menciona um produto Gluco HCT — parece um manual genérico mal nomeado/reaproveitado entre versões (v001/2017 e v006/2020). Tratado como entrada de família por falta de produto identificável.",
+  "screen_count": 0,
+  "manual_count": 2
+ },
+ {
+  "id": "drager-infinity-gamma",
+  "name": "Infinity Gamma",
+  "vendor": "Dräger",
+  "vendor_slug": "drager",
+  "modalities": [
+   "patient-monitoring"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "drager-infinity-gamma-user-manual"
+  ],
+  "notes": "Monitor de paciente de beira-leito da Infinity Configured Monitoring Series.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "drager-infinity-vista-xl",
+  "name": "Infinity Vista XL",
+  "vendor": "Dräger",
+  "vendor_slug": "drager",
+  "modalities": [
+   "patient-monitoring"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "drager-infinity-vista-xl-user-manual"
+  ],
+  "notes": "Monitor de paciente da Infinity Modular Monitoring Series, linha diferente da série Configured (Gamma).",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "drager-pm8060",
+  "name": "PM 8060 vitara",
+  "vendor": "Dräger",
+  "vendor_slug": "drager",
+  "modalities": [
+   "patient-monitoring"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "drager-patient-monitor-pm8060-user-manual"
+  ],
+  "notes": "Monitor de paciente hemodinâmico PM 8060 vitara; o próprio documento se identifica como uso interno da Dräger (\"Not applicable as Instructions for Use\"), possivelmente um rascunho de IFU.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "edan-em-301-em-601-series",
+  "name": "EM-301/EM-601 Series",
+  "vendor": "Edan",
+  "vendor_slug": "edan",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [
+   "br"
+  ],
+  "website": null,
+  "manual_ids": [
+   "edan-em-301-em-601-manual-usuario-pt"
+  ],
+  "notes": "Família de eletrocardiógrafos multicanais (EM-301/EM-301A/EM-301B & EM-601/EM-301A) importada para o Brasil (registro Anvisa citado). Ambiguidade: o manual identifica o fabricante como Shenzhen ECGMAC Medical Electronics Co., Ltd, não Edan — mantivemos vendor_slug \"edan\" conforme o dossiê de entrada, mas há divergência entre a marca esperada e o fabricante impresso no documento (possível OEM/rebrand).",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "edan-se-1200-express",
+  "name": "SE-1200 Express",
+  "vendor": "Edan Instruments",
+  "vendor_slug": "edan",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "edan-se-1200-express-official-manual"
+  ],
+  "notes": "Eletrocardiógrafo de repouso SE-1200 Express.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "edan-se-1201",
+  "name": "SE-1201",
+  "vendor": "Edan Instruments",
+  "vendor_slug": "edan",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "edan-se-1201-official-manual"
+  ],
+  "notes": "Eletrocardiógrafo de repouso SE-1201.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "edan-se-3-se-300-series",
+  "name": "SE-3 / SE-300 Series",
+  "vendor": "Edan Instruments",
+  "vendor_slug": "edan",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "edan-electrocardiograph-user-manual"
+  ],
+  "notes": "Manual identificado internamente pelo PLM da Edan como cobrindo a família de modelos SE-300A, SE-300B e SE-3; entrada de família porque um único documento abrange múltiplos modelos comerciais.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "edan-se-301",
+  "name": "SE-301",
+  "vendor": "Edan Instruments",
+  "vendor_slug": "edan",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "edan-se-301-manual-usuario-pt"
+  ],
+  "notes": "Eletrocardiógrafo de repouso de 3 canais SE-301, indicado para pacientes adultos e pediátricos.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "edan-se-601-series",
+  "name": "SE-601 Series",
+  "vendor": "Edan Instruments",
+  "vendor_slug": "edan",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "edan-se-601-series-official-manual"
+  ],
+  "notes": "Família de eletrocardiógrafos multicanais SE-601 Series (ex.: SE-601C com tela touch colorida de 5,6\").",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "fukuda-denshi-fx-7202",
+  "name": "Cardimax FX-7202",
+  "vendor": "Fukuda Denshi",
+  "vendor_slug": "fukuda-denshi",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "fukuda-denshi-fx7202-ecg-user-manual"
+  ],
+  "notes": "Eletrocardiógrafo Cardimax FX-7202 da Fukuda Denshi, um modelo distinto do FX-8400.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "fukuda-denshi-ds-8500",
+  "name": "DS-8500",
+  "vendor": "Fukuda Denshi",
+  "vendor_slug": "fukuda-denshi",
+  "modalities": [
+   "patient-monitoring"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "fukuda-denshi-ds-8500-bedside-monitor-manual"
+  ],
+  "notes": "Monitor de beira de leito (bedside monitor) da Fukuda Denshi, distinto dos eletrocardiógrafos de mesa da linha FX/Cardimax.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "fukuda-denshi-fx-8400",
+  "name": "FX-8400",
+  "vendor": "Fukuda Denshi",
+  "vendor_slug": "fukuda-denshi",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "fukuda-denshi-fx-8400-fa-operation-manual"
+  ],
+  "notes": "Eletrocardiógrafo de mesa da linha FX da Fukuda Denshi; page1 vazio, mas título e nome do arquivo identificam claramente o modelo.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "ge-cardiosoft",
+  "name": "CardioSoft",
+  "vendor": "GE Healthcare",
+  "vendor_slug": "ge-healthcare",
+  "modalities": [
+   "resting-ecg",
+   "stress-test",
+   "spirometry",
+   "abpm"
+  ],
+  "architectures": [
+   "desktop-client"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "distribution-integration"
+  ],
+  "markets": [
+   "de"
+  ],
+  "website": null,
+  "manual_ids": [
+   "ge-cardiosoft-diagnostic-system-user-guide-tiger"
+  ],
+  "notes": "Produto irmão do CASE, com descrição funcional quase idêntica (ECG de repouso, teste de esforço, espirometria, MAPA, integração GDT/BDT/HL7), mas comercializado sob nome e manual próprios pela GE Healthcare.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "ge-case",
+  "name": "CASE",
+  "vendor": "GE Healthcare",
+  "vendor_slug": "ge-healthcare",
+  "modalities": [
+   "resting-ecg",
+   "stress-test",
+   "spirometry",
+   "abpm"
+  ],
+  "architectures": [
+   "desktop-client"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "distribution-integration"
+  ],
+  "markets": [
+   "de"
+  ],
+  "website": null,
+  "manual_ids": [
+   "ge-case-v6-7-user-manual"
+  ],
+  "notes": "Sistema instalado em um único PC para ECG de repouso e teste de esforço que também adquire dados de espirometria e MAPA de dispositivos auxiliares, controla esteira/bicicleta e integra com o MUSE. Suporta as interfaces alemãs GDT e BDT além de HL7, o que justifica o mercado 'de'.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "marquette-mac-12-15",
+  "name": "MAC 12/15",
+  "vendor": "GE Healthcare",
+  "vendor_slug": "ge-healthcare",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "marquette-mac-12-15-ecg-user-manual"
+  ],
+  "notes": "Manual de família cobrindo em conjunto os eletrocardiógrafos Marquette MAC 12 e MAC 15, marca herdada pela GE Healthcare. PDF escaneado sem texto extraível, classificação baseada apenas no título.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "marquette-mac-15",
+  "name": "MAC 15",
+  "vendor": "GE Healthcare",
+  "vendor_slug": "ge-healthcare",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "marquette-mac-15-ecg-user-manual"
+  ],
+  "notes": "Manual específico do MAC 15, mantido separado do manual combinado MAC 12/15 por ser um documento próprio e mais extenso. PDF escaneado sem texto extraível.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "ge-mac-2000",
+  "name": "MAC 2000",
+  "vendor": "GE Healthcare",
+  "vendor_slug": "ge-healthcare",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "ge-mac-2000-manual",
+   "ge-mac-2000-operators-manual"
+  ],
+  "notes": "Eletrocardiógrafo de mesa MAC 2000 Analysis System. Os dois manuais são revisões diferentes (Revision C de 2013 e Revision S de 2020) do mesmo Operator's Manual.",
+  "screen_count": 0,
+  "manual_count": 2
+ },
+ {
+  "id": "ge-mac-400",
+  "name": "MAC 400",
+  "vendor": "GE Healthcare",
+  "vendor_slug": "ge-healthcare",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "ge-mac-400-quick-guide"
+  ],
+  "notes": "Guia rápido de segurança e avisos do MAC 400 Resting ECG Analysis System.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "ge-mac-800",
+  "name": "MAC 800",
+  "vendor": "GE Healthcare",
+  "vendor_slug": "ge-healthcare",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "ge-mac-800-operators-manual"
+  ],
+  "notes": "Eletrocardiógrafo de mesa MAC 800 Resting ECG Analysis System.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "marquette-mac-pc",
+  "name": "MAC PC",
+  "vendor": "GE Healthcare",
+  "vendor_slug": "ge-healthcare",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "desktop-client"
+  ],
+  "functions": [
+   "acquisition"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "marquette-mac-pc-ecg-service-manual"
+  ],
+  "notes": "Sistema de ECG baseado em PC da linha Marquette (herdada pela GE Healthcare). PDF escaneado sem texto extraível; a arquitetura desktop-client foi inferida do próprio nome do produto.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "ge-mac-vu360",
+  "name": "MAC VU360",
+  "vendor": "GE Healthcare",
+  "vendor_slug": "ge-healthcare",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "ge-mac-vu360-user-manual"
+  ],
+  "notes": "Eletrocardiógrafo de mesa MAC VU360 Resting ECG Analysis System.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "ge-t2100-treadmill",
+  "name": "T2100 Treadmill",
+  "vendor": "GE Healthcare",
+  "vendor_slug": "ge-healthcare",
+  "modalities": [
+   "stress-test"
+  ],
+  "architectures": [],
+  "functions": [],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "ge-t2100-st1-st2-treadmill-manual-operador-pt"
+  ],
+  "notes": "Esteira ergométrica usada em testes de esforço junto com o CASE/CardioSoft, controlada via RS-232/USB por um computador host; não há evidência de firmware próprio no texto extraído. O nome do arquivo sugere edição em português, mas o conteúdo extraído está inteiramente em inglês, sem indícios de mercado específico.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "hp-pagewriter-xl",
+  "name": "PageWriter XL",
+  "vendor": "Hewlett-Packard",
+  "vendor_slug": "hewlett-packard",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "hp-pagewriter-xl-cardiographs-service-manual",
+   "hp-pagewriter-xl-ecg-service-manual-1995"
+  ],
+  "notes": "Eletrocardiógrafo PageWriter XL (modelos M1700A/M1701A/M1702A), com opções de ECG de médias assinaladas (SAECG) e vetorcardiografia. Os dois arquivos são manuais de serviço da mesma família; o de 1995 tem texto extraível, o outro é uma digitalização sem texto.",
+  "screen_count": 0,
+  "manual_count": 2
+ },
+ {
+  "id": "irhythm-zio-at",
+  "name": "Zio AT",
+  "vendor": "iRhythm",
+  "vendor_slug": "irhythm",
+  "modalities": [
+   "telemetry"
+  ],
+  "architectures": [
+   "wearable",
+   "mobile-app"
+  ],
+  "functions": [
+   "acquisition"
+  ],
+  "markets": [
+   "us"
+  ],
+  "website": null,
+  "manual_ids": [
+   "irhythm-zio-at-monitor-instructions-for-use"
+  ],
+  "notes": "Monitor cardíaco vestível de telemetria móvel (FCC ID com prefixo MCT, mobile cardiac telemetry), usado com o aplicativo MyZio. O registro FCC nos Estados Unidos indica mercado americano.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "irhythm-zio-xt",
+  "name": "Zio XT",
+  "vendor": "iRhythm",
+  "vendor_slug": "irhythm",
+  "modalities": [
+   "holter"
+  ],
+  "architectures": [
+   "wearable",
+   "mobile-app"
+  ],
+  "functions": [
+   "acquisition"
+  ],
+  "markets": [
+   "us"
+  ],
+  "website": null,
+  "manual_ids": [
+   "irhythm-zio-xt-clinical-reference-manual",
+   "irhythm-zio-xt-monitor-instructions-for-use"
+  ],
+  "notes": "Patch adesivo de registro contínuo de ECG por até 14 dias, sem telemetria em tempo real (diferente do Zio AT), usado com o aplicativo MyZio. Menção a compliance FCC e 'prescription use only' indicam mercado americano.",
+  "screen_count": 0,
+  "manual_count": 2
+ },
+ {
+  "id": "meditech-ekg6012",
+  "name": "EKG6012",
+  "vendor": "Meditech (Shenzhen)",
+  "vendor_slug": "meditech",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "meditech-ekg6012-user-manual"
+  ],
+  "notes": "Eletrocardiografo de mesa/portatil. Atencao: este 'Meditech' (fabricante de hardware ECG) parece ser uma empresa distinta da MEDITECH americana (Medical Information Technology, Inc.) dona do software PCS incluido neste mesmo lote sob o mesmo vendor_slug; nao ha evidencia de que sejam a mesma empresa.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "meditech-pcs",
+  "name": "PCS (Patient Care System)",
+  "vendor": "MEDITECH (Medical Information Technology, Inc.)",
+  "vendor_slug": "meditech-ehr",
+  "modalities": [],
+  "architectures": [
+   "server-management"
+  ],
+  "functions": [
+   "management-worklist"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "meditech-pcs-5.67-software-user-manual"
+  ],
+  "notes": "Modulo de documentacao clinica/gestao de pacientes do sistema hospitalar MEDITECH, manual provincial usado pela Alberta Health Services (Canada, codigo ISO 'ca' fora do vocabulario fechado, por isso markets vazio). Nao e um software especifico de cardiologia (sem evidencia de modalidade ECG/holter/etc no texto lido); pode ser empresa distinta do 'Meditech' fabricante do EKG6012 no mesmo lote. Distinct company from the Meditech that makes the EKG6012; they were collapsed under one vendor slug during import and have been separated.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "medtronic-physio-control-lifepak-12",
+  "name": "LIFEPAK 12",
+  "vendor": "Medtronic Physio-Control",
+  "vendor_slug": "medtronic-physio-control",
+  "modalities": [
+   "defibrillation",
+   "patient-monitoring"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "lifepak-12-operating-instructions"
+  ],
+  "notes": "Desfibrilador/monitor de emergência portátil clássico da Physio-Control (Medtronic).",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "mindray-beneheart-c-s-series",
+  "name": "BeneHeart C & S Series",
+  "vendor": "Mindray",
+  "vendor_slug": "mindray",
+  "modalities": [
+   "defibrillation"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "mindray-beneheart-c-s-series-manual-operador-pt",
+   "mindray-beneheart-c-series-instructions-for-use"
+  ],
+  "notes": "Família de desfibriladores externos automáticos (DEA) cobrindo múltiplos modelos (C1/C1A/C2/C2A e S1/S1A/S2/S2A, incluindo versões totalmente automáticas); entrada de família porque cada documento (manual do operador e instruções de uso) abrange todos os modelos da linha.",
+  "screen_count": 0,
+  "manual_count": 2
+ },
+ {
+  "id": "mindray-beneheart-c1a",
+  "name": "BeneHeart C1A",
+  "vendor": "Mindray",
+  "vendor_slug": "mindray",
+  "modalities": [
+   "defibrillation"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [],
+  "markets": [
+   "eu"
+  ],
+  "website": null,
+  "manual_ids": [
+   "mindray-beneheart-c1a-brochure"
+  ],
+  "notes": "Brochure comercial específica do modelo BeneHeart C1A (DEA semi-automático/totalmente automático), mercado europeu (título do documento indica \"Portuguese (EU)\"); modelo específico dentro da família coberta pelo produto BeneHeart C & S Series.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "mindray-beneheart-r12",
+  "name": "BeneHeart R12",
+  "vendor": "Mindray",
+  "vendor_slug": "mindray",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "mindray-beneheart-r12-operators-manual"
+  ],
+  "notes": "Eletrocardiógrafo BeneHeart R12/R12A.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "mindray-beneheart-r3",
+  "name": "BeneHeart R3",
+  "vendor": "Mindray",
+  "vendor_slug": "mindray",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "mindray-beneheart-r3-brochure-specifications",
+   "mindray-beneheart-r3-operators-manual-official"
+  ],
+  "notes": "Eletrocardiógrafo BeneHeart R3/R3A; brochure com especificações e manual do operador do mesmo produto.",
+  "screen_count": 0,
+  "manual_count": 2
+ },
+ {
+  "id": "mortara-eli-150c-250c",
+  "name": "ELI 150c / ELI 250c",
+  "vendor": "Mortara Instrument",
+  "vendor_slug": "mortara",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [
+   "us"
+  ],
+  "website": null,
+  "manual_ids": [
+   "mortara-eli-150c-250c-archive",
+   "mortara-eli-150c-250c-manual-alt"
+  ],
+  "notes": "Um único manual de usuário cobre a família de dois modelos, ELI 150c e ELI 250c, eletrocardiógrafos de repouso de 12 derivações; os dois arquivos são cópias/revisões do mesmo documento.",
+  "screen_count": 0,
+  "manual_count": 2
+ },
+ {
+  "id": "mortara-eli-150rx",
+  "name": "ELI 150Rx",
+  "vendor": "Mortara Instrument",
+  "vendor_slug": "mortara",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "mortara-eli-150-rx-manual"
+  ],
+  "notes": "Eletrocardiógrafo de repouso ELI 150Rx da Mortara; page1 vazio mas título do arquivo/documento identifica claramente o modelo, distinto do ELI 150c.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "mortara-eli-250",
+  "name": "ELI 250",
+  "vendor": "Mortara Instrument",
+  "vendor_slug": "mortara",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [
+   "us"
+  ],
+  "website": null,
+  "manual_ids": [
+   "mortara-eli-250-user-manual"
+  ],
+  "notes": "Eletrocardiógrafo de repouso ELI 250 da Mortara; manual próprio e distinto do documento combinado ELI 150c/250c, tratado como produto separado por ter user manual dedicado (REF 9515-163-50).",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "mortara-h12-plus",
+  "name": "H12+ Digital Holter Recorder",
+  "vendor": "Mortara Instrument",
+  "vendor_slug": "mortara",
+  "modalities": [
+   "holter"
+  ],
+  "architectures": [
+   "embedded-firmware",
+   "wearable"
+  ],
+  "functions": [
+   "acquisition"
+  ],
+  "markets": [
+   "us"
+  ],
+  "website": null,
+  "manual_ids": [
+   "mortara-h12-plus-digital-holter-recorder-user-manual"
+  ],
+  "notes": "Gravador Holter digital H12+ da Mortara, um dispositivo vestível de aquisição, distinto dos eletrocardiógrafos de mesa ELI.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "nihon-kohden-ecg-1250",
+  "name": "Cardiofax S (ECG-1250)",
+  "vendor": "Nihon Kohden",
+  "vendor_slug": "nihon-kohden",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "nihon-kohden-cardiofax-s-ecg-1250-service-manual"
+  ],
+  "notes": "Eletrocardiógrafo Cardiofax S, modelo ECG-1250 (variantes regionais ECG-1250A/ECG-1250K descritas no mesmo manual de serviço).",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "nihon-kohden-ecg-1550a",
+  "name": "Cardiofax V (ECG-1550A)",
+  "vendor": "Nihon Kohden",
+  "vendor_slug": "nihon-kohden",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "nihon-kohden-ecg-1550a-brochure"
+  ],
+  "notes": "Eletrocardiógrafo ECG-1550A, vendido sob o nome de linha 'Cardiofax V'; tratado como produto separado do ECG-9320 apesar de compartilhar o mesmo nome de linha comercial, pois são modelos numerados distintos.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "nihon-kohden-ecg-9320",
+  "name": "Cardiofax V (ECG-9320)",
+  "vendor": "Nihon Kohden",
+  "vendor_slug": "nihon-kohden",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "nihon-kohden-ecg-9320-manual"
+  ],
+  "notes": "Eletrocardiógrafo ECG-9320K, também comercializado sob a linha 'Cardiofax V'; tratado como produto separado do ECG-1550A por serem números de modelo distintos, mesmo compartilhando o nome de linha.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "nihon-kohden-ecg-2550",
+  "name": "ECG-2550",
+  "vendor": "Nihon Kohden",
+  "vendor_slug": "nihon-kohden",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "nihon-kohden-ecg-2550-brochure"
+  ],
+  "notes": "Eletrocardiógrafo de repouso de 12/15 derivações totalmente interpretativo, com recurso de Data Capture, segundo a brochura.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "norav-necg-12c",
+  "name": "NECG-12C",
+  "vendor": "Norav Medical",
+  "vendor_slug": "norav",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "norav-necg-12c-user-manual-medplusequipment",
+   "norav-necg-12c-user-manual-official"
+  ],
+  "notes": "Eletrocardiografo de mesa NECG-12c/12C. Dois manuais: copia redistribuida por revendedor (medplusequipment) e versao oficial v1.2.1 do fabricante, mesmo aparelho.",
+  "screen_count": 0,
+  "manual_count": 2
+ },
+ {
+  "id": "norav-pc-ecg-1200",
+  "name": "PC-ECG 1200",
+  "vendor": "Norav Medical",
+  "vendor_slug": "norav",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "desktop-client"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [
+   "eu"
+  ],
+  "website": null,
+  "manual_ids": [
+   "norav-pc-ecg-v5.9.7-users-guide"
+  ],
+  "notes": "Software de ECG instalado em PC que controla modulos de aquisicao externos (modelos 1200S/M/HR/W, Blue-ECG, NR-1207-E/3). Numero de organismo notificado CE '2797' na capa indica marca CE / mercado eu.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "philips-efficia-ecg100",
+  "name": "Efficia ECG100",
+  "vendor": "Philips",
+  "vendor_slug": "philips",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "philips-efficia-ecg100-brochure"
+  ],
+  "notes": "O PDF de origem está corrompido/vazio (0 páginas extraídas por PyMuPDF); produto identificado apenas pelo nome do arquivo. Efficia é a linha de eletrocardiógrafos Philips mais simples, distinta da PageWriter.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "philips-pagewriter-tc20",
+  "name": "PageWriter TC20",
+  "vendor": "Philips",
+  "vendor_slug": "philips",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "distribution-integration"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "philips-pagewriter-tc20-brochure"
+  ],
+  "notes": "Apenas a brochura documenta de fato o TC20. O outro arquivo com 'TC20' no nome (philips-pagewriter-tc20-instructions-for-use) tem conteúdo interno do IFU do TC50/TC70 ('PageWriter TC50/TC70 Cardiograph, Release A.07'), então foi agrupado no produto TC70/TC50, não aqui — o nome do arquivo está incorreto/reaproveitado.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "philips-pagewriter-tc50-tc70",
+  "name": "PageWriter TC70/TC50",
+  "vendor": "Philips",
+  "vendor_slug": "philips",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing",
+   "distribution-integration"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "philips-pagewriter-tc20-instructions-for-use",
+   "philips-pagewriter-tc70-manual",
+   "philips-pagewriter-tc70-tc50-user-manual"
+  ],
+  "notes": "A Philips documenta TC70 e TC50 num único IFU. Verificado por leitura direta dos PDFs: 'philips-pagewriter-tc20-instructions-for-use' (apesar do nome do arquivo) é na verdade o IFU Release A.07/2019 do TC50/TC70; 'philips-pagewriter-tc70-manual' e 'philips-pagewriter-tc70-tc50-user-manual' são duas cópias idênticas de uma edição anterior (Edition 2, A.04.01, 2010) do mesmo IFU, hospedadas com nomes de arquivo diferentes.",
+  "screen_count": 0,
+  "manual_count": 3
+ },
+ {
+  "id": "philips-pagewriter-touch",
+  "name": "PageWriter Touch",
+  "vendor": "Philips",
+  "vendor_slug": "philips",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "philips-pagewriter-touch-service-manual"
+  ],
+  "notes": "Apenas o manual de serviço está presente neste lote, cobrindo as revisões de software B.01 e C.01.02 e superiores.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "philips-pagewriter-trim-family",
+  "name": "PageWriter Trim (I, II, III, Rx)",
+  "vendor": "Philips",
+  "vendor_slug": "philips",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "philips-pagewriter-trim-i-ii-iii-getting-started-guide",
+   "philips-pagewriter-trim-service-manual"
+  ],
+  "notes": "Família de cardiógrafos portáteis Trim; o guia de início rápido cobre os modelos I, II e III, e o manual de serviço acrescenta a variante Rx. Tratado como família porque nenhum manual isola um único modelo.",
+  "screen_count": 0,
+  "manual_count": 2
+ },
+ {
+  "id": "philips-tempus-pro",
+  "name": "Tempus Pro",
+  "vendor": "Philips (originalmente Remote Diagnostic Technologies / Ambient)",
+  "vendor_slug": "philips",
+  "modalities": [
+   "patient-monitoring",
+   "telemetry"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "philips-tempus-pro-documents",
+   "philips-tempus-pro-user-operator-manual"
+  ],
+  "notes": "Monitor de paciente robusto para uso pré-hospitalar/militar. Originalmente da Remote Diagnostic Technologies (marca Ambient), companhia adquirida pela Philips; não faz parte da linha PageWriter.",
+  "screen_count": 0,
+  "manual_count": 2
+ },
+ {
+  "id": "schiller-at-2",
+  "name": "AT-2",
+  "vendor": "Schiller",
+  "vendor_slug": "schiller",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "schiller-at-2-ecg-user-manual"
+  ],
+  "notes": "Eletrocardiografo de 12 canais 'AT-2 12 Channel ECG Unit', distinto do AT-2plus (6 canais).",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "schiller-at-2plus",
+  "name": "AT-2plus",
+  "vendor": "Schiller",
+  "vendor_slug": "schiller",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [
+   "eu"
+  ],
+  "website": null,
+  "manual_ids": [
+   "schiller-6-channel-electrocardiograph-manual"
+  ],
+  "notes": "O titulo do arquivo diz apenas '6-Channel Electrocardiograph', mas o conteudo interno identifica o modelo exato: AT-2plus. Marca CE 0123 encontrada no corpo do manual, evidencia de mercado eu. Produto distinto do AT-2 (12 canais) do mesmo fabricante.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "schiller-cardiovit-at-1-g2",
+  "name": "CARDIOVIT AT-1 G2",
+  "vendor": "Schiller",
+  "vendor_slug": "schiller",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "schiller-cardiovit-at-1-g2-datasheet"
+  ],
+  "notes": "Eletrocardiografo de mesa de entrada da linha CARDIOVIT G2; apenas datasheet disponivel neste lote.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "schiller-cardiovit-at-102-g2",
+  "name": "CARDIOVIT AT-102 G2",
+  "vendor": "Schiller",
+  "vendor_slug": "schiller",
+  "modalities": [
+   "resting-ecg",
+   "spirometry"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "schiller-cardiovit-at-102-g2-datasheet",
+   "schiller-cardiovit-at-102-g2-user-manual",
+   "schiller-cardiovit-at102-g2-datasheet"
+  ],
+  "notes": "Eletrocardiografo de mesa com opcao de espirometria (datasheet lista 'System ECG Spirometry'). Ha dois arquivos de datasheet quase identicos (edicoes/datas diferentes) mais o user guide completo, todos do mesmo produto.",
+  "screen_count": 0,
+  "manual_count": 3
+ },
+ {
+  "id": "schiller-cardiovit-ft-1",
+  "name": "CARDIOVIT FT-1",
+  "vendor": "Schiller",
+  "vendor_slug": "schiller",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "schiller-cardiovit-ft-1-product-presentation"
+  ],
+  "notes": "Eletrocardiografo compacto, apenas apresentacao comercial (brochure) disponivel neste lote.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "schiller-cs-200",
+  "name": "CS-200",
+  "vendor": "Schiller",
+  "vendor_slug": "schiller",
+  "modalities": [
+   "stress-test",
+   "resting-ecg"
+  ],
+  "architectures": [
+   "desktop-client"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [
+   "eu"
+  ],
+  "website": null,
+  "manual_ids": [
+   "schiller-cs-200-service-handbook"
+  ],
+  "notes": "'CS-200 Diagnostic Workstation': estacao integrada (teclado, mouse, trackball, monitor, drives) que roda sobre Windows (o manual instrui clicar no icone SDS-200 na area de trabalho do Windows), com interfaces para ergometro/esteira e espirometria. Classificada como desktop-client por rodar aplicativo sobre SO Windows, embora seja vendida como unidade fechada; marca CE 0123 citada no manual indica mercado eu. Aparece listada como dispositivo conectado ao SEMA-200 junto com a familia AT-101/AT-102/AT-110.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "schiller-defigard-touch-7",
+  "name": "DEFIGARD Touch 7",
+  "vendor": "Schiller",
+  "vendor_slug": "schiller",
+  "modalities": [
+   "defibrillation",
+   "patient-monitoring"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "schiller-defigard-touch-7-brochure"
+  ],
+  "notes": "Desfibrilador/monitor com controle por tela touch. Brochure em frances; nao ha codigo de mercado no vocabulario fechado que corresponda com seguranca (fr nao esta na lista).",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "schiller-sema",
+  "name": "SEMA",
+  "vendor": "Schiller",
+  "vendor_slug": "schiller",
+  "modalities": [
+   "resting-ecg",
+   "stress-test",
+   "spirometry"
+  ],
+  "architectures": [
+   "server-management",
+   "desktop-client"
+  ],
+  "functions": [
+   "management-worklist",
+   "review-analysis",
+   "reporting-signing",
+   "distribution-integration"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "schiller-sema-200-data-management-brochure",
+   "schiller-sema-data-management-brochure-2024"
+  ],
+  "notes": "Sistema de gestao e arquivamento de dados diagnosticos da Schiller (ECG de repouso, ECG de esforco/CPET, ritmo de repouso e espirometria), que recebe dados de aparelhos como AT-101/AT-102/AT-110/AT-2 plus e CS-200 e permite finalizar laudos em 'estacoes de trabalho SEMA'. O brochure de 2024 usa apenas o nome 'SEMA' (sem '-200'), provavelmente a mesma linha de produto renomeada/atualizada ao longo do tempo.",
+  "screen_count": 0,
+  "manual_count": 2
+ },
+ {
+  "id": "comen-cm1200",
+  "name": "CM1200",
+  "vendor": "Shenzhen Comen Medical Instruments",
+  "vendor_slug": "comen",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [
+   "br"
+  ],
+  "website": null,
+  "manual_ids": [
+   "comen-cm1200-manual-usuario-pt"
+  ],
+  "notes": "Eletrocardiógrafo Comen, manual do usuário em português (2025), fabricante chinês com distribuição no Brasil.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "comen-cm1200b",
+  "name": "CM1200B",
+  "vendor": "Shenzhen Comen Medical Instruments",
+  "vendor_slug": "comen",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [
+   "br"
+  ],
+  "website": null,
+  "manual_ids": [
+   "comen-cm1200b-instrucoes-uso-pt"
+  ],
+  "notes": "Modelo distinto do CM1200 (sufixo B), eletrocardiógrafo de 12 canais; IFU registrada com número ANVISA e importador brasileiro Medstar.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "siemens-cardiostat-3-et",
+  "name": "Cardiostat 3 ET",
+  "vendor": "Siemens",
+  "vendor_slug": "siemens",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "siemens-cardiostat-3-et-ecg-circuit-diagrams"
+  ],
+  "notes": "Documento é apenas diagramas de circuito eletrônico do aparelho ECG Cardiostat 3 ET, sem texto extraível nem descrição de software ou funções; classificado como hardware puro por falta de qualquer evidência de recursos de software.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "spacelabs-qube-monitors",
+  "name": "Qube Monitors",
+  "vendor": "Spacelabs Healthcare",
+  "vendor_slug": "spacelabs",
+  "modalities": [
+   "patient-monitoring"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "spacelabs-qube-monitors-capnography-pod-manual"
+  ],
+  "notes": "Monitor de beira de leito 'qube' (91390) com acessorio Capnography Pod (92516); manual disponivel e apenas um guia rapido, nao o manual de operacoes completo.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "spacelabs-sentinel",
+  "name": "Sentinel",
+  "vendor": "Spacelabs Healthcare",
+  "vendor_slug": "spacelabs",
+  "modalities": [],
+  "architectures": [
+   "server-management",
+   "webapp",
+   "mobile-app"
+  ],
+  "functions": [
+   "management-worklist",
+   "review-analysis",
+   "reporting-signing",
+   "distribution-integration"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "spacelabs-sentinel-11-cardiology-information-system-brochure",
+   "spacelabs-sentinel-cardiology-information-system-overview"
+  ],
+  "notes": "Sistema de gestao de informacoes de cardiologia (Cardiology Information Management System), nao um aparelho. Os proprios brochures descrevem arquitetura web-based com suporte a dispositivos moveis e escalabilidade de um unico PC ate rede hospitalar. 'Sentinel 11' e a versao especifica citada num dos brochures; o outro cobre a familia de forma generica.",
+  "screen_count": 0,
+  "manual_count": 2
+ },
+ {
+  "id": "spacelabs-telemetry-transmitter-96281",
+  "name": "Telemetry Transmitter 96281",
+  "vendor": "Spacelabs Healthcare",
+  "vendor_slug": "spacelabs",
+  "modalities": [
+   "telemetry"
+  ],
+  "architectures": [
+   "wearable"
+  ],
+  "functions": [
+   "acquisition",
+   "distribution-integration"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "spacelabs-healthcare-070-2407-00-rev-a"
+  ],
+  "notes": "Transmissor de telemetria vestivel (modelos 96281-A/B/C) que envia dados de ECG do paciente para o sistema central de monitoracao.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "spacelabs-vital-signs-monitor-93300",
+  "name": "Vital Signs Monitor 93300 (elance)",
+  "vendor": "Spacelabs Healthcare",
+  "vendor_slug": "spacelabs",
+  "modalities": [
+   "patient-monitoring"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "spacelabs-vital-signs-monitor-93300-manual"
+  ],
+  "notes": "Familia de monitores de beira de leito 'elance' (variantes 5/5i/5c/7/7i/7c e respectivas versoes 'elite'), todas cobertas pelo mesmo manual sob o codigo de produto 93300.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "welch-allyn-cp-150",
+  "name": "CP 150",
+  "vendor": "Welch Allyn",
+  "vendor_slug": "welch-allyn",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "welch-allyn-cp-150-ecg-user-manual",
+   "welch-allyn-cp-150-directions-for-use"
+  ],
+  "notes": "Eletrocardiógrafo de repouso de 12 derivações CP 150; dois documentos (user manual e directions for use) do mesmo produto.",
+  "screen_count": 0,
+  "manual_count": 2
+ },
+ {
+  "id": "welch-allyn-eli-230",
+  "name": "ELI 230",
+  "vendor": "Welch Allyn",
+  "vendor_slug": "welch-allyn",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [
+   "us"
+  ],
+  "website": null,
+  "manual_ids": [
+   "welch-allyn-eli-230-user-manual"
+  ],
+  "notes": "Eletrocardiógrafo de repouso de 12 derivações ELI 230; manual traz a advertência regulatória americana (\"Federal law restricts this device to sale by or on the order of a physician\").",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "welch-allyn-eli-280",
+  "name": "ELI 280",
+  "vendor": "Welch Allyn",
+  "vendor_slug": "welch-allyn",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [
+   "us"
+  ],
+  "website": null,
+  "manual_ids": [
+   "welch-allyn-eli-280-user-manual"
+  ],
+  "notes": "Eletrocardiógrafo de repouso ELI 280; manual traz a mesma advertência regulatória americana da linha ELI.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "welch-allyn-eli-380",
+  "name": "ELI 380",
+  "vendor": "Welch Allyn",
+  "vendor_slug": "welch-allyn",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [
+   "us"
+  ],
+  "website": null,
+  "manual_ids": [
+   "welch-allyn-eli-380-user-manual-official"
+  ],
+  "notes": "Eletrocardiógrafo de repouso ELI 380; manual traz a mesma advertência regulatória americana da linha ELI.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "mortara-eli-230-welch-allyn",
+  "name": "ELI 230",
+  "vendor": "Welch Allyn (Mortara/Hillrom)",
+  "vendor_slug": "mortara",
+  "modalities": [
+   "resting-ecg"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition",
+   "review-analysis",
+   "reporting-signing"
+  ],
+  "markets": [
+   "us"
+  ],
+  "website": null,
+  "manual_ids": [
+   "mortara-eli-230-user-manual"
+  ],
+  "notes": "Eletrocardiógrafo de repouso ELI 230, vendido sob a marca Welch Allyn (Hillrom) embora fabricado com tecnologia Mortara; o manual declara explicitamente 'Manufactured by Welch Allyn, Inc.', então é tratado como produto distinto da linha ELI assinada Mortara.",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "zoll-m-series",
+  "name": "M Series",
+  "vendor": "Zoll Medical",
+  "vendor_slug": "zoll",
+  "modalities": [
+   "defibrillation",
+   "patient-monitoring"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "zoll-m-series-defibrillator-operators-guide"
+  ],
+  "notes": "Desfibrilador/monitor de emergência; cópia hospedada por um revendedor (AED Superstore), mas o conteúdo é o guia oficial da ZOLL (REF 9650-0200-01).",
+  "screen_count": 0,
+  "manual_count": 1
+ },
+ {
+  "id": "zoll-r-series",
+  "name": "R Series",
+  "vendor": "Zoll Medical",
+  "vendor_slug": "zoll",
+  "modalities": [
+   "defibrillation",
+   "patient-monitoring"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "zoll-r-series-als-operators-guide",
+   "zoll-r-series-defibrillator-operators-guide"
+  ],
+  "notes": "Verificado por leitura direta: os dois manuais são o mesmo documento (R Series Operator's Guide ALS, REF 9650-0912-01, mesmas revisões e mesmo texto de 'Indication of Use'). O arquivo 'zoll-r-series-defibrillator-operators-guide' é apenas uma cópia rehospedada por revendedor (AED Superstore) com título genérico diferente.",
+  "screen_count": 0,
+  "manual_count": 2
+ },
+ {
+  "id": "zoll-x-series",
+  "name": "X Series",
+  "vendor": "Zoll Medical",
+  "vendor_slug": "zoll",
+  "modalities": [
+   "defibrillation",
+   "patient-monitoring"
+  ],
+  "architectures": [
+   "embedded-firmware"
+  ],
+  "functions": [
+   "acquisition"
+  ],
+  "markets": [],
+  "website": null,
+  "manual_ids": [
+   "zoll-x-series-operators-guide"
+  ],
+  "notes": "Desfibrilador/monitor avançado da ZOLL com recursos Real CPR Help e See-Thru CPR (REF 9650-002355-01).",
+  "screen_count": 0,
+  "manual_count": 1
+ }
+]

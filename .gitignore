@@ -1,3 +1,19 @@
 .DS_Store
 .http.log
 .http.pid
+.superpowers/
+
+# pipeline: artefatos intermediarios, nao versionados
+pipeline/candidates/
+pipeline/renders/
+pipeline/state/
+pipeline/.cache/
+
+# web
+web/node_modules/
+web/.next/
+web/out/
+web/.env*.local
+
+__pycache__/
+*.pyc
