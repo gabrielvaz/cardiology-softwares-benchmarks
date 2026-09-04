@@ -1,0 +1,15 @@
+# Physiological Sensors Equipped in Wearable Devices for Management of Long COVID Persisting Symptoms: Scoping Review.
+
+- Authors: (see PubMed)
+- Year: 2025
+- Venue: Journal of medical Internet research
+- Link: https://doi.org/10.2196/69506
+- DOI: 10.2196/69506
+- Study type: Usability/UX study
+- Clinical context: ECG
+
+## Abstract
+
+BACKGROUND: Wearable technology has evolved in managing COVID-19, offering early monitoring of key physiological parameters. However, the role of wearables in tracking and managing long COVID is less understood and requires further exploration of their potential. OBJECTIVE: This review assessed the application and effectiveness of wearable devices in managing long COVID symptoms, focusing on commonly used sensors and their potential for improving long-term patient care. METHODS: A literature search was conducted across databases including PubMed, Embase, Web of Science, and Cochrane Central, adhering to PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) reporting guidelines. The search was updated regularly throughout 2024. Abstract and full-text screening and selection were facilitated using Rayyan software developed by Qatar Computing Research Institute. Quality appraisal was conducted using the Joanna Briggs Institute (JBI) critical appraisal tool to ensure the methodological rigor of the included studies. Data were extracted on study characteristics, wearable devices, sensors used, and monitored physiological parameters, and the results were synthesized in a narrative format. RESULTS: A total of 1186 articles were identified, and after duplicate removal and screening, 15 studies were initially included, with 11 studies meeting the criteria for final data synthesis. The included studies varied in design, ranging from observational to interventional trials, and involved sample sizes from 3 to 17,667 participants across different countries. In total, 10 different wearable devices were used to monitor long COVID symptoms, capturing key metrics such as heart rate variability, body temperature, sleep, and physical activity. Smartwatches were the most used wearable devices and fitness trackers with electrocardiography and photoplethysmography sensors were used to monitor heart rate, oxygen saturation, and respiratory rate. Of the 10 devices, 4 were Food and Drug Administration-approved, emphasizing the reliability and validation of the physiological data collected. Studies were primarily conducted in the United States and Europe, reflecting significant regional research interest in wearable technology for long COVID management. CONCLUSIONS: This review highlights the potential of wearable technology in providing continuous and personalized monitoring for long COVID patients. Although wearables show promise in tracking persistent symptoms, further research is needed to improve usability, validate long-term efficacy, and enhance patient engagement.
+
+Note: Full text not available for conversion; PDF not in PMC.

@@ -1,0 +1,15 @@
+# Evaluation of Telemetric Single-Lead Cardiac Transmitter and Apple Watch for Heart Rate Monitoring: Implications for Heart Failure Management in Home Care.
+
+- Authors: (see PubMed)
+- Year: 2025
+- Venue: Cureus
+- Link: https://doi.org/10.7759/cureus.80232
+- DOI: 10.7759/cureus.80232
+- Study type: Usability/UX study
+- Clinical context: ECG, Decision support
+
+## Abstract
+
+Objective The study aimed to investigate the usefulness of a telemetric single-lead cardiac transmitter and the Apple Watch 7 (2021 version; Apple Inc., Cupertino, CA, USA) for monitoring heart rate during activity. Methods A total of 15 healthy male adults aged 24-39 years were included in this study. A wireless radio frequency electrocardiogram (RF-ECG) was used as a reference, and heart rate was measured simultaneously with the Cocoron telemetric single-lead electrocardiograph (Nipro, Osaka, Japan, NC-1BLE) and Apple Watch 7. The mean absolute error (MAE), mean absolute percentage error (MAPE), and intraclass correlation coefficient were calculated from the difference in heart rate between the RF-ECG-based wearable, Cocoron, and Apple Watch 7 at each measurement time point. Bland-Altman plots were generated. Results A two-way analysis of variance for the MAPE of heart rate for the Cocoron and Apple Watch 7 based on RF-ECG showed that the MAPE of the Cocoron was significantly lower than that of the Apple Watch 7 (p=0.013). This result suggests that the Cocoron provides more accurate heart rate measurements compared to the Apple Watch 7. The Bland-Altman plot revealed that the MAPE was 2.39%, 3.30%, and 3.27% for the Cocoron during supine, seated, and walking positions, respectively, and 2.26%, 3.71%, and 5.82% for the Apple Watch 7, with significantly higher values for walking compared to supine and seated. A tendency to overestimate the limits of agreement (LOA) was observed for a wider range of LOA, with the Apple Watch 7 showing a particularly large LOA upper limit of 12.02 during ambulation. This visually indicates a tendency to overestimate the heart rate during movement. This larger error is likely due to motion artifacts inherent in the wrist-based photoplethysmography (PPG) method used by the Apple Watch, which could compromise its usability in dynamic settings. Conclusions The Cocoron telemetric single-lead electrocardiograph transmitter measured heart rate with less error than the Apple Watch 7. During ambulation, the Apple Watch 7 had a larger error than the supine and seated positions, whereas the Cocoron had a smaller error. Since accurate and continuous heart rate monitoring is critical for the effective management of heart failure, these findings imply that devices with superior measurement accuracy, like the Cocoron, could improve clinical decision-making and patient outcomes. However, it is important to note that further studies involving heart failure patients are needed to confirm these implications in a clinical setting.
+
+Note: Full text not available for conversion; PDF not in PMC.
