@@ -1,0 +1,5 @@
+[
+  {"crop_id": "schiller-sema-200-data-management-brochure-p0001-1", "is_ui_screenshot": true, "pattern": "patient-registration", "modalities": ["resting-ecg"], "caption": "Patient search and record selection screen on a SEMA-200 workstation, listing patients by name with a list of their stored recordings.", "confidence": 0.65},
+  {"crop_id": "schiller-sema-200-data-management-brochure-p0002-1", "is_ui_screenshot": true, "pattern": "stress-test", "modalities": ["stress-test"], "caption": "Exercise ECG stress test screen on a SEMA-200 workstation, showing heart rate and blood pressure trend charts alongside workload and recovery time measurements.", "confidence": 0.45},
+  {"crop_id": "schiller-sema-200-data-management-brochure-p0004-1", "is_ui_screenshot": false, "reject_reason": "hardware-photo"}
+]

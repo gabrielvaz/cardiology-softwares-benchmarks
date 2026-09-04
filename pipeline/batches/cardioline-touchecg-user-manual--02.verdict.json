@@ -1,0 +1,177 @@
+[
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0054-1",
+    "is_ui_screenshot": true,
+    "pattern": "live-acquisition",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "QA Override button enabled Note: The temporary storage capacity is 30 minutes. Once exhausted, touchECG deletes the first minute and",
+    "confidence": 0.55
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0055-1",
+    "is_ui_screenshot": true,
+    "pattern": "ecg-viewer",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Display in Review mode",
+    "confidence": 0.85
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0056-1",
+    "is_ui_screenshot": true,
+    "pattern": "ecg-viewer",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Saving registration",
+    "confidence": 0.55
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0056-2",
+    "is_ui_screenshot": true,
+    "pattern": "ecg-viewer",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Selecting 10s of trace",
+    "confidence": 0.6
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0060-1",
+    "is_ui_screenshot": true,
+    "pattern": "measurements-interpretation",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Examination preview window with Full user interface",
+    "confidence": 0.7
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0061-1",
+    "is_ui_screenshot": true,
+    "pattern": "measurements-interpretation",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "The preview window with Quick user interface Windows",
+    "confidence": 0.7
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0065-1",
+    "is_ui_screenshot": true,
+    "pattern": "report-editor",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Window for editing the interpretation",
+    "confidence": 0.65
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0069-1",
+    "is_ui_screenshot": true,
+    "pattern": "search-filters",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Examinations archive window",
+    "confidence": 0.75
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0073-1",
+    "is_ui_screenshot": true,
+    "pattern": "worklist",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Work List display window",
+    "confidence": 0.9
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0074-1",
+    "is_ui_screenshot": true,
+    "pattern": "search-filters",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Examinations archive window",
+    "confidence": 0.75
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0076-1",
+    "is_ui_screenshot": true,
+    "pattern": "connectivity-integration",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "GDT settings",
+    "confidence": 0.85
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0077-1",
+    "is_ui_screenshot": true,
+    "pattern": "connectivity-integration",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Cardioline connectivity settings",
+    "confidence": 0.85
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0079-1",
+    "is_ui_screenshot": true,
+    "pattern": "connectivity-integration",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "XML settings",
+    "confidence": 0.85
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0079-2",
+    "is_ui_screenshot": true,
+    "pattern": "connectivity-integration",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Text file settings Windows",
+    "confidence": 0.8
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0081-1",
+    "is_ui_screenshot": true,
+    "pattern": "settings",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Settings Window",
+    "confidence": 0.9
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0089-1",
+    "is_ui_screenshot": true,
+    "pattern": "login-auth",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Windows",
+    "confidence": 0.75
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0092-1",
+    "is_ui_screenshot": false,
+    "reject_reason": "other"
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0094-1",
+    "is_ui_screenshot": true,
+    "pattern": "settings",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Settings window – LICENSE tab",
+    "confidence": 0.9
+  }
+]

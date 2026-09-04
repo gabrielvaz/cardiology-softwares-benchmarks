@@ -1,0 +1,62 @@
+{
+ "batch_id": "cardiolex-ec-store-ecg-management-brochure-2023--01",
+ "manual": {
+  "id": "cardiolex-ec-store-ecg-management-brochure-2023",
+  "title": "Cardiolex EC Store ECG management brochure 2023",
+  "vendor_slug": "cardiolex",
+  "pages": 4,
+  "doc_type": "brochure",
+  "lang": "en"
+ },
+ "crops": [
+  {
+   "crop_id": "cardiolex-ec-store-ecg-management-brochure-2023-p0001-1",
+   "image": "pipeline/candidates/cardiolex-ec-store-ecg-management-brochure-2023/cardiolex-ec-store-ecg-management-brochure-2023-p0001-1.png",
+   "page": 1,
+   "caption": null,
+   "context_above": null
+  },
+  {
+   "crop_id": "cardiolex-ec-store-ecg-management-brochure-2023-p0001-2",
+   "image": "pipeline/candidates/cardiolex-ec-store-ecg-management-brochure-2023/cardiolex-ec-store-ecg-management-brochure-2023-p0001-2.png",
+   "page": 1,
+   "caption": null,
+   "context_above": "ECG Management System"
+  },
+  {
+   "crop_id": "cardiolex-ec-store-ecg-management-brochure-2023-p0001-3",
+   "image": "pipeline/candidates/cardiolex-ec-store-ecg-management-brochure-2023/cardiolex-ec-store-ecg-management-brochure-2023-p0001-3.png",
+   "page": 1,
+   "caption": null,
+   "context_above": null
+  },
+  {
+   "crop_id": "cardiolex-ec-store-ecg-management-brochure-2023-p0001-4",
+   "image": "pipeline/candidates/cardiolex-ec-store-ecg-management-brochure-2023/cardiolex-ec-store-ecg-management-brochure-2023-p0001-4.png",
+   "page": 1,
+   "caption": null,
+   "context_above": null
+  },
+  {
+   "crop_id": "cardiolex-ec-store-ecg-management-brochure-2023-p0001-5",
+   "image": "pipeline/candidates/cardiolex-ec-store-ecg-management-brochure-2023/cardiolex-ec-store-ecg-management-brochure-2023-p0001-5.png",
+   "page": 1,
+   "caption": null,
+   "context_above": "ECG Management System"
+  },
+  {
+   "crop_id": "cardiolex-ec-store-ecg-management-brochure-2023-p0001-6",
+   "image": "pipeline/candidates/cardiolex-ec-store-ecg-management-brochure-2023/cardiolex-ec-store-ecg-management-brochure-2023-p0001-6.png",
+   "page": 1,
+   "caption": null,
+   "context_above": "ECG Management System"
+  },
+  {
+   "crop_id": "cardiolex-ec-store-ecg-management-brochure-2023-p0004-1",
+   "image": "pipeline/candidates/cardiolex-ec-store-ecg-management-brochure-2023/cardiolex-ec-store-ecg-management-brochure-2023-p0004-1.png",
+   "page": 4,
+   "caption": null,
+   "context_above": "Cardiolex Group offers complete ECG-solutions, Cardiolex Medical is a Swedish company with ECG- focusing on digital workflow, ease of use and products on the market since 2007. supplier-independent systems. We offer efficient and user-friendly solutions, which The broad product portfolio of Cardiolex Group, are developed in close collaboration with our provides scalable and flexible solutions that suit customers. Our digital offering is flexible, reliable, both larger hospitals and smaller care providers. secure - and completely paperless."
+  }
+ ]
+}

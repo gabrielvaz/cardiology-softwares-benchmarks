@@ -17,3 +17,6 @@ web/.env*.local
 
 __pycache__/
 *.pyc
+
+# local dev asset mirror (real assets are served from the repo via CDN)
+web/public/assets/

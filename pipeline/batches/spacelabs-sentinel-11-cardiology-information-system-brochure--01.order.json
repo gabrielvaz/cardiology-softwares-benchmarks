@@ -1,0 +1,55 @@
+{
+ "batch_id": "spacelabs-sentinel-11-cardiology-information-system-brochure--01",
+ "manual": {
+  "id": "spacelabs-sentinel-11-cardiology-information-system-brochure",
+  "title": "Spacelabs Sentinel 11 cardiology information system brochure",
+  "vendor_slug": "spacelabs",
+  "pages": 6,
+  "doc_type": "brochure",
+  "lang": "en"
+ },
+ "crops": [
+  {
+   "crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0001-1",
+   "image": "pipeline/candidates/spacelabs-sentinel-11-cardiology-information-system-brochure/spacelabs-sentinel-11-cardiology-information-system-brochure-p0001-1.png",
+   "page": 1,
+   "caption": "Cardiology Information Management System",
+   "context_above": null
+  },
+  {
+   "crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0002-1",
+   "image": "pipeline/candidates/spacelabs-sentinel-11-cardiology-information-system-brochure/spacelabs-sentinel-11-cardiology-information-system-brochure-p0002-1.png",
+   "page": 2,
+   "caption": null,
+   "context_above": "• Access batch review of reports via the web or on mobile devices, including physician report entry and confirmation."
+  },
+  {
+   "crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0002-2",
+   "image": "pipeline/candidates/spacelabs-sentinel-11-cardiology-information-system-brochure/spacelabs-sentinel-11-cardiology-information-system-brochure-p0002-2.png",
+   "page": 2,
+   "caption": "Cardiology",
+   "context_above": "Critical Information at your fingertips Sentinel’s web-based architecture and mobile platform support provides immediate access to complete patient"
+  },
+  {
+   "crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0004-1",
+   "image": "pipeline/candidates/spacelabs-sentinel-11-cardiology-information-system-brochure/spacelabs-sentinel-11-cardiology-information-system-brochure-p0004-1.png",
+   "page": 4,
+   "caption": null,
+   "context_above": "• Utilize ‘Test Centric’ workflows to manage all activities in one screen, with minimal navigation. • Track patient throughput, using Sentinel’s ‘Patient Centric’ workflow to manage multiple tests or activities from the patient record."
+  },
+  {
+   "crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0004-2",
+   "image": "pipeline/candidates/spacelabs-sentinel-11-cardiology-information-system-brochure/spacelabs-sentinel-11-cardiology-information-system-brochure-p0004-2.png",
+   "page": 4,
+   "caption": "Getting you to the Heart of the matter",
+   "context_above": "Easy Control of Your Workflow"
+  },
+  {
+   "crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0005-1",
+   "image": "pipeline/candidates/spacelabs-sentinel-11-cardiology-information-system-brochure/spacelabs-sentinel-11-cardiology-information-system-brochure-p0005-1.png",
+   "page": 5,
+   "caption": null,
+   "context_above": "Sentinel"
+  }
+ ]
+}

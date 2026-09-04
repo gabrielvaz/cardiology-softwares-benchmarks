@@ -1,0 +1,125 @@
+{
+ "batch_id": "schiller-cs-200-service-handbook--01",
+ "manual": {
+  "id": "schiller-cs-200-service-handbook",
+  "title": "C:\\TEMP PRINT\\CS-200 2.540013\\c",
+  "vendor_slug": "schiller",
+  "pages": 116,
+  "doc_type": "service-manual",
+  "lang": "en"
+ },
+ "crops": [
+  {
+   "crop_id": "schiller-cs-200-service-handbook-p0012-1",
+   "image": "pipeline/candidates/schiller-cs-200-service-handbook/schiller-cs-200-service-handbook-p0012-1.png",
+   "page": 12,
+   "caption": "1 Display Monitor 2 Mouse 3 Trackball 4 Floppy Disk Drive 5 Storage Drawers",
+   "context_above": "Chapter 1 SCHILLER CS-200 Diagnostic Workstation Operating Elements SERVICE HANDBOOK Issue d October 2001 Physical Layout"
+  },
+  {
+   "crop_id": "schiller-cs-200-service-handbook-p0019-1",
+   "image": "pipeline/candidates/schiller-cs-200-service-handbook/schiller-cs-200-service-handbook-p0019-1.png",
+   "page": 19,
+   "caption": null,
+   "context_above": "° Press the return icon ° Select `Main menu` option in the Patient menu ° Press the ESC key on the keyboard The patient / record selection screen is displayed:"
+  },
+  {
+   "crop_id": "schiller-cs-200-service-handbook-p0020-1",
+   "image": "pipeline/candidates/schiller-cs-200-service-handbook/schiller-cs-200-service-handbook-p0020-1.png",
+   "page": 20,
+   "caption": "Page 1.12",
+   "context_above": "Use the mouse or trackball to select required patient. A list of all recorded ECGs for that patient is displayed in the right table. You can view a specific recording by highlighting a recording and double-clicking with the left mouse button. Alternatively click on the View icon at the top of the screen. Tip When the R ECG or Ex ECG icon is pressed with a patient selected in this screen, the ECG screen is displayed and the patient data automatically entered."
+  },
+  {
+   "crop_id": "schiller-cs-200-service-handbook-p0021-1",
+   "image": "pipeline/candidates/schiller-cs-200-service-handbook/schiller-cs-200-service-handbook-p0021-1.png",
+   "page": 21,
+   "caption": null,
+   "context_above": "• Select from the patient menu"
+  },
+  {
+   "crop_id": "schiller-cs-200-service-handbook-p0022-1",
+   "image": "pipeline/candidates/schiller-cs-200-service-handbook/schiller-cs-200-service-handbook-p0022-1.png",
+   "page": 22,
+   "caption": "When all patient data have been checked, finish with OK. The resting ECG screen is displayed.",
+   "context_above": "• Select from the Examinations menu OR • Select and click the Resting ECG icon When the RECG has been selected, the patient / recording data is displayed, enabling last minute editing of patient data."
+  },
+  {
+   "crop_id": "schiller-cs-200-service-handbook-p0023-1",
+   "image": "pipeline/candidates/schiller-cs-200-service-handbook/schiller-cs-200-service-handbook-p0023-1.png",
+   "page": 23,
+   "caption": null,
+   "context_above": "item move the track ball (or the mouse) so that the cursor is placed over the item and click with the left button."
+  },
+  {
+   "crop_id": "schiller-cs-200-service-handbook-p0024-1",
+   "image": "pipeline/candidates/schiller-cs-200-service-handbook/schiller-cs-200-service-handbook-p0024-1.png",
+   "page": 24,
+   "caption": "Average Screen Rhythm Screen",
+   "context_above": "Chapter 1 SCHILLER CS-200 Diagnostic Workstation Operating Elements SERVICE HANDBOOK Issue d October 2001 Typical Resting ECG Screens"
+  },
+  {
+   "crop_id": "schiller-cs-200-service-handbook-p0025-1",
+   "image": "pipeline/candidates/schiller-cs-200-service-handbook/schiller-cs-200-service-handbook-p0025-1.png",
+   "page": 25,
+   "caption": "Acquisition",
+   "context_above": "Exercise ECG Screen When in another screen the Exercise ECG can be entered in any of the following ways: • Press function key F11 OR • Select and click the Exercise ECG icon"
+  },
+  {
+   "crop_id": "schiller-cs-200-service-handbook-p0026-1",
+   "image": "pipeline/candidates/schiller-cs-200-service-handbook/schiller-cs-200-service-handbook-p0026-1.png",
+   "page": 26,
+   "caption": "Average",
+   "context_above": "Chapter 1 SCHILLER CS-200 Diagnostic Workstation Operating Elements SERVICE HANDBOOK Issue d October 2001 Typical Exercise ECG Screens Final Report / Stored ECG Main"
+  },
+  {
+   "crop_id": "schiller-cs-200-service-handbook-p0026-2",
+   "image": "pipeline/candidates/schiller-cs-200-service-handbook/schiller-cs-200-service-handbook-p0026-2.png",
+   "page": 26,
+   "caption": "Page 1.18",
+   "context_above": "Average"
+  },
+  {
+   "crop_id": "schiller-cs-200-service-handbook-p0027-1",
+   "image": "pipeline/candidates/schiller-cs-200-service-handbook/schiller-cs-200-service-handbook-p0027-1.png",
+   "page": 27,
+   "caption": "ST Measurements",
+   "context_above": "SCHILLER CS-200 Diagnostic Workstation Chapter 1 SERVICE HANDBOOK Issue d October 2001 Operating Elements Typical Exercise ECG Screens (cont.) ST Graph"
+  },
+  {
+   "crop_id": "schiller-cs-200-service-handbook-p0027-2",
+   "image": "pipeline/candidates/schiller-cs-200-service-handbook/schiller-cs-200-service-handbook-p0027-2.png",
+   "page": 27,
+   "caption": "Page 1.19",
+   "context_above": "ST Measurements"
+  },
+  {
+   "crop_id": "schiller-cs-200-service-handbook-p0028-1",
+   "image": "pipeline/candidates/schiller-cs-200-service-handbook/schiller-cs-200-service-handbook-p0028-1.png",
+   "page": 28,
+   "caption": null,
+   "context_above": "Chapter 1 SCHILLER CS-200 Diagnostic Workstation Operating Elements SERVICE HANDBOOK Issue d October 2001 Typical Exercise ECG Screens (cont.) Full Disclosure"
+  },
+  {
+   "crop_id": "schiller-cs-200-service-handbook-p0053-1",
+   "image": "pipeline/candidates/schiller-cs-200-service-handbook/schiller-cs-200-service-handbook-p0053-1.png",
+   "page": 53,
+   "caption": "3. Click OK to get back to the main menu. 4. In the \"System\" submenu, select \"Settings / CS-200 / Set options\". The CS-200 prompts you for an upgrade code.",
+   "context_above": "All pure software options are already prepared in the instrument. They can be activated by entering an upgrade code. 1. In the main menu, click on the \"System\" submenu and select \"Settings / CS-200 / Show options\". 2. The screen shows which options are available and which ones are activated."
+  },
+  {
+   "crop_id": "schiller-cs-200-service-handbook-p0059-1",
+   "image": "pipeline/candidates/schiller-cs-200-service-handbook/schiller-cs-200-service-handbook-p0059-1.png",
+   "page": 59,
+   "caption": "2. Select Drive C: and Start Defragmentation",
+   "context_above": "4. Wait about a minute and then restart the computer Defragmentation Every now and then it is recommended to defragment the hard disk, especially when program files have been deleted or several errors have occurred. This will organise the memory position on the disk and make the system faster. 1. Click on \"Start\" and select \"Programs / Accessories / System Tools / Disk Defragmenter\""
+  },
+  {
+   "crop_id": "schiller-cs-200-service-handbook-p0060-1",
+   "image": "pipeline/candidates/schiller-cs-200-service-handbook/schiller-cs-200-service-handbook-p0060-1.png",
+   "page": 60,
+   "caption": "2. Select Drive C: and mark the box \"Automatically fix errors\". There are two versions of the ScanDisk program: - Standard This takes about 2 minutes and is normally sufficient. - Thorough This is recommended when several or severe errors have occurred. Can take up to 30 minutes.",
+   "context_above": "ScanDisk When disk errors have occurred,or when, for example, the system was shut down without following the normal Windows procedures, it is recommended to run the program \"ScanDisk\". Newer versions of Windows 95 will do this automatically during a re-start. 1. In the Windows 95 desktop, click on \"Start\" and select \"Programs / Accessories / System Tools / ScanDisk\"."
+  }
+ ]
+}

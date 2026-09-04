@@ -1,0 +1,253 @@
+[
+ {
+  "study_id": "pmid40771651_an-electrocardiogram-foundation-model-built-on-over-10-million-recordings",
+  "design": "algorithm-development",
+  "topics": [
+   "ai-algorithm",
+   "diagnostic-accuracy"
+  ],
+  "n": 1818247,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": "AUROC of the ECGFounder foundation model across diagnoses on internal/external validation, and fine-tuned performance vs baseline models",
+  "result": "AUROC >0.95 for 80 diagnoses on internal validation with strong generalization on external sets; fine-tuned model outperformed baseline methods by 3-5 AUROC points across demographic analysis, clinical event detection, and cross-modality rhythm diagnosis.",
+  "has_quantitative_data": true
+ },
+ {
+  "study_id": "pmid37972482_a-pediatric-telecardiology-system-that-facilitates-integration-between-hospital-",
+  "design": "pilot",
+  "topics": [
+   "telemedicine",
+   "usability",
+   "workflow"
+  ],
+  "n": 158,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": "connection problems reported by 2.8% of respondents; reliability concerns by 3.7%",
+  "devices": [
+   "ECG acquisition unit",
+   "tablet-based telemedicine platform"
+  ],
+  "product_ids": [],
+  "metric": "Technical success rate of ECG transmission/reporting and user-experience survey for a pediatric telecardiology system",
+  "result": "158 children screened; ECG transmission and reporting completed successfully in all cases; 90% of respondents were very satisfied or satisfied; 70.8% of respondents completed the full survey.",
+  "has_quantitative_data": true
+ },
+ {
+  "study_id": "pmid38351092_assessment-of-novel-electrophysiology-simulator-a-survey-study",
+  "design": "survey",
+  "topics": [
+   "education",
+   "usability"
+  ],
+  "n": 40,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [
+   "online electrophysiology (EP) simulator"
+  ],
+  "product_ids": [],
+  "metric": "Survey-based assessment of realism, usability and educational value of an online EP training simulator",
+  "result": "90% rated ECG signal realism excellent/very good (82.5% for intracardiac signals); 97.5% would include it in EP training programs; 100% would recommend it.",
+  "has_quantitative_data": true
+ },
+ {
+  "study_id": "pmid38494981_the-use-of-cognitive-load-theory-to-assist-in-the-teaching-of-electrocardiogram-",
+  "design": "other",
+  "topics": [
+   "education"
+  ],
+  "n": null,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": null,
+  "result": "Conceptual/opinion article applying cognitive load theory to teaching ECG interpretation in paramedical education; no empirical data reported.",
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid38559665_detection-of-arousal-and-valence-from-facial-expressions-and-physiological-respo",
+  "design": "algorithm-development",
+  "topics": [
+   "not-relevant"
+  ],
+  "n": 51,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": "Classification accuracy of arousal/valence detection models using video, ECG and EDA data",
+  "result": "Video-physio models distinguished high/low arousal and valence better than unimodal models, and arousal was classified better than valence; no specific accuracy percentages given. Affective-computing study using ECG only as an ancillary signal, not a cardiology software study.",
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid39016192_research-on-identification-of-flight-cadets-cognitive-load-based-on-multi-source",
+  "design": "algorithm-development",
+  "topics": [
+   "not-relevant"
+  ],
+  "n": null,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": "Accuracy of a CGAN-DBN model identifying flight cadets' cognitive load from multi-source physiological data (eye movement, ECG, respiration)",
+  "result": "Model reported to achieve 'high accuracy' for cognitive-load identification; no specific accuracy value given in the abstract. Aviation human-factors study using ECG as one of several ancillary signals, not a cardiology software study.",
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid39056249_low-cost-portable-eeg-device-for-bridging-the-diagnostic-gap-in-resource-limited",
+  "design": "usability-test",
+  "topics": [
+   "not-relevant"
+  ],
+  "n": 10,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [
+   "low-cost portable EEG system (27-channel EEG + ECG)"
+  ],
+  "product_ids": [],
+  "metric": "SUS and signal-quality assessment of a low-cost, app-guided portable EEG system used by inexperienced users",
+  "result": "SUS score 90.3 +/- 6.8 reported by 10 inexperienced users, with an average signal-quality rating of 8.04 and no recordings of insufficient quality; this evaluates an EEG epilepsy-diagnosis system (ECG is only an accompanying channel), not cardiology software.",
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid39550029_wacardia-graphical-matlab-software-for-wireless-assessment-of-cardiac-interocept",
+  "design": "algorithm-development",
+  "topics": [
+   "signal-processing"
+  ],
+  "n": null,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [
+   "wireless electrocardiogram device"
+  ],
+  "product_ids": [],
+  "metric": null,
+  "result": "Describes WACARDIA, free open-source MATLAB/Psychtoolbox software for the heartbeat-detection interoceptive-accuracy task, with a wireless-ECG interface, GUIs, and measurement fail-safes; no quantitative usability or accuracy results reported in the abstract.",
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid39550871_assessing-operator-stress-in-collaborative-robotics-a-multimodal-approach",
+  "design": "cross-sectional",
+  "topics": [
+   "not-relevant"
+  ],
+  "n": null,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": "Alignment between physiological parameters (EEG, ECG/HRV, GSR) and subjective stress (NASA-TLX) during cobot programming tasks",
+  "result": "Highest alignment with subjective stress: EEG Theta 76.67%, GSR recovery time 72.86%, HRV PNN25 71.58%; raw RR intervals were least accurate (42.11%). Human-robot collaboration ergonomics study, not a cardiology software study.",
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid39681904_usability-of-simplified-audiometry-and-electrocardiogram-during-treatment-of-dru",
+  "design": "other",
+  "topics": [
+   "usability",
+   "human-factors",
+   "device-validation"
+  ],
+  "n": 107,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [
+   "SmartHeart Pro ECG",
+   "SHOEBOX Audiometer"
+  ],
+  "product_ids": [],
+  "metric": "Qualitative themes on usability of simplified ECG and audiometry devices among healthcare providers and DR-TB patients",
+  "result": "16 healthcare providers and 91 people with drug-resistant tuberculosis were interviewed; providers understood the importance of ECG monitoring but lacked confidence managing the devices and interpreting results; limited device numbers and training were cited as barriers.",
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid39796963_cardiac-function-and-fatigue-during-exoskeleton-assisted-sit-to-stand-maneuver-a",
+  "design": "pilot",
+  "topics": [
+   "not-relevant"
+  ],
+  "n": 5,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [
+   "UAN.GO exoskeleton",
+   "OPTIGO walker"
+  ],
+  "product_ids": [],
+  "metric": "Cardiac function (heart rate, R-R interval from ECG) and workload (NASA-TLX) during exoskeleton-assisted gait vs walking without exoskeleton",
+  "result": "No significant difference in heart rate/R-R ECG data across conditions; NASA-TLX largely unchanged except one comparison. Exoskeleton rehabilitation study using ECG as a safety measure, not a cardiology software study.",
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid39899443_takeover-performance-prediction-model-considering-cognitive-load-analysis-of-sub",
+  "design": "algorithm-development",
+  "topics": [
+   "not-relevant"
+  ],
+  "n": null,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": "Improvement in driver takeover-performance prediction accuracy (GA-BP vs BP neural network) using eye-movement and ECG data",
+  "result": "At the 10 s time window, the GA-BP model improved accuracy by 5.51%, recall by 7.08%, precision by 6.19% and F1 by 9.71% vs the baseline model. Driving-simulation human-factors study using ECG as an ancillary signal, not a cardiology software study.",
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid40031484_can-heart-rate-variability-demonstrate-progression-of-mindfulness-through-two-we",
+  "design": "cohort",
+  "topics": [
+   "not-relevant"
+  ],
+  "n": 46,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [
+   "Holter monitor"
+  ],
+  "product_ids": [],
+  "metric": "Change in HRV metrics (parasympathetic activity) across two weeks of mindfulness practice, experienced (n=20) vs novice (n=26) practitioners",
+  "result": "Experienced practitioners showed significantly increased, stable parasympathetic activity across practice; novices showed high cognitive load with inconspicuous progressive effects; no specific HRV values reported. A mindfulness/psychophysiology study, not a cardiology software study.",
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid40092494_a-pilot-study-of-the-home-based-12-lead-electrocardiogram-in-clinical-practice",
+  "design": "pilot",
+  "topics": [
+   "usability",
+   "telemedicine",
+   "device-validation"
+  ],
+  "n": 10,
+  "sus_score": null,
+  "task_time": "median 51 minutes per telephone appointment with an ECG technician; average 2.2 attempts to record a usable ECG",
+  "error_rate": "2/10 patients unable to obtain a diagnostic-quality ECG",
+  "devices": [
+   "Smeartheart 12-lead ECG device"
+  ],
+  "product_ids": [],
+  "metric": "Feasibility and efficiency of home-based 12-lead ECG acquisition prior to a telehealth cardiology appointment",
+  "result": "8/10 patients obtained a diagnostic-quality ECG; median technician call time 51 minutes; average 2.2 attempts needed; barriers included internet access, training materials, and motion artifact.",
+  "has_quantitative_data": true
+ }
+]

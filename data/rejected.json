@@ -1,0 +1,232 @@
+[
+ {
+  "crop_id": "cardiolex-ec-store-ecg-management-brochure-2023-p0001-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "printed-trace"
+ },
+ {
+  "crop_id": "cardiolex-ec-store-ecg-management-brochure-2023-p0001-2",
+  "is_ui_screenshot": false,
+  "reject_reason": "hardware-photo"
+ },
+ {
+  "crop_id": "cardiolex-ec-store-ecg-management-brochure-2023-p0001-3",
+  "is_ui_screenshot": false,
+  "reject_reason": "hardware-photo"
+ },
+ {
+  "crop_id": "cardiolex-ec-store-ecg-management-brochure-2023-p0001-5",
+  "is_ui_screenshot": false,
+  "reject_reason": "hardware-photo"
+ },
+ {
+  "crop_id": "cardiolex-ec-store-ecg-management-brochure-2023-p0001-6",
+  "is_ui_screenshot": false,
+  "reject_reason": "hardware-photo"
+ },
+ {
+  "crop_id": "cardiolex-ec-store-ecg-management-brochure-2023-p0004-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "printed-trace"
+ },
+ {
+  "crop_id": "cardiolex-ec-store-ecg-management-brochure-v21-p0001-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "printed-trace"
+ },
+ {
+  "crop_id": "cardiolex-ec-store-ecg-management-brochure-v21-p0001-2",
+  "is_ui_screenshot": false,
+  "reject_reason": "hardware-photo"
+ },
+ {
+  "crop_id": "cardiolex-ec-store-ecg-management-brochure-v21-p0001-3",
+  "is_ui_screenshot": false,
+  "reject_reason": "hardware-photo"
+ },
+ {
+  "crop_id": "cardiolex-ec-store-ecg-management-brochure-v21-p0001-5",
+  "is_ui_screenshot": false,
+  "reject_reason": "hardware-photo"
+ },
+ {
+  "crop_id": "cardiolex-ec-store-ecg-management-brochure-v21-p0001-6",
+  "is_ui_screenshot": false,
+  "reject_reason": "hardware-photo"
+ },
+ {
+  "crop_id": "cardioline-touchecg-user-manual-p0025-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "logo-or-branding"
+ },
+ {
+  "crop_id": "cardioline-touchecg-user-manual-p0037-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "electrode-diagram"
+ },
+ {
+  "crop_id": "cardioline-touchecg-user-manual-p0040-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "electrode-diagram"
+ },
+ {
+  "crop_id": "cardioline-touchecg-user-manual-p0040-2",
+  "is_ui_screenshot": false,
+  "reject_reason": "electrode-diagram"
+ },
+ {
+  "crop_id": "cardioline-touchecg-user-manual-p0092-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "other"
+ },
+ {
+  "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0033-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "illustration"
+ },
+ {
+  "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0048-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "illustration"
+ },
+ {
+  "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0051-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "electrode-diagram"
+ },
+ {
+  "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0053-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "electrode-diagram"
+ },
+ {
+  "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0307-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "chart-or-graph"
+ },
+ {
+  "crop_id": "meditech-pcs-5.67-software-user-manual-p0027-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "table-or-text"
+ },
+ {
+  "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0001-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "hardware-photo"
+ },
+ {
+  "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0037-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "hardware-photo"
+ },
+ {
+  "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0041-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "hardware-photo"
+ },
+ {
+  "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0046-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "hardware-photo"
+ },
+ {
+  "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0051-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "hardware-photo"
+ },
+ {
+  "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0142-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "printed-trace"
+ },
+ {
+  "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0142-2",
+  "is_ui_screenshot": false,
+  "reject_reason": "printed-trace"
+ },
+ {
+  "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0143-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "printed-trace"
+ },
+ {
+  "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0144-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "printed-trace"
+ },
+ {
+  "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0144-2",
+  "is_ui_screenshot": false,
+  "reject_reason": "printed-trace"
+ },
+ {
+  "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0145-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "printed-trace"
+ },
+ {
+  "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0145-2",
+  "is_ui_screenshot": false,
+  "reject_reason": "printed-trace"
+ },
+ {
+  "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0146-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "printed-trace"
+ },
+ {
+  "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0146-2",
+  "is_ui_screenshot": false,
+  "reject_reason": "printed-trace"
+ },
+ {
+  "crop_id": "schiller-cs-200-service-handbook-p0012-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "hardware-photo"
+ },
+ {
+  "crop_id": "schiller-cs-200-service-handbook-p0059-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "other"
+ },
+ {
+  "crop_id": "schiller-cs-200-service-handbook-p0060-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "other"
+ },
+ {
+  "crop_id": "schiller-sema-200-data-management-brochure-p0004-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "hardware-photo"
+ },
+ {
+  "crop_id": "schiller-sema-data-management-brochure-2024-p0002-2",
+  "is_ui_screenshot": false,
+  "reject_reason": "illustration"
+ },
+ {
+  "crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0001-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "logo-or-branding"
+ },
+ {
+  "crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0002-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "printed-trace"
+ },
+ {
+  "crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0004-2",
+  "is_ui_screenshot": false,
+  "reject_reason": "hardware-photo"
+ },
+ {
+  "crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0005-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "hardware-photo"
+ },
+ {
+  "crop_id": "spacelabs-sentinel-cardiology-information-system-overview-p0003-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "illustration"
+ }
+]

@@ -1,0 +1,146 @@
+{
+ "batch_id": "meditech-pcs-5.67-software-user-manual--01",
+ "manual": {
+  "id": "meditech-pcs-5.67-software-user-manual",
+  "title": "PCS - User Manual - Meditech 5.67",
+  "vendor_slug": "meditech-ehr",
+  "pages": 38,
+  "doc_type": "user-manual",
+  "lang": "en"
+ },
+ "crops": [
+  {
+   "crop_id": "meditech-pcs-5.67-software-user-manual-p0007-1",
+   "image": "pipeline/candidates/meditech-pcs-5.67-software-user-manual/meditech-pcs-5.67-software-user-manual-p0007-1.png",
+   "page": 7,
+   "caption": "2. The available Meditech module list will appear. Choose the PCS Module from the list. 3. Choose Status Board",
+   "context_above": "Some TEST instances do not allow access using personalized username/number. To access TEST, you will have to log in with a generic access name. Contact support for assistance. Accessing PCS 1. Choose your location:"
+  },
+  {
+   "crop_id": "meditech-pcs-5.67-software-user-manual-p0007-2",
+   "image": "pipeline/candidates/meditech-pcs-5.67-software-user-manual/meditech-pcs-5.67-software-user-manual-p0007-2.png",
+   "page": 7,
+   "caption": "b. Depending on your access, you may have several choices displayed. Choose the appropriate HCIS for your location or appropriate TEST instance. NOTE: Some TEST instances do not allow access using personalized username/number. To access",
+   "context_above": "PCS Manual 5.67"
+  },
+  {
+   "crop_id": "meditech-pcs-5.67-software-user-manual-p0008-1",
+   "image": "pipeline/candidates/meditech-pcs-5.67-software-user-manual/meditech-pcs-5.67-software-user-manual-p0008-1.png",
+   "page": 8,
+   "caption": "NOTE: What displays will vary depending on the user configuration. 4. The PCS Status Board will now display.",
+   "context_above": "PCS Manual 5.67"
+  },
+  {
+   "crop_id": "meditech-pcs-5.67-software-user-manual-p0011-1",
+   "image": "pipeline/candidates/meditech-pcs-5.67-software-user-manual/meditech-pcs-5.67-software-user-manual-p0011-1.png",
+   "page": 11,
+   "caption": "Status Bar Tool Bar The toolbar to the right of the Status Board remains constant throughout the PCS Routines and is described on Page 8. Accessing the Status Board",
+   "context_above": "PCS Manual 5.67 you work. Select “Select Status Board” at the bottom of your screen to access one of your other choices."
+  },
+  {
+   "crop_id": "meditech-pcs-5.67-software-user-manual-p0012-1",
+   "image": "pipeline/candidates/meditech-pcs-5.67-software-user-manual/meditech-pcs-5.67-software-user-manual-p0012-1.png",
+   "page": 12,
+   "caption": "An arrow in the column header is to show you if it is an ascending sort-pointing downward, or descending sort-pointing upward. Arrow in the row: makes you aware of other pertinent information. E.g. Physician name will also contain: name/type, phone/fax.",
+   "context_above": "the column header. The status board is refreshed with the list displaying alphabetically and a small arrow appears in the Resident Name box to indicate this is how the list is sorted. If you would like to sort by Room-Bed, as displayed below, click on the Room-Bed box. If sorting by Interventions, items that have a scheduled date and time are sorted initially in chronological order, starting with the next or overdue Intervention. To view the data in reverse chronological order, click on the column header again."
+  },
+  {
+   "crop_id": "meditech-pcs-5.67-software-user-manual-p0014-1",
+   "image": "pipeline/candidates/meditech-pcs-5.67-software-user-manual/meditech-pcs-5.67-software-user-manual-p0014-1.png",
+   "page": 14,
+   "caption": "3. Select appropriate name, by clicking on name with mouse if more than one choice appears. 4. Once you select your client, the select location screen will appear.",
+   "context_above": "PCS Manual 5.67"
+  },
+  {
+   "crop_id": "meditech-pcs-5.67-software-user-manual-p0014-2",
+   "image": "pipeline/candidates/meditech-pcs-5.67-software-user-manual/meditech-pcs-5.67-software-user-manual-p0014-2.png",
+   "page": 14,
+   "caption": "2/23/2015 9:19 AM 13",
+   "context_above": "3. Select appropriate name, by clicking on name with mouse if more than one choice appears. 4. Once you select your client, the select location screen will appear."
+  },
+  {
+   "crop_id": "meditech-pcs-5.67-software-user-manual-p0015-1",
+   "image": "pipeline/candidates/meditech-pcs-5.67-software-user-manual/meditech-pcs-5.67-software-user-manual-p0015-1.png",
+   "page": 15,
+   "caption": "2/23/2015 9:19 AM 14",
+   "context_above": "will be removed. From your Status Board/Client List: 1. Click on the far left column of the client name. This will place a check mark in that column. Do this for all clients to be removed. 2. Click “ Remove from List ” from the menu on the right. Click on My List to refresh your work list."
+  },
+  {
+   "crop_id": "meditech-pcs-5.67-software-user-manual-p0017-1",
+   "image": "pipeline/candidates/meditech-pcs-5.67-software-user-manual/meditech-pcs-5.67-software-user-manual-p0017-1.png",
+   "page": 17,
+   "caption": "2/23/2015 9:19 AM 16",
+   "context_above": "Interventions. 4. If you have no yet added any interventions the Select Interventions screen will appear. Leave Both highlighted so you have access to all Sets, Interventions and SOCs."
+  },
+  {
+   "crop_id": "meditech-pcs-5.67-software-user-manual-p0017-2",
+   "image": "pipeline/candidates/meditech-pcs-5.67-software-user-manual/meditech-pcs-5.67-software-user-manual-p0017-2.png",
+   "page": 17,
+   "caption": "Use the Add Intervention button at the bottom of the screen to add more Interventions.",
+   "context_above": "3. If there are Interventions already added to your Intervention worklist for this patient, this screen will display."
+  },
+  {
+   "crop_id": "meditech-pcs-5.67-software-user-manual-p0018-1",
+   "image": "pipeline/candidates/meditech-pcs-5.67-software-user-manual/meditech-pcs-5.67-software-user-manual-p0018-1.png",
+   "page": 18,
+   "caption": "d. There are now 2 options: 1. Add and Close : will add the Interventions to your list and take you back to the Intervention worklist 2. Add and Continue: allows additional Interventions to be selected",
+   "context_above": "a. You may add Interventions/Sets/SOCs: b. In the Search for field begin typing the name of the Intervention/Set/SOC. As you type, the system will display a drop down list of choices. The more you type the smaller the list becomes, narrowing your choices. c. Once you see the Intervention you want to add, click in the box to the left of its description to insert a checkmark."
+  },
+  {
+   "crop_id": "meditech-pcs-5.67-software-user-manual-p0019-1",
+   "image": "pipeline/candidates/meditech-pcs-5.67-software-user-manual/meditech-pcs-5.67-software-user-manual-p0019-1.png",
+   "page": 19,
+   "caption": "f. Once all intersventions have been selected, click Add and Close g. This returns you to the Interventions screen; the added Interventions will appear in magenta until saved. Prior to Saving: h. 1. Review your Interventions list for: a. Duplicates",
+   "context_above": "PCS Manual 5.67"
+  },
+  {
+   "crop_id": "meditech-pcs-5.67-software-user-manual-p0020-1",
+   "image": "pipeline/candidates/meditech-pcs-5.67-software-user-manual/meditech-pcs-5.67-software-user-manual-p0020-1.png",
+   "page": 20,
+   "caption": "Intervention List Columns Intervention: description of the Intervention added. New/Added interventions will be magenta until saved.",
+   "context_above": "b. If Not Visible: i. Select Status ii. Checkmark all Statuses iii. Click OK to display Status of all Interventions iv. Find the inactive/hold intervention which is duplicate Reactivate the original Intervention by changing the status back to active v. vi. Delete the duplicate vii. Click Save"
+  },
+  {
+   "crop_id": "meditech-pcs-5.67-software-user-manual-p0021-1",
+   "image": "pipeline/candidates/meditech-pcs-5.67-software-user-manual/meditech-pcs-5.67-software-user-manual-p0021-1.png",
+   "page": 21,
+   "caption": "To Edit information contained within the Text bubble: 1. Select the Intervention. 2. Click on bubble and a Text box will open like the one above, displaying information associated to that Intervention. 3. Select the Edit Text button. A Popup screen displays, which allows editing of the text",
+   "context_above": "Note: Any text entered into the Text/Ord information is not viewable in the EMR. To View information contained within the Text bubble: 1. Select the Intervention. 2. Click on bubble and a Text box will open like the one above, displaying information associated to that Intervention."
+  },
+  {
+   "crop_id": "meditech-pcs-5.67-software-user-manual-p0024-1",
+   "image": "pipeline/candidates/meditech-pcs-5.67-software-user-manual/meditech-pcs-5.67-software-user-manual-p0024-1.png",
+   "page": 24,
+   "caption": "6. Click OK 7. The Add New function can be used to automatically enter a single or series of frequencies for one Intervention. a. Using the Add New routine enter the frequency or series of frequencies. b. Using the Add new routine enter the desired stop Date and Time leaving the",
+   "context_above": "1. Click in the frequency field of the Intervention. The Frequency screen will display 2. Click Add New 3. Select the Date the frequency is to start (click forward or back arrows to adjust date) 4. Select the Time the frequency is to start 5. Enter the desired Frequency using the Meditech Standard System formats (see next page)"
+  },
+  {
+   "crop_id": "meditech-pcs-5.67-software-user-manual-p0027-1",
+   "image": "pipeline/candidates/meditech-pcs-5.67-software-user-manual/meditech-pcs-5.67-software-user-manual-p0027-1.png",
+   "page": 27,
+   "caption": "2/23/2015 9:19 AM 26",
+   "context_above": "If a Protocol has been pre-defined for the Intervention a right facing arrow will appear in the Protocol field. 1. Click on the arrow in the Protocol column to open. It will display information or may refer you to a Policy or Procedure related to that Intervention."
+  },
+  {
+   "crop_id": "meditech-pcs-5.67-software-user-manual-p0028-1",
+   "image": "pipeline/candidates/meditech-pcs-5.67-software-user-manual/meditech-pcs-5.67-software-user-manual-p0028-1.png",
+   "page": 28,
+   "caption": null,
+   "context_above": "3. This returns you to your Intervention Worklist screen. Assoc Data: This will take you to the associated data screen which is data that has been linked together within Meditech to provide a more complete clinical picture. For example, the Ambulation Assessment intervention might show the previous data that has been documented or, for Pain Management it might show previously documented pain locations."
+  },
+  {
+   "crop_id": "meditech-pcs-5.67-software-user-manual-p0030-1",
+   "image": "pipeline/candidates/meditech-pcs-5.67-software-user-manual/meditech-pcs-5.67-software-user-manual-p0030-1.png",
+   "page": 30,
+   "caption": "2/23/2015 9:19 AM 29",
+   "context_above": "Documenting on a Single Intervention Documentation may be done in real-time or backdated using fixed time . Interventions automatically open in real time. 1. Highlight the Intervention. 2. Click on the Document button at the bottom toolbar."
+  },
+  {
+   "crop_id": "meditech-pcs-5.67-software-user-manual-p0034-1",
+   "image": "pipeline/candidates/meditech-pcs-5.67-software-user-manual/meditech-pcs-5.67-software-user-manual-p0034-1.png",
+   "page": 34,
+   "caption": "The following explains the toolbar on the bottom of the Document Spreadsheet display:",
+   "context_above": "Once you highlight the intervention you wish to document by spreadsheet on, Click on Document Spreadsheet at the bottom of your screen. The column highlighted in Magenta is where you enter your data. You may “click and drag” at the date from the previous documentation to the new date to bring the same data from the previous documentation and then edit the necessary changed information. Alternately, you may click on each box and will be provided with the documentation choices assigned to that question."
+  }
+ ]
+}

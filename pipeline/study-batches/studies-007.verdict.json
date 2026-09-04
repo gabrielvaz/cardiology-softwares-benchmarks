@@ -1,0 +1,241 @@
+[
+ {
+  "study_id": "pmid40204326_usability-and-acceptability-of-ambulatory-monitoring-in-undiagnosed-syncope-insi",
+  "design": "other",
+  "topics": [
+   "usability",
+   "human-factors"
+  ],
+  "n": 30,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [
+   "ambulatory ECG monitoring patch (14-day)"
+  ],
+  "product_ids": [],
+  "metric": "Qualitative usability and acceptability themes from semi-structured interviews",
+  "result": "Patients found the patch non-obstructive and easy to use; healthcare professionals found attachment simple but noted added documentation time and training needs; device was positively received overall",
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid40249167_tracing-visual-expertise-in-ecg-interpretation-an-eye-tracking-pilot-study",
+  "design": "pilot",
+  "topics": [
+   "diagnostic-accuracy",
+   "human-factors"
+  ],
+  "n": null,
+  "sus_score": null,
+  "task_time": "Experts 107.6 ± 32.8 s vs residents 205.31 ± 57.43 s per ECG (p<0.001)",
+  "error_rate": null,
+  "devices": [
+   "eye-tracking glasses"
+  ],
+  "product_ids": [],
+  "metric": "ECG interpretation time, diagnostic accuracy, eye-tracking fixations, pupil dilation, NASA-TLX cognitive load",
+  "result": "Experts read ECGs faster and more accurately than residents, with fewer but longer fixations, lower pupil dilation, and higher self-assessed performance (all p<0.05)",
+  "has_quantitative_data": true
+ },
+ {
+  "study_id": "pmid40419828_the-spectrum-of-eccentric-left-ventricular-hypertrophy-in-endurance-sports-disci",
+  "design": "cross-sectional",
+  "topics": [
+   "not-relevant"
+  ],
+  "n": 282,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": null,
+  "result": null,
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid40620549_a-novel-personal-identification-system-using-doorknob-lead-electrocardiograms-fo",
+  "design": "algorithm-development",
+  "topics": [
+   "not-relevant"
+  ],
+  "n": null,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [
+   "doorknob-type ECG measuring device"
+  ],
+  "product_ids": [],
+  "metric": null,
+  "result": null,
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid40640227_the-impact-of-intraoperative-optical-coherence-tomography-on-cognitive-load-in-v",
+  "design": "simulation",
+  "topics": [
+   "not-relevant"
+  ],
+  "n": 17,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": null,
+  "result": null,
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid40644757_in-vehicle-multi-sensory-experiences-can-reduce-mental-stress",
+  "design": "other",
+  "topics": [
+   "not-relevant"
+  ],
+  "n": 48,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": null,
+  "result": null,
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid40670408_human-contributions-to-safety-data-testbed-flight-simulation-study-data-methods-",
+  "design": "simulation",
+  "topics": [
+   "not-relevant"
+  ],
+  "n": 24,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": null,
+  "result": null,
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid40795991_a-fitness-tracker-can-be-used-interchangeably-with-a-reference-method-for-underw",
+  "design": "diagnostic-accuracy",
+  "topics": [
+   "not-relevant"
+  ],
+  "n": 40,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": null,
+  "result": null,
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid40797395_ecg-interpretation-abilities-in-clinical-practice-examining-the-role-of-expertis",
+  "design": "diagnostic-accuracy",
+  "topics": [
+   "diagnostic-accuracy",
+   "education",
+   "ai-algorithm"
+  ],
+  "n": 72,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": "Diagnostic accuracy in ECG interpretation across expertise levels; Random Forest classification accuracy",
+  "result": "Cardiology consultants showed the highest diagnostic accuracy; younger participants (26-30) outperformed older groups; males had higher recognition rates; targeted educational interventions improved accuracy; a Random Forest model reached 81% accuracy classifying long vs short ECG readings",
+  "has_quantitative_data": true
+ },
+ {
+  "study_id": "pmid40819550_assessment-of-individual-and-dyadic-workload-of-student-and-instructor-pilots-in",
+  "design": "pilot",
+  "topics": [
+   "not-relevant"
+  ],
+  "n": null,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": null,
+  "result": null,
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid37992801_smartphone-based-six-lead-ecg-a-new-device-for-electrocardiographic-recording-in",
+  "design": "diagnostic-accuracy",
+  "topics": [
+   "not-relevant"
+  ],
+  "n": 108,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": null,
+  "result": null,
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid38638471_comparing-multimodal-physiological-responses-to-social-and-physical-pain-in-heal",
+  "design": "other",
+  "topics": [
+   "not-relevant"
+  ],
+  "n": 73,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": null,
+  "result": null,
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid39096711_the-accuracy-of-gemini-gpt-4-and-gpt-4o-in-ecg-analysis-a-comparison-with-cardio",
+  "design": "diagnostic-accuracy",
+  "topics": [
+   "diagnostic-accuracy",
+   "ai-algorithm"
+  ],
+  "n": 40,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": "Diagnostic accuracy of LLMs (GPT-4, GPT-4o, Gemini Advanced) vs cardiologists and emergency medicine specialists in ECG interpretation; inter-rater agreement (Fleiss Kappa)",
+  "result": "Cardiologists outperformed all three LLMs; GPT-4o outperformed Gemini Advanced (p=0.004) and GPT-4 (p<0.001) on routine ECGs and outperformed both overall; agreement was weak for GPT-4 (kappa=0.265) and Gemini Advanced (kappa=0.347), moderate for GPT-4o (kappa=0.514)",
+  "has_quantitative_data": true
+ },
+ {
+  "study_id": "pmid39928941_validity-accuracy-and-safety-assessment-of-an-aerobic-interval-training-using-an",
+  "design": "pilot",
+  "topics": [
+   "device-validation",
+   "usability"
+  ],
+  "n": 75,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": "Mean heart rate difference ≤5 bpm; mean absolute percentage error ≤5% vs standard ECG",
+  "devices": [
+   "Prehab App",
+   "commercial wearables"
+  ],
+  "product_ids": [],
+  "metric": "Accuracy and safety of app-based wearable heart rate measurement vs standard ECG and treadmill; usability and alarm-signal testing; adverse event rate",
+  "result": "Mean heart rate difference ≤5 bpm and mean absolute percentage error ≤5% vs standard ECG in 75 participants; 39% experienced mild adverse events (skin irritation, dizziness, fatigue) with no serious device deficiencies",
+  "has_quantitative_data": true
+ }
+]

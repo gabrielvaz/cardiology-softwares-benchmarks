@@ -1,0 +1,38 @@
+[
+ {
+  "study_id": "pmid40561207_which-device-is-most-suitable-for-measuring-heart-rate-variability-in-the-field-",
+  "design": "other",
+  "topics": [
+   "usability",
+   "device-validation"
+  ],
+  "n": null,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [
+   "Polar H10",
+   "Bittium Faros"
+  ],
+  "product_ids": [],
+  "metric": "Comparative device usability and feasibility for HRV monitoring (literature review, device testing, expert interviews)",
+  "result": "Polar H10 is affordable and records RR intervals up to 20 hours offline but needs a smartwatch/app for extended storage; Bittium Faros is a certified ECG monitor recording full waveforms with automatic data transfer; both require chest straps with possible placement or skin issues",
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid40741073_the-cognitive-impacts-of-large-language-model-interactions-on-problem-solving-an",
+  "design": "algorithm-development",
+  "topics": [
+   "not-relevant"
+  ],
+  "n": null,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": null,
+  "result": null,
+  "has_quantitative_data": false
+ }
+]

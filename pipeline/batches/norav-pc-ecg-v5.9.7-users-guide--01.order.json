@@ -1,0 +1,153 @@
+{
+ "batch_id": "norav-pc-ecg-v5.9.7-users-guide--01",
+ "manual": {
+  "id": "norav-pc-ecg-v5.9.7-users-guide",
+  "title": "Microsoft Word - PCECG_OM-v597 -GmbH.docx",
+  "vendor_slug": "norav",
+  "pages": 149,
+  "doc_type": "user-manual",
+  "lang": "en"
+ },
+ "crops": [
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0001-1",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0001-1.png",
+   "page": 1,
+   "caption": "Norav Users Guide PC-ECG 1200",
+   "context_above": null
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0037-1",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0037-1.png",
+   "page": 37,
+   "caption": "Figure 2: PC-ECG 1200S / PC-ECG 1200M",
+   "context_above": " Patient cable  USB cable  PC-ECG 1200 software installation package on CD or USB flash drive.  Software license key (if optional software is included)"
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0041-1",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0041-1.png",
+   "page": 41,
+   "caption": "Figure 6: PC-ECG 1200W",
+   "context_above": " USB cable  Antenna  1200WR receiver  PC-ECG 1200 software installation package on CD or USB flash drive.  Software license key (if optional software is included)."
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0046-1",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0046-1.png",
+   "page": 46,
+   "caption": "Figure 12: PC-ECG NR-1207-E",
+   "context_above": " Bluetooth USB adaptor  USB extension cable  PC-ECG 1200 software installation package on CD or USB flash drive.  Software license key (if optional software is included)."
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0051-1",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0051-1.png",
+   "page": 51,
+   "caption": "Figure 21: Tango M2 monitor back side NV-54/PCECG1200 Revision 211130",
+   "context_above": "Figure 19: Stress ECG side Figure 20: Tango M2 side"
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0055-1",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0055-1.png",
+   "page": 55,
+   "caption": "Hookup Validate Start/Stop Acquire Print 12 Close the Multiple mode applied acquisition lead ECG ECG lead Resting ECG (Standard/ electrodes report Rhythm display application Posterior/ connection Right side, quality etc.)",
+   "context_above": "Blood Screen ECG pressure view and Diagnosis Measurements records About this Heart Patient System input and remarks information archive application rate data settings"
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0065-1",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0065-1.png",
+   "page": 65,
+   "caption": "Figure 35: Resting ECG Views and Filters panel",
+   "context_above": "Resting ECG 53 Norav Users Guide PC-ECG 1200 ECG Screen View and Filters panel The screen view panel opens on click the button."
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0066-1",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0066-1.png",
+   "page": 66,
+   "caption": "Figure 36: Resting ECG Patient Information panel",
+   "context_above": "54 Resting ECG Norav Users Guide PC-ECG 1200 Patient Information panel To enter the patient details open the patient information panel by click the icon."
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0075-1",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0075-1.png",
+   "page": 75,
+   "caption": "Current Separating Vital Signs protocol bars",
+   "context_above": "STRESS ECG (This option is available with S1 and S2 licenses) Multiple lead Enter blood Average Viewer: ST trends, 12 averages, display pressure Single QRS"
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0096-1",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0096-1.png",
+   "page": 96,
+   "caption": "Figure 47: CareFusion LAB5 CPET Settings",
+   "context_above": "Norav ECG-Type - open Settings and select from the list. Path and program name Stress.EXE - in field select the application executable name with full path. Stress Title: Use the text in ECG application - insert “ ” in field C:\\LAB5\\DB\\ Path: When ECG is not located … - insert “ ” in field."
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0096-2",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0096-2.png",
+   "page": 96,
+   "caption": "Figure 47: CareFusion LAB5 CPET Settings",
+   "context_above": "Norav ECG-Type - open Settings and select from the list. Path and program name Stress.EXE - in field select the application executable name with full path. Stress Title: Use the text in ECG application - insert “ ” in field C:\\LAB5\\DB\\ Path: When ECG is not located … - insert “ ” in field."
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0103-1",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0103-1.png",
+   "page": 103,
+   "caption": "Numerical Heart results trends Figure 48: Late Potential Signal Averaging Screen",
+   "context_above": "LATE POTENTIAL SIGNAL AVERAGING (This option is available with the L1 license) Signal Filtered Vector averages averages magnitude"
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0110-1",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0110-1.png",
+   "page": 110,
+   "caption": "Figure 49: LP Signal Averaging Review Screen Numerical Results The results are calculated automatically. You can overrule the automatic positioning of the ONSET/OFFSET markers with the direction keys.",
+   "context_above": "98 Late Potential Signal Averaging Norav Users Guide PC-ECG 1200 Interpreting Results When the signal-averaging phase is complete, the result screen is displayed:"
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0111-1",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0111-1.png",
+   "page": 111,
+   "caption": "Heart rate Slider time Total study time (beats/min) Figure 50: Monitoring ECG Screen",
+   "context_above": "(This option is available with the M1 license) This option enables long-term recording and storage to disk. The user decides which leads and at which sample rate to monitor on screen and save to disk. During the study, you can print in real time on a thermal printer. Horizontal scale Vertical scale Toolbars (mm/sec) (mm/mV)"
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0117-1",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0117-1.png",
+   "page": 117,
+   "caption": "Tachogram Slider HRV results Figure 51: Heart Rate Variability Screen",
+   "context_above": "(This option is available with the H1 license) Time and frequency domain analysis is designed for short studies in which one or more time segments are measured, as in a Tilt study. Measured/reported parameters are according to NASPE/ESC Guidelines. Histogram P.S.D. Scatter gram"
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0123-1",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0123-1.png",
+   "page": 123,
+   "caption": "Figure 52: Measurements—Tabular Screen",
+   "context_above": "(This option is available with the I1, I2 or I3 license) Measurements Measurements is not an autonomous application. The application is used for calculations of QRSs and interpretation of the ECG signal. The user can manually change the QRS identification parameters. 10 seconds of data are calculated. Menu bar Toolbar Measurements Measurements per QRS per lead"
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0126-1",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0126-1.png",
+   "page": 126,
+   "caption": null,
+   "context_above": "114 Measurements/ Interpretation (MEANS) Averages Display"
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0126-2",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0126-2.png",
+   "page": 126,
+   "caption": null,
+   "context_above": null
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0127-1",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0127-1.png",
+   "page": 127,
+   "caption": null,
+   "context_above": "Measurements/ Interpretation (MEANS) 115 QRS Display"
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0127-2",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0127-2.png",
+   "page": 127,
+   "caption": null,
+   "context_above": null
+  }
+ ]
+}

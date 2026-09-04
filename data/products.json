@@ -454,7 +454,7 @@
    "cardiolex-ec-store-ecg-management-brochure-v21"
   ],
   "notes": "Sistema de gestão de ECG (Vendor Neutral Archive) baseado em web, com cliente web acessível de tablets/smartphones; não é aparelho. Não há evidência de modalidade específica (gerencia ECG de forma genérica). Duas versões de brochure (2023 e v21) do mesmo produto.",
-  "screen_count": 0,
+  "screen_count": 2,
   "manual_count": 2
  },
  {
@@ -550,7 +550,7 @@
    "cardioline-touchecg-user-manual"
   ],
   "notes": "Software de ECG de repouso instalável em Windows ou Android, conectado por Bluetooth a módulos de aquisição HD+. O manual descreve confirmação de laudo por médico, download de worklists e conectividade no formato GDT (padrão alemão), o que justifica o mercado 'de'.",
-  "screen_count": 0,
+  "screen_count": 33,
   "manual_count": 1
  },
  {
@@ -974,7 +974,7 @@
    "ge-cardiosoft-diagnostic-system-user-guide-tiger"
   ],
   "notes": "Produto irmão do CASE, com descrição funcional quase idêntica (ECG de repouso, teste de esforço, espirometria, MAPA, integração GDT/BDT/HL7), mas comercializado sob nome e manual próprios pela GE Healthcare.",
-  "screen_count": 0,
+  "screen_count": 94,
   "manual_count": 1
  },
  {
@@ -1313,7 +1313,7 @@
    "meditech-pcs-5.67-software-user-manual"
   ],
   "notes": "Modulo de documentacao clinica/gestao de pacientes do sistema hospitalar MEDITECH, manual provincial usado pela Alberta Health Services (Canada, codigo ISO 'ca' fora do vocabulario fechado, por isso markets vazio). Nao e um software especifico de cardiologia (sem evidencia de modalidade ECG/holter/etc no texto lido); pode ser empresa distinta do 'Meditech' fabricante do EKG6012 no mesmo lote. Distinct company from the Meditech that makes the EKG6012; they were collapsed under one vendor slug during import and have been separated.",
-  "screen_count": 0,
+  "screen_count": 18,
   "manual_count": 1
  },
  {
@@ -1695,7 +1695,7 @@
    "norav-pc-ecg-v5.9.7-users-guide"
   ],
   "notes": "Software de ECG instalado em PC que controla modulos de aquisicao externos (modelos 1200S/M/HR/W, Blue-ECG, NR-1207-E/3). Numero de organismo notificado CE '2797' na capa indica marca CE / mercado eu.",
-  "screen_count": 0,
+  "screen_count": 16,
   "manual_count": 1
  },
  {
@@ -2003,7 +2003,7 @@
    "schiller-cs-200-service-handbook"
   ],
   "notes": "'CS-200 Diagnostic Workstation': estacao integrada (teclado, mouse, trackball, monitor, drives) que roda sobre Windows (o manual instrui clicar no icone SDS-200 na area de trabalho do Windows), com interfaces para ergometro/esteira e espirometria. Classificada como desktop-client por rodar aplicativo sobre SO Windows, embora seja vendida como unidade fechada; marca CE 0123 citada no manual indica mercado eu. Aparece listada como dispositivo conectado ao SEMA-200 junto com a familia AT-101/AT-102/AT-110.",
-  "screen_count": 0,
+  "screen_count": 13,
   "manual_count": 1
  },
  {
@@ -2057,7 +2057,7 @@
    "schiller-sema-data-management-brochure-2024"
   ],
   "notes": "Sistema de gestao e arquivamento de dados diagnosticos da Schiller (ECG de repouso, ECG de esforco/CPET, ritmo de repouso e espirometria), que recebe dados de aparelhos como AT-101/AT-102/AT-110/AT-2 plus e CS-200 e permite finalizar laudos em 'estacoes de trabalho SEMA'. O brochure de 2024 usa apenas o nome 'SEMA' (sem '-200'), provavelmente a mesma linha de produto renomeada/atualizada ao longo do tempo.",
-  "screen_count": 0,
+  "screen_count": 3,
   "manual_count": 2
  },
  {
@@ -2182,7 +2182,7 @@
    "spacelabs-sentinel-cardiology-information-system-overview"
   ],
   "notes": "Sistema de gestao de informacoes de cardiologia (Cardiology Information Management System), nao um aparelho. Os proprios brochures descrevem arquitetura web-based com suporte a dispositivos moveis e escalabilidade de um unico PC ate rede hospitalar. 'Sentinel 11' e a versao especifica citada num dos brochures; o outro cobre a familia de forma generica.",
-  "screen_count": 0,
+  "screen_count": 2,
   "manual_count": 2
  },
  {

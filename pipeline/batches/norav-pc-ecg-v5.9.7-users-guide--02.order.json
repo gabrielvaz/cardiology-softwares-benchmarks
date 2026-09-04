@@ -1,0 +1,83 @@
+{
+ "batch_id": "norav-pc-ecg-v5.9.7-users-guide--02",
+ "manual": {
+  "id": "norav-pc-ecg-v5.9.7-users-guide",
+  "title": "Microsoft Word - PCECG_OM-v597 -GmbH.docx",
+  "vendor_slug": "norav",
+  "pages": 149,
+  "doc_type": "user-manual",
+  "lang": "en"
+ },
+ "crops": [
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0128-1",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0128-1.png",
+   "page": 128,
+   "caption": "Figure 56: Measurements—Caliper Toolbar of Caliper Display",
+   "context_above": "116 Measurements/ Interpretation (MEANS) Caliper Display"
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0142-1",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0142-1.png",
+   "page": 142,
+   "caption": null,
+   "context_above": "130 Report Samples REPORT SAMPLES"
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0142-2",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0142-2.png",
+   "page": 142,
+   "caption": "Figure 60: Rest Report NV-54/PCECG1200 Revision 211130",
+   "context_above": null
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0143-1",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0143-1.png",
+   "page": 143,
+   "caption": "Figure 61: Stress Applications - Comprehensive Report",
+   "context_above": "Report Samples 131"
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0144-1",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0144-1.png",
+   "page": 144,
+   "caption": null,
+   "context_above": "132 Report Samples"
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0144-2",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0144-2.png",
+   "page": 144,
+   "caption": "Figure 62: Monitoring ECG Report",
+   "context_above": null
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0145-1",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0145-1.png",
+   "page": 145,
+   "caption": null,
+   "context_above": "Report Samples 133"
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0145-2",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0145-2.png",
+   "page": 145,
+   "caption": "Figure 63: Heart Rate Variability Report",
+   "context_above": null
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0146-1",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0146-1.png",
+   "page": 146,
+   "caption": null,
+   "context_above": "134 Report Samples"
+  },
+  {
+   "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0146-2",
+   "image": "pipeline/candidates/norav-pc-ecg-v5.9.7-users-guide/norav-pc-ecg-v5.9.7-users-guide-p0146-2.png",
+   "page": 146,
+   "caption": "Figure 64: Late Potential Report",
+   "context_above": null
+  }
+ ]
+}

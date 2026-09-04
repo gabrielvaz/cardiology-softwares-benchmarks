@@ -1,0 +1,153 @@
+{
+ "batch_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger--02",
+ "manual": {
+  "id": "ge-cardiosoft-diagnostic-system-user-guide-tiger",
+  "title": "2060290-002_C_CardioSoft_OM_Eng.book",
+  "vendor_slug": "ge-healthcare",
+  "pages": 326,
+  "doc_type": "user-manual",
+  "lang": "en"
+ },
+ "crops": [
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0086-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0086-1.png",
+   "page": 86,
+   "caption": "A Click to select the lead: With you scroll through the leads, with you open the list. B Click to determine the number of cardiac cycles (only for atrial fibrillation or flutter). C Click to select the gain (amplitude). D Click to select the speed.",
+   "context_above": "diagram below the signal trace indicates, for each individual QRS complex, the deviation of the RR interval from the mean RR interval. Furthermore, you can determine the HR over a selectable ECG segment. C D E B A"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0088-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0088-1.png",
+   "page": 88,
+   "caption": "A Click to adjust the gain. B Median complex. C Click torso to toggle between right and left sagittal planes.",
+   "context_above": "This screen shows the median complexes of the orthogonal FRANK leads X, Y and Z as well as the vector loops in three planes. A C B"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0089-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0089-1.png",
+   "page": 89,
+   "caption": "A Click to select the lead. B Information about filters, etc. C Click to open a list showing all identified arrhythmias. D Click to select gain and speed. E Click icon to activate the zoom function. F Click icon to print the entire full disclosure ECG or selected segments.",
+   "context_above": "On this screen you see one lead of the full disclosure ECG. The events identified by the rhythm analysis algorithm are color-coded. On the display you will also see when filter or cubic spline were enabled or disabled, e.g. in the form of Spline OFF = Spline - , Spline ON = Spline + . G J F H D E A B C I"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0091-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0091-1.png",
+   "page": 91,
+   "caption": null,
+   "context_above": "2. Position the magnifying glass on the region of interest and click. 3. Click : 10 s of the selected segment will be displayed at a larger scale. 4. Confirm the displayed question with \"Yes\" to save the segment in the box as a separate resting ECG. 1 3 4"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0092-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0092-1.png",
+   "page": 92,
+   "caption": "Configured Report Interpretation ACI-TIPI score",
+   "context_above": "Click the Print button to print the report. The print setup window opens where you can temporarily adjust the settings for the printout. Refer to section “Final Report Tab” on page 12-9 for details on changing the setup permanently. 1 2 2 3 1"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0093-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0093-1.png",
+   "page": 93,
+   "caption": "A Click icon to open folders individually. B Click icons to simultaneously open (++) or close (- - ) all folders. C Click button to open a window with acronyms and the corresponding diagnostic findings. D Click icons to copy folders , individual lines , lines including the",
+   "context_above": "system generated evaluation is already shown. The system supports the creation of an interpretation by providing standard texts and acronyms which can be copied to the Interpretation area on the right. In the Interpretation area you can edit the texts as needed (enter new text, copy, remove, etc.). Refer to section “Editing the Library” on Interpretation page 12-37 for information on editing the standard texts. A B C D E F G"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0094-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0094-1.png",
+   "page": 94,
+   "caption": null,
+   "context_above": "right. 4. Select the check box if you wish to copy each text to a new line. Note Interpretative statements transferred to MUSE that are part of the acronym list will be replaced with the appropriate acronyms. 2 3 4"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0096-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0096-1.png",
+   "page": 96,
+   "caption": "Medians Interpretation",
+   "context_above": "Post Test Review 10-Second ECG F B G E D A C"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0097-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0097-1.png",
+   "page": 97,
+   "caption": "A Click scroll box to move the segment of procedure 2 to the right and left. B Click scroll box to move the segment of procedure 2 up and down.",
+   "context_above": "Identical segments of the two procedures are superimposed. With the scroll boxes you can shift the segment of procedure 2 horizontally and vertically. B A"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0098-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0098-1.png",
+   "page": 98,
+   "caption": "A Measurement results of procedure 1. B Interpretation of procedure 1. C Measurement results of procedure 2. D Interpretation of procedure 2.",
+   "context_above": "The following details of the two procedures are displayed: the measurement results  the system evaluation and  the interpretation  C A B D"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0099-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0099-1.png",
+   "page": 99,
+   "caption": "A Acquisition date. B Click to select the gain. C Click to select the leads. D Click icon to activate the zoom function. E Click icon to print the screen.",
+   "context_above": "3. Click OK to clear the window. The comparison screen with the medians of the selected procedures appears. A B C D E F"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0100-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0100-1.png",
+   "page": 100,
+   "caption": "A Acquisition date. B Click to select the lead. C Click icon to terminate the zoom function. D Click icon to print the median. E Click button to display the 3D graph.",
+   "context_above": "1. Click the zoom icon. 2. Position the magnifying glass on the region of interest and click. The selected median is displayed at a larger scale. A B C D E"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0101-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0101-1.png",
+   "page": 101,
+   "caption": "A Click to select the lead. B Click icon to terminate the zoom function. C Click icon to print the illustration. D Click to select the color. E Click to start and stop the continuous rotation of the illustration; set the speed",
+   "context_above": "3D Graph Click the 3D graph button to display a three-dimensional representation of the medians from all selected procedures. The scroll boxes allow you to rotate the illustration horizontally and vertically. A B C D E"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0111-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0111-1.png",
+   "page": 111,
+   "caption": "U T S R Q P O N M L A Tabs showing the different ECG analysis data. B Lead check status window (other tabs are explained in \"During the Test\" on page 6-18 (ST/Arrhy), 6-19 (Medians) and 6-25 (12SL). C Schematic representation of the applied electrodes:",
+   "context_above": "Note The softkeys displayed at the bottom of the screen are used to control an exercise test. Their functions are explained in section “Softkeys Controlling Exercise Tests” on page 2-8. A B C"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0113-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0113-1.png",
+   "page": 113,
+   "caption": "We recommend the following filter setting for exercise tests: FRF ON ",
+   "context_above": "During the exercise test, a new protocol selection with Select Protocol will become effective in the next phase. Note Pacemaker Patients — It is very important that you indicate on the first database screen, pictured below, whether your patient has a PACEMAKER implanted. A check indicates that the patient DOES have a pacemaker."
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0113-2",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0113-2.png",
+   "page": 113,
+   "caption": null,
+   "context_above": "We recommend the following filter setting for exercise tests: FRF ON "
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0115-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0115-1.png",
+   "page": 115,
+   "caption": "I Note The acquisition screen has the same type of information in the pretest, exercise and recovery phases.",
+   "context_above": "Acquisition Screen Overview A B"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0116-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0116-1.png",
+   "page": 116,
+   "caption": "Current HR Target HR in % Max. predicted HR",
+   "context_above": "85A-S"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0129-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0129-1.png",
+   "page": 129,
+   "caption": "Close",
+   "context_above": "2. Double-click the test to review: Page 1 of the median complexes will appear in the lower part of the screen for reference. A B C"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0133-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0133-1.png",
+   "page": 133,
+   "caption": "A Click a tab to display the corresponding window. B Patient Information area. C Test Information area. D Measurement Results area: area for exercise measurements and machine “Exercise Test Interpretation (XTI)”. E Interpretation area: area for the physician’s interpretation.",
+   "context_above": "Test Summary Overview A B C D E"
+  }
+ ]
+}

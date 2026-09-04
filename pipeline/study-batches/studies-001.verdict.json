@@ -1,0 +1,250 @@
+[
+  {
+    "study_id": "pmid38167848_injectable-hydrogel-electrodes-as-conduction-highways-to-restore-native-pacing",
+    "design": "other",
+    "topics": [
+      "not-relevant"
+    ],
+    "n": null,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": null,
+    "product_ids": [],
+    "metric": null,
+    "result": "Injectable hydrogel electrode restored native-like QRS morphology and faster activation wavefronts than single-point pacing in a pig model; feasibility of a new pacing modality, not a cardiology software study.",
+    "has_quantitative_data": false
+  },
+  {
+    "study_id": "pmid38379828_measuring-heart-rate-in-freely-moving-mice",
+    "design": "other",
+    "topics": [
+      "not-relevant"
+    ],
+    "n": null,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": null,
+    "product_ids": [],
+    "metric": null,
+    "result": "Lab protocol for implanted-ECG heart rate measurement in mice with a MATLAB GUI for data processing; no comparative usability or performance figures reported.",
+    "has_quantitative_data": false
+  },
+  {
+    "study_id": "pmid38551823_estimating-the-severity-of-obstructive-sleep-apnea-using-ecg-respiratory-effort-",
+    "design": "diagnostic-accuracy",
+    "topics": [
+      "diagnostic-accuracy",
+      "ai-algorithm",
+      "signal-processing"
+    ],
+    "n": 653,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": null,
+    "product_ids": [],
+    "metric": "Sleep-staging agreement and AHI estimation accuracy vs. polysomnography",
+    "result": "Four-class sleep staging kappa 0.69 vs. PSG; AHI estimation ICC 0.91; high diagnostic performance across OSA severity thresholds.",
+    "has_quantitative_data": true
+  },
+  {
+    "study_id": "pmid38605567_usability-of-myocardial-work-parameters-to-demonstrate-subclinical-myocardial-in",
+    "design": "cross-sectional",
+    "topics": [
+      "not-relevant"
+    ],
+    "n": 64,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": null,
+    "product_ids": [],
+    "metric": "Echocardiographic myocardial work parameters between hypertensive-response groups",
+    "result": "Global work index (GWI) differed between exaggerated (2147) and normal (2036) blood pressure response groups, p<.001; other myocardial work parameters not significantly different. Clinical/physiological study, not a software usability study.",
+    "has_quantitative_data": false
+  },
+  {
+    "study_id": "pmid38606390_a-wavelet-based-approach-for-motion-artifact-reduction-in-ambulatory-seismocardi",
+    "design": "algorithm-development",
+    "topics": [
+      "signal-processing",
+      "ai-algorithm"
+    ],
+    "n": null,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": null,
+    "product_ids": [],
+    "metric": "Heart-rate estimation accuracy (R-squared) from motion-corrupted SCG at set SNR",
+    "result": "Algorithm (MODWT + time-frequency masking + NMF) improved heart-rate estimation from R^2 0.1 to 0.8 at -15 dB SNR; reduced motion artifacts up to -19 dB SNR without ECG reference.",
+    "has_quantitative_data": true
+  },
+  {
+    "study_id": "pmid38701945_feasibility-of-self-measurement-telemonitoring-using-a-handheld-heart-sound-reco",
+    "design": "pilot",
+    "topics": [
+      "usability",
+      "telemedicine",
+      "human-factors"
+    ],
+    "n": 77,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": [
+      "handheld heart sound recorder"
+    ],
+    "product_ids": [],
+    "metric": "Self-measurement adherence rate and patient usability questionnaire",
+    "result": "Self-measurement rate >70% of days in 75% of patients; 87% of patients found self-telemonitoring helpful; 96% could use the devices without cohabitant support.",
+    "has_quantitative_data": true
+  },
+  {
+    "study_id": "pmid38738870_brainbeats-as-an-open-source-eeglab-plugin-to-jointly-analyze-eeg-and-cardiovasc",
+    "design": "algorithm-development",
+    "topics": [
+      "signal-processing",
+      "workflow"
+    ],
+    "n": null,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": null,
+    "product_ids": [],
+    "metric": null,
+    "result": "Introduces the open-source BrainBeats EEGLAB plugin (GUI and command line) for joint EEG/HRV feature extraction and heart-artifact removal from EEG; no quantitative evaluation results reported in the abstract.",
+    "has_quantitative_data": false
+  },
+  {
+    "study_id": "pmid38780375_detection-of-focal-to-bilateral-tonic-clonic-seizures-using-a-connected-shirt",
+    "design": "diagnostic-accuracy",
+    "topics": [
+      "diagnostic-accuracy",
+      "ai-algorithm",
+      "signal-processing"
+    ],
+    "n": 42,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": "median false alarm rate 0.55/24 h",
+    "devices": [
+      "connected shirt (ECG + accelerometer)"
+    ],
+    "product_ids": [],
+    "metric": "Sensitivity, false alarm rate, and ROC-AUC for seizure detection from ECG/accelerometer",
+    "result": "Sensitivity 84.8% (56/66 seizures), median FAR 0.55/24 h, ROC-AUC 0.90 (95% CI 0.88-0.91), median detection latency 25.5 s.",
+    "has_quantitative_data": true
+  },
+  {
+    "study_id": "pmid38894503_kardiamobile-6l-versus-12-lead-ecg-effects-on-clinic-utilization-time",
+    "design": "non-randomised-trial",
+    "topics": [
+      "usability",
+      "workflow",
+      "device-validation"
+    ],
+    "n": 100,
+    "sus_score": null,
+    "task_time": "room utilization time: 7.27 +/- 1.93 min (6L) vs 10.33 +/- 2.2 min (12L), p<.001",
+    "error_rate": "16% (8/50) of 6L visits required an additional 12-lead ECG",
+    "devices": [
+      "KardiaMobile 6L",
+      "12-lead ECG"
+    ],
+    "product_ids": [],
+    "metric": "Clinic room utilization time comparing KardiaMobile 6L to standard 12-lead ECG",
+    "result": "Room utilization time significantly lower with KardiaMobile 6L (7.27 min) than 12-lead ECG (10.33 min), p<.001; 16% of 6L visits needed a follow-up 12-lead ECG.",
+    "has_quantitative_data": true
+  },
+  {
+    "study_id": "pmid39136723_robust-fatigue-markers-obtained-from-muscle-synergy-analysis",
+    "design": "other",
+    "topics": [
+      "not-relevant"
+    ],
+    "n": 11,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": null,
+    "product_ids": [],
+    "metric": null,
+    "result": "Muscle-synergy biomarkers (activation phase difference, coactivation area/time) tracked fatigue during leg-press exercise; ECG used only as an ancillary physiological signal, not a cardiology software study.",
+    "has_quantitative_data": false
+  },
+  {
+    "study_id": "pmid39176785_dr-beat-rule-based-algorithm-for-scg-analysis-without-ecg-reference",
+    "design": "algorithm-development",
+    "topics": [
+      "signal-processing",
+      "device-validation"
+    ],
+    "n": 12,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": [
+      "accelerometer-based SCG wearable sensor"
+    ],
+    "product_ids": [],
+    "metric": "Heartbeat detection rate of a rule-based SCG algorithm without ECG reference",
+    "result": "87.6% of heartbeats detected overall; 97.6% at rest; 71.9% during physical stress, across 12 heart-healthy adults.",
+    "has_quantitative_data": true
+  },
+  {
+    "study_id": "pmid39661868_evaluation-of-a-new-mobile-virtual-reality-setup-to-alter-pain-perception-pilot-",
+    "design": "usability-test",
+    "topics": [
+      "usability",
+      "human-factors"
+    ],
+    "n": 20,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": [
+      "mobile VR head-mounted display",
+      "PPG smartwatch"
+    ],
+    "product_ids": [],
+    "metric": "Usability (5-point scale) and simulator-sickness questionnaire scores for a mobile cardiovisual VR setup",
+    "result": "Mean usability score 4.42/5 (SD 0.56) and mean simulator sickness 1.18/4 (SD 0.46); no significant effect of synchronous vs. asynchronous cardiovisual stimulation on pain perception or ownership.",
+    "has_quantitative_data": true
+  },
+  {
+    "study_id": "pmid39703273_successful-rescue-of-ventricular-fibrillation-electrical-storm-secondary-to-acut",
+    "design": "case-report",
+    "topics": [
+      "not-relevant"
+    ],
+    "n": 1,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": null,
+    "product_ids": [],
+    "metric": null,
+    "result": "Single-patient case report of successful resuscitation and PCI treatment of an electrical storm following STEMI; clinical case management, not a software study.",
+    "has_quantitative_data": false
+  },
+  {
+    "study_id": "pmid39906894_ecg-lm-understanding-electrocardiogram-with-a-large-language-model",
+    "design": "other",
+    "topics": [
+      "ai-algorithm"
+    ],
+    "n": null,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": null,
+    "product_ids": [],
+    "metric": null,
+    "result": "Abstract not available; title indicates development of a large language model for ECG interpretation. No extractable data.",
+    "has_quantitative_data": false
+  }
+]

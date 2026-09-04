@@ -1,0 +1,249 @@
+[
+  {
+    "study_id": "pmid39912958_monitoring-heart-rhythms-in-adult-males-with-x-linked-ichthyosis-using-wearable-",
+    "design": "pilot",
+    "topics": [
+      "usability",
+      "telemedicine",
+      "device-validation"
+    ],
+    "n": 5,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": [
+      "Apple Watch"
+    ],
+    "product_ids": [],
+    "metric": "Data return rate and diagnostic yield of Apple Watch ECG monitoring in a rare-disease cohort",
+    "result": ">95% data return rate over 8 weeks; 2/5 participants showed ventricular ectopic beats; the single watch 'alert' ECG returned was read as normal sinus rhythm (possible false positive).",
+    "has_quantitative_data": true
+  },
+  {
+    "study_id": "pmid39946707_an-explainable-ai-application-af-fective-to-support-monitoring-of-patients-with-",
+    "design": "other",
+    "topics": [
+      "usability",
+      "ai-algorithm",
+      "human-factors"
+    ],
+    "n": 23,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": [
+      "AF'fective progressive web application"
+    ],
+    "product_ids": [],
+    "metric": "Qualitative user-experience evaluation of an explainable-AI prototype by cardiologists",
+    "result": "Progressive web app prototype received above-average user experience evaluations from cardiologists in a 3-stage co-design/pilot process; no numeric score reported.",
+    "has_quantitative_data": false
+  },
+  {
+    "study_id": "pmid39997283_screening-for-left-ventricular-hypertrophy-using-artificial-intelligence-algorit",
+    "design": "systematic-review",
+    "topics": [
+      "diagnostic-accuracy",
+      "ai-algorithm"
+    ],
+    "n": null,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": null,
+    "product_ids": [],
+    "metric": null,
+    "result": "Abstract not available; title indicates a critical literature review with meta-analysis of AI algorithms screening for left ventricular hypertrophy on 12-lead ECG. No extractable data.",
+    "has_quantitative_data": false
+  },
+  {
+    "study_id": "pmid40012109_feasibility-of-remote-intensive-monitoring-a-novel-approach-to-reduce-black-post",
+    "design": "pilot",
+    "topics": [
+      "usability",
+      "telemedicine",
+      "device-validation"
+    ],
+    "n": 20,
+    "sus_score": 80,
+    "task_time": null,
+    "error_rate": null,
+    "devices": [
+      "wearable physiologic monitoring patch",
+      "home vital-sign monitoring equipment"
+    ],
+    "product_ids": [],
+    "metric": "Feasibility, acceptability, appropriateness and usability (System Usability Scale) of remote postpartum monitoring",
+    "result": "Rated feasible 93%, acceptable 93%, appropriate 92%, usable 80% (SUS); remote monitoring detected 60% of women with BP >140/90 mmHg in the first 2 postpartum weeks.",
+    "has_quantitative_data": true
+  },
+  {
+    "study_id": "pmid40137051_physiological-sensors-equipped-in-wearable-devices-for-management-of-long-covid-",
+    "design": "systematic-review",
+    "topics": [
+      "telemedicine",
+      "device-validation"
+    ],
+    "n": null,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": null,
+    "product_ids": [],
+    "metric": null,
+    "result": "PRISMA-ScR scoping review of 11 studies (of 1186 screened) on wearables for long COVID; 10 different devices identified (4 FDA-approved) covering HRV, temperature, sleep and activity; narrative synthesis without a single comparable usability/performance figure.",
+    "has_quantitative_data": false
+  },
+  {
+    "study_id": "pmid40142284_advanced-ecg-analysis-to-evaluate-multimodal-exercise-effects-on-cardiovascular-",
+    "design": "other",
+    "topics": [
+      "signal-processing"
+    ],
+    "n": null,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": null,
+    "product_ids": [],
+    "metric": null,
+    "result": "Abstract not available; title indicates advanced ECG analysis of multimodal exercise effects on cardiovascular health. No extractable data.",
+    "has_quantitative_data": false
+  },
+  {
+    "study_id": "pmid40190966_a-moroccan-experience-in-the-management-of-acute-coronary-syndrome-without-st-se",
+    "design": "cohort",
+    "topics": [
+      "not-relevant"
+    ],
+    "n": 140,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": null,
+    "product_ids": [],
+    "metric": "Clinical, paraclinical and therapeutic profile of NSTEMI patients",
+    "result": "Retrospective single-center cohort of 140 NSTEMI patients; in-hospital mortality 3%; clinical epidemiology study, not a software study.",
+    "has_quantitative_data": false
+  },
+  {
+    "study_id": "pmid40314069_effects-of-anthropomorphic-features-of-co-robots-on-users-perception-and-emotion",
+    "design": "other",
+    "topics": [
+      "not-relevant"
+    ],
+    "n": null,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": null,
+    "product_ids": [],
+    "metric": null,
+    "result": "Human-robot collaboration study on robot appearance/voice effects on user perception, using ECG/GSR/eye-tracking as physiological measures; not a cardiology software study.",
+    "has_quantitative_data": false
+  },
+  {
+    "study_id": "pmid40382083_false-crisis-alarms-in-cardiopulmonary-monitoring-identification-causes-and-clin",
+    "design": "observational",
+    "topics": [
+      "device-validation",
+      "workflow",
+      "ai-algorithm"
+    ],
+    "n": null,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": [
+      "cardiopulmonary physiologic monitor"
+    ],
+    "product_ids": [],
+    "metric": "Classification of true vs. false crisis alarms in cardiopulmonary monitoring",
+    "result": "Among crisis alarms reviewed, 11 true ventricular tachycardia and 11 true asystole alarms were identified; a high number of false alarms attributed to artifacts and low QRS voltage.",
+    "has_quantitative_data": true
+  },
+  {
+    "study_id": "pmid40424763_advancing-emotion-recognition-with-virtual-reality-a-multimodal-approach-using-p",
+    "design": "algorithm-development",
+    "topics": [
+      "not-relevant"
+    ],
+    "n": 36,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": null,
+    "product_ids": [],
+    "metric": "Machine-learning classification accuracy for emotion recognition from multimodal physiological signals",
+    "result": "ML models reached 80%, 85% and 70% accuracy for arousal, valence and 4-class emotion classification respectively; ECG used only as one of several affective-computing signals, not a cardiology software study.",
+    "has_quantitative_data": false
+  },
+  {
+    "study_id": "pmid40549417_the-inverse-and-non-linear-association-between-central-augmentation-index-and-he",
+    "design": "cohort",
+    "topics": [
+      "not-relevant"
+    ],
+    "n": 1052,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": null,
+    "product_ids": [],
+    "metric": null,
+    "result": "Cohort analysis (ADVANCE study) of male British combat veterans finding lower HRV (RMSSD) associated with higher central augmentation index; physiological association study, not a software study.",
+    "has_quantitative_data": false
+  },
+  {
+    "study_id": "pmid40658680_software-for-analysis-of-heart-rate-and-blood-pressure-time-series-data-from-the",
+    "design": "algorithm-development",
+    "topics": [
+      "signal-processing",
+      "workflow"
+    ],
+    "n": null,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": null,
+    "product_ids": [],
+    "metric": null,
+    "result": "Describes ValsalvaAnalyzer, a MATLAB GUI software combining signal processing and modeling to extract over 35 HR/BP biomarkers from Valsalva maneuver data; no user-study or performance metrics reported in the abstract.",
+    "has_quantitative_data": false
+  },
+  {
+    "study_id": "pmid40731063_classifying-social-and-physical-pain-from-multimodal-physiological-signals-using",
+    "design": "algorithm-development",
+    "topics": [
+      "not-relevant"
+    ],
+    "n": 73,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": null,
+    "product_ids": [],
+    "metric": "Machine-learning accuracy for classifying pain type from multimodal physiological signals",
+    "result": "ML classifiers reached 0.82 accuracy for social pain and 0.90 for physical pain vs. baseline; 0.63-0.77 accuracy distinguishing pain types; ECG used only as one of several signals, not a cardiology software study.",
+    "has_quantitative_data": false
+  },
+  {
+    "study_id": "pmid40784168_a-homecare-in-bed-hardware-system-for-precise-real-time-ecg-and-hrv-monitoring-w",
+    "design": "other",
+    "topics": [
+      "device-validation",
+      "signal-processing"
+    ],
+    "n": null,
+    "sus_score": null,
+    "task_time": null,
+    "error_rate": null,
+    "devices": [
+      "contactless bed-embedded ECG/HRV monitoring system"
+    ],
+    "product_ids": [],
+    "metric": "Electrode noise performance of a contactless in-bed ECG/HRV sensing system",
+    "result": "Flexible active electrodes achieved 64 dB noise reduction via double active shielding, with input-referred noise of 0.49 uV (abstract truncated before further results).",
+    "has_quantitative_data": true
+  }
+]

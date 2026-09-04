@@ -1,0 +1,27 @@
+{
+ "batch_id": "schiller-sema-data-management-brochure-2024--01",
+ "manual": {
+  "id": "schiller-sema-data-management-brochure-2024",
+  "title": "Schiller SEMA data management brochure 2024",
+  "vendor_slug": "schiller",
+  "pages": 4,
+  "doc_type": "brochure",
+  "lang": "en"
+ },
+ "crops": [
+  {
+   "crop_id": "schiller-sema-data-management-brochure-2024-p0002-1",
+   "image": "pipeline/candidates/schiller-sema-data-management-brochure-2024/schiller-sema-data-management-brochure-2024-p0002-1.png",
+   "page": 2,
+   "caption": null,
+   "context_above": "SEMA"
+  },
+  {
+   "crop_id": "schiller-sema-data-management-brochure-2024-p0002-2",
+   "image": "pipeline/candidates/schiller-sema-data-management-brochure-2024/schiller-sema-data-management-brochure-2024-p0002-2.png",
+   "page": 2,
+   "caption": null,
+   "context_above": null
+  }
+ ]
+}

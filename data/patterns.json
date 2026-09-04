@@ -3,108 +3,126 @@
   "slug": "login-auth",
   "name": "Login & authentication",
   "function_group": "management-worklist",
-  "description": "How a product gates access. Clinical software carries constraints consumer software does not: shared workstations, shift handover, badge readers, and audit requirements that make the session itself a regulated object."
+  "description": "How a product gates access. Clinical software carries constraints consumer software does not: shared workstations, shift handover, badge readers, and audit requirements that make the session itself a regulated object.",
+  "screen_count": 4
  },
  {
   "slug": "dashboard-home",
   "name": "Dashboard & home",
   "function_group": "management-worklist",
-  "description": "The first screen after sign-in. Reveals what each vendor believes the user came to do: start an exam, clear a queue, or read yesterday's backlog."
+  "description": "The first screen after sign-in. Reveals what each vendor believes the user came to do: start an exam, clear a queue, or read yesterday's backlog.",
+  "screen_count": 2
  },
  {
   "slug": "worklist",
   "name": "Worklist",
   "function_group": "management-worklist",
-  "description": "The queue of exams waiting to be acquired, reviewed or signed. The densest table in clinical software, and the screen where status vocabulary and triage priority get designed."
+  "description": "The queue of exams waiting to be acquired, reviewed or signed. The densest table in clinical software, and the screen where status vocabulary and triage priority get designed.",
+  "screen_count": 11
  },
  {
   "slug": "patient-registration",
   "name": "Patient registration",
   "function_group": "acquisition",
-  "description": "Entering or retrieving patient identity before an exam. Where manual typing, barcode scanning and HIS/EMR lookup compete, and where wrong-patient error is designed against."
+  "description": "Entering or retrieving patient identity before an exam. Where manual typing, barcode scanning and HIS/EMR lookup compete, and where wrong-patient error is designed against.",
+  "screen_count": 14
  },
  {
   "slug": "live-acquisition",
   "name": "Live acquisition",
   "function_group": "acquisition",
-  "description": "Real-time signal during recording, before anything is stored. Carries the highest time pressure of any screen in the product and the most aggressive feedback requirements."
+  "description": "Real-time signal during recording, before anything is stored. Carries the highest time pressure of any screen in the product and the most aggressive feedback requirements.",
+  "screen_count": 13
  },
  {
   "slug": "calibration-leads",
   "name": "Calibration & lead placement",
   "function_group": "acquisition",
-  "description": "Electrode contact quality, lead-off indication, gain and speed settings. The screen that decides whether the recording is usable at all."
+  "description": "Electrode contact quality, lead-off indication, gain and speed settings. The screen that decides whether the recording is usable at all.",
+  "screen_count": 1
  },
  {
   "slug": "ecg-viewer",
   "name": "ECG viewer",
   "function_group": "review-analysis",
-  "description": "Where the trace is actually read. The signature screen of the category, and the one with the widest design variance: lead selection placement, caliper behaviour, grid rendering and scroll model all differ product to product."
+  "description": "Where the trace is actually read. The signature screen of the category, and the one with the widest design variance: lead selection placement, caliper behaviour, grid rendering and scroll model all differ product to product.",
+  "screen_count": 21
  },
  {
   "slug": "measurements-interpretation",
   "name": "Measurements & interpretation",
   "function_group": "review-analysis",
-  "description": "Automatic measurements, interval tables and algorithmic interpretation statements. Where the product decides how much confidence to project about its own conclusions."
+  "description": "Automatic measurements, interval tables and algorithmic interpretation statements. Where the product decides how much confidence to project about its own conclusions.",
+  "screen_count": 31
  },
  {
   "slug": "holter-analysis",
   "name": "Holter analysis",
   "function_group": "review-analysis",
-  "description": "Ambulatory ECG review: full disclosure, beat templates, arrhythmia episodes and 24-hour trends. Reviewing hours of signal creates navigation problems that resting ECG never faces."
+  "description": "Ambulatory ECG review: full disclosure, beat templates, arrhythmia episodes and 24-hour trends. Reviewing hours of signal creates navigation problems that resting ECG never faces.",
+  "screen_count": 6
  },
  {
   "slug": "stress-test",
   "name": "Stress test",
   "function_group": "review-analysis",
-  "description": "Exercise protocol screens: stage timing, treadmill or ergometer control, ST trend and blood pressure prompts. The only screen in the category driven by a live protocol clock."
+  "description": "Exercise protocol screens: stage timing, treadmill or ergometer control, ST trend and blood pressure prompts. The only screen in the category driven by a live protocol clock.",
+  "screen_count": 18
  },
  {
   "slug": "report-editor",
   "name": "Report editor",
   "function_group": "reporting-signing",
-  "description": "Composing the diagnosis: findings, conclusion text, templates and phrase libraries, then signature. The screen where clinician time is actually spent and saved."
+  "description": "Composing the diagnosis: findings, conclusion text, templates and phrase libraries, then signature. The screen where clinician time is actually spent and saved.",
+  "screen_count": 8
  },
  {
   "slug": "report-output",
   "name": "Report output",
   "function_group": "reporting-signing",
-  "description": "The printed or exported artefact and its preview. Constrained by paper format and print layout in ways the on-screen viewer is not, and often the only part of the product a referring physician ever sees."
+  "description": "The printed or exported artefact and its preview. Constrained by paper format and print layout in ways the on-screen viewer is not, and often the only part of the product a referring physician ever sees.",
+  "screen_count": 3
  },
  {
   "slug": "search-filters",
   "name": "Search & filters",
   "function_group": "management-worklist",
-  "description": "Finding a prior exam across patients, dates, devices and status. Determines whether serial comparison is a realistic workflow or a theoretical feature."
+  "description": "Finding a prior exam across patients, dates, devices and status. Determines whether serial comparison is a realistic workflow or a theoretical feature.",
+  "screen_count": 8
  },
  {
   "slug": "settings",
   "name": "Settings",
   "function_group": "management-worklist",
-  "description": "Filters, lead format, print layout, algorithm thresholds, department defaults. The screen where a product's assumptions about who configures it become visible."
+  "description": "Filters, lead format, print layout, algorithm thresholds, department defaults. The screen where a product's assumptions about who configures it become visible.",
+  "screen_count": 24
  },
  {
   "slug": "user-management",
   "name": "Users & permissions",
   "function_group": "management-worklist",
-  "description": "Accounts, roles and signing authority. In clinical software this is a regulated surface: who may sign a report is a compliance question, not a preference."
+  "description": "Accounts, roles and signing authority. In clinical software this is a regulated surface: who may sign a report is a compliance question, not a preference.",
+  "screen_count": 0
  },
  {
   "slug": "connectivity-integration",
   "name": "Connectivity & integration",
   "function_group": "distribution-integration",
-  "description": "HL7, DICOM, FHIR, PACS and EMR configuration, plus device pairing and network setup. Usually the least designed screen in the product and the one that blocks deployment most often."
+  "description": "HL7, DICOM, FHIR, PACS and EMR configuration, plus device pairing and network setup. Usually the least designed screen in the product and the one that blocks deployment most often.",
+  "screen_count": 15
  },
  {
   "slug": "onboarding-wizard",
   "name": "Onboarding & wizards",
   "function_group": "education",
-  "description": "First-run setup, guided flows and step-by-step task assistance. Shows which tasks the vendor expects the user to be unable to complete unaided."
+  "description": "First-run setup, guided flows and step-by-step task assistance. Shows which tasks the vendor expects the user to be unable to complete unaided.",
+  "screen_count": 1
  },
  {
   "slug": "error-alert",
   "name": "Errors & alerts",
   "function_group": "acquisition",
-  "description": "Lead-off warnings, signal quality failures, storage and transmission errors. In a regulated device the wording of these screens is a safety artefact, not copy."
+  "description": "Lead-off warnings, signal quality failures, storage and transmission errors. In a regulated device the wording of these screens is a safety artefact, not copy.",
+  "screen_count": 1
  }
 ]

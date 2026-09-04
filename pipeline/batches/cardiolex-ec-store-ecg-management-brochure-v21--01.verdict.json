@@ -1,0 +1,8 @@
+[
+  {"crop_id": "cardiolex-ec-store-ecg-management-brochure-v21-p0001-1", "is_ui_screenshot": false, "reject_reason": "printed-trace"},
+  {"crop_id": "cardiolex-ec-store-ecg-management-brochure-v21-p0001-2", "is_ui_screenshot": false, "reject_reason": "hardware-photo"},
+  {"crop_id": "cardiolex-ec-store-ecg-management-brochure-v21-p0001-3", "is_ui_screenshot": false, "reject_reason": "hardware-photo"},
+  {"crop_id": "cardiolex-ec-store-ecg-management-brochure-v21-p0001-4", "is_ui_screenshot": true, "pattern": "live-acquisition", "modalities": ["stress-test"], "caption": "Live ECG monitoring screen on a stress test workstation, displaying a real-time multi-lead trace grid while a patient exercises on a bike.", "confidence": 0.5},
+  {"crop_id": "cardiolex-ec-store-ecg-management-brochure-v21-p0001-5", "is_ui_screenshot": false, "reject_reason": "hardware-photo"},
+  {"crop_id": "cardiolex-ec-store-ecg-management-brochure-v21-p0001-6", "is_ui_screenshot": false, "reject_reason": "hardware-photo"}
+]

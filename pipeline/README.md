@@ -96,6 +96,13 @@ language throughout, which keeps screen-type calls consistent.
 > Set `confidence` between 0 and 1 for how sure you are of the screen type, not
 > of the rejection.
 >
+> One exception to keeping the vendor's wording: some manual captions are not
+> descriptions at all. They are interaction instructions ("A Click to select the
+> lead. B Click icon to terminate the zoom function.") or fragments of an axis
+> label ("1 x 10s I … aVF 1 x 10s V1 … V6"). When the caption does not say what
+> the screen *is*, write your own and set `caption_source_override` to `"model"`.
+> Keep the vendor's caption only when it names or describes the screen.
+>
 > Write a JSON array to `pipeline/batches/<batch_id>.verdict.json`, one object
 > per crop, using every `crop_id` from the order exactly once:
 >
@@ -180,3 +187,25 @@ fit in one session. State lives on disk per manual and per batch, so each
 session advances a slice and `git diff` shows what entered. Process station
 software and webapps first: they are the relevant comparison and the smaller
 part of the corpus.
+
+## Known quality gaps
+
+**Weak manual captions.** 85% of accepted screens carry the vendor's own
+caption, which is the right default, but a minority of those captions are
+interaction instructions or axis-label fragments rather than descriptions of the
+screen. The GE CardioSoft manual is the worst case, captioning figures as "A
+Click to select the lead. B Click icon to terminate the zoom function." The
+stage 2 prompt now instructs an override for these; batches classified before
+that change still carry them.
+
+**Taxonomy gaps found in use.** Subagents reported low confidence (0.35 to 0.55)
+where a real screen has no matching slug: 3D vector loop analysis, waterfall and
+T-wave alternans displays, and serial median comparison were all mapped onto
+`ecg-viewer` or `measurements-interpretation` for lack of anywhere better.
+Meditech PCS, being an EHR rather than a cardiology product, mapped onto the
+taxonomy poorly throughout. Worth revisiting once more of the corpus is
+classified and the real distribution of screen types is visible.
+
+**`user-management` is still empty.** 17 of 18 patterns have screens; nothing in
+the processed subset shows an account or permissions screen, which is plausible
+rather than suspicious: vendors document them rarely.

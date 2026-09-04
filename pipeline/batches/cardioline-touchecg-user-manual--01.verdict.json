@@ -1,0 +1,182 @@
+[
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0018-1",
+    "is_ui_screenshot": true,
+    "pattern": "ecg-viewer",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Main window with quick User Interface",
+    "confidence": 0.9
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0018-2",
+    "is_ui_screenshot": true,
+    "pattern": "ecg-viewer",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Main window with full User Interface",
+    "confidence": 0.9
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0025-1",
+    "is_ui_screenshot": false,
+    "reject_reason": "logo-or-branding"
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0026-1",
+    "is_ui_screenshot": true,
+    "pattern": "ecg-viewer",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "DEMO Mode",
+    "confidence": 0.85
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0027-1",
+    "is_ui_screenshot": true,
+    "pattern": "onboarding-wizard",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Boot Screen for entering the Ward ID.",
+    "confidence": 0.7
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0029-1",
+    "is_ui_screenshot": true,
+    "pattern": "connectivity-integration",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Android Bluetooth settings screen showing available devices before pairing with the HD+ acquisition module.",
+    "confidence": 0.65
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0029-2",
+    "is_ui_screenshot": true,
+    "pattern": "connectivity-integration",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Bluetooth activation and HD+ search",
+    "confidence": 0.7
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0030-1",
+    "is_ui_screenshot": true,
+    "pattern": "connectivity-integration",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "HD+ Pairing",
+    "confidence": 0.8
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0031-1",
+    "is_ui_screenshot": true,
+    "pattern": "settings",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Settings window",
+    "confidence": 0.9
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0033-1",
+    "is_ui_screenshot": true,
+    "pattern": "settings",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Virtual keyboard configured correctly Virtual keyboard configured incorrectly Note: if Windows is in tablet mode, it enables the virtual keyboard by default directly from the PC settings and, in this case, the “Virtual Keyboard\" option in the touchECG must be disabled.",
+    "confidence": 0.75
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0033-2",
+    "is_ui_screenshot": true,
+    "pattern": "settings",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Virtual keyboard configured correctly Virtual keyboard configured incorrectly Note: if Windows is in tablet mode, it enables the virtual keyboard by default directly from the PC settings and, in this case, the “Virtual Keyboard\" option in the touchECG must be disabled.",
+    "confidence": 0.75
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0037-1",
+    "is_ui_screenshot": false,
+    "reject_reason": "electrode-diagram"
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0040-1",
+    "is_ui_screenshot": false,
+    "reject_reason": "electrode-diagram"
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0040-2",
+    "is_ui_screenshot": false,
+    "reject_reason": "electrode-diagram"
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0042-1",
+    "is_ui_screenshot": true,
+    "pattern": "live-acquisition",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Real time display window with Quick user interface",
+    "confidence": 0.8
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0042-2",
+    "is_ui_screenshot": true,
+    "pattern": "live-acquisition",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Real time display window with Full user interface",
+    "confidence": 0.8
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0046-1",
+    "is_ui_screenshot": true,
+    "pattern": "error-alert",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Real time display window with disconnected lead.",
+    "confidence": 0.75
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0048-1",
+    "is_ui_screenshot": true,
+    "pattern": "patient-registration",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Patient window",
+    "confidence": 0.9
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0051-1",
+    "is_ui_screenshot": true,
+    "pattern": "search-filters",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Local archive search window",
+    "confidence": 0.85
+  },
+  {
+    "crop_id": "cardioline-touchecg-user-manual-p0052-1",
+    "is_ui_screenshot": true,
+    "pattern": "worklist",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Work list",
+    "confidence": 0.9
+  }
+]

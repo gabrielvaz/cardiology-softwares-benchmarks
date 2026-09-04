@@ -10,7 +10,8 @@
   "bytes": 1715564,
   "lang": "pt",
   "doc_type": "user-manual",
-  "sha256": "bb879f52c40a6aa6"
+  "sha256": "bb879f52c40a6aa6",
+  "title_source": "metadata"
  },
  {
   "id": "alfamed-ritmus-1200a-manual-usuario-pt",
@@ -23,7 +24,8 @@
   "bytes": 1809575,
   "lang": "pt",
   "doc_type": "user-manual",
-  "sha256": "c68747209d2c5ec9"
+  "sha256": "c68747209d2c5ec9",
+  "title_source": "metadata"
  },
  {
   "id": "alivecor-kardia-mobile-user-manual-2017",
@@ -36,7 +38,8 @@
   "bytes": 552975,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "382f5326f5c43392"
+  "sha256": "382f5326f5c43392",
+  "title_source": "metadata"
  },
  {
   "id": "alivecor-kardia-user-manual-updated",
@@ -49,7 +52,8 @@
   "bytes": 923878,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "c50379f5f4d3b868"
+  "sha256": "c50379f5f4d3b868",
+  "title_source": "metadata"
  },
  {
   "id": "alivecor-kardiamobile-1-lead-manual-utilizador-pt",
@@ -62,7 +66,8 @@
   "bytes": 602862,
   "lang": "pt",
   "doc_type": "user-manual",
-  "sha256": "8ee671101c6deda1"
+  "sha256": "8ee671101c6deda1",
+  "title_source": "metadata"
  },
  {
   "id": "alivecor-kardiamobile-6l-instrucoes-utilizacao-pt",
@@ -75,20 +80,22 @@
   "bytes": 704597,
   "lang": "pt",
   "doc_type": "ifu",
-  "sha256": "5ccf2c3f55d9836c"
+  "sha256": "5ccf2c3f55d9836c",
+  "title_source": "metadata"
  },
  {
   "id": "alivecor-kardiamobile-omron-user-manual",
   "product_id": "alivecor-kardia-app-family",
   "vendor_slug": "alivecor",
-  "title": "Microsoft Word - 00LB17.9 Kardia User Manual.docx",
+  "title": "AliveCor KardiaMobile OMRON user manual",
   "path": "ecg-manuals/alivecor/AliveCor-KardiaMobile-OMRON-user-manual.pdf",
   "cdn": "jsdelivr",
   "pages": 38,
   "bytes": 366441,
   "lang": "unknown",
   "doc_type": "user-manual",
-  "sha256": "0adb4de98539867e"
+  "sha256": "0adb4de98539867e",
+  "title_source": "filename"
  },
  {
   "id": "amedtec-ecgpro-guide",
@@ -101,33 +108,36 @@
   "bytes": 682772,
   "lang": "en",
   "doc_type": "guide",
-  "sha256": "7ec98a2230a0dc4f"
+  "sha256": "7ec98a2230a0dc4f",
+  "title_source": "metadata"
  },
  {
   "id": "apple-ecg-app-manual",
   "product_id": "apple-watch-ecg-app",
   "vendor_slug": "apple",
-  "title": "Microsoft Word - 099-23781-T ECG 2.X Instructions for Use (IFU)_B.docx",
+  "title": "Apple ECG App Manual",
   "path": "ecg-manuals/apple/Apple-ECG-App-Manual.pdf",
   "cdn": "jsdelivr",
   "pages": 8,
   "bytes": 225060,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "23bd826f7a19650d"
+  "sha256": "23bd826f7a19650d",
+  "title_source": "filename"
  },
  {
   "id": "apple-watch-series-9-ecg-instrucoes-pt",
   "product_id": "apple-watch-ecg-app",
   "vendor_slug": "apple",
-  "title": "Microsoft Word - 099-14501-AG ECG 1.X Instructions for Use (IFU)_pt_PT.docx",
+  "title": "Apple Watch Series 9 ECG instrucoes pt",
   "path": "ecg-manuals/apple/Apple-Watch-Series-9-ECG-instrucoes-pt.pdf",
   "cdn": "jsdelivr",
   "pages": 8,
   "bytes": 219205,
   "lang": "pt",
   "doc_type": "ifu",
-  "sha256": "a207c1f03482dcde"
+  "sha256": "a207c1f03482dcde",
+  "title_source": "filename"
  },
  {
   "id": "bionet-cardio-7-manual-instalacao-pt",
@@ -140,7 +150,8 @@
   "bytes": 1950978,
   "lang": "pt",
   "doc_type": "installation",
-  "sha256": "fe0488f093230e50"
+  "sha256": "fe0488f093230e50",
+  "title_source": "metadata"
  },
  {
   "id": "bionet-cardio7-user-manual",
@@ -153,7 +164,8 @@
   "bytes": 15287771,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "74b93de597d41040"
+  "sha256": "74b93de597d41040",
+  "title_source": "metadata"
  },
  {
   "id": "bionet-cardiocare-2000-manual-instalacao-pt",
@@ -166,7 +178,8 @@
   "bytes": 1049774,
   "lang": "unknown",
   "doc_type": "installation",
-  "sha256": "03387c8458b9e571"
+  "sha256": "03387c8458b9e571",
+  "title_source": "metadata"
  },
  {
   "id": "bionet-cardiocare-2000-manual-operador-pt",
@@ -179,7 +192,8 @@
   "bytes": 1972000,
   "lang": "pt",
   "doc_type": "user-manual",
-  "sha256": "e0b6bd07755222b8"
+  "sha256": "e0b6bd07755222b8",
+  "title_source": "metadata"
  },
  {
   "id": "bionet-cardiocare-2000-operation-manual-v3.22",
@@ -192,7 +206,8 @@
   "bytes": 1993494,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "06ec149f96f9413f"
+  "sha256": "06ec149f96f9413f",
+  "title_source": "metadata"
  },
  {
   "id": "bionet-cardiocare-2000-user-manual",
@@ -205,7 +220,8 @@
   "bytes": 1616392,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "0bb45cc2911e576f"
+  "sha256": "0bb45cc2911e576f",
+  "title_source": "metadata"
  },
  {
   "id": "bionet-cardiotouch-3000-guia-rapido-pt",
@@ -218,7 +234,8 @@
   "bytes": 671173,
   "lang": "unknown",
   "doc_type": "quick-guide",
-  "sha256": "306e6e76b749d7a6"
+  "sha256": "306e6e76b749d7a6",
+  "title_source": "metadata"
  },
  {
   "id": "bionet-cardiotouch-3000-user-manual-updated",
@@ -231,7 +248,8 @@
   "bytes": 4031023,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "6b1885b66458d92d"
+  "sha256": "6b1885b66458d92d",
+  "title_source": "metadata"
  },
  {
   "id": "bpl-cardiart-genx3-3-channel-ecg-machine",
@@ -244,7 +262,8 @@
   "bytes": 907119,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "dffee9b8bc9de502"
+  "sha256": "dffee9b8bc9de502",
+  "title_source": "metadata"
  },
  {
   "id": "bpl-medical-technologies-product-catalogue",
@@ -257,33 +276,36 @@
   "bytes": 5553478,
   "lang": "en",
   "doc_type": "brochure",
-  "sha256": "45891a28271032a5"
+  "sha256": "45891a28271032a5",
+  "title_source": "metadata"
  },
  {
   "id": "btl-8-ecg-manual-usuario-pt",
   "product_id": "btl-08-ecg-series",
   "vendor_slug": "btl",
-  "title": "Microsoft Word - 070-80manen112z1.doc",
+  "title": "BTL 8 ECG manual usuario pt",
   "path": "ecg-manuals/btl/BTL-8-ECG-manual-usuario-pt.pdf",
   "cdn": "jsdelivr",
   "pages": 30,
   "bytes": 453896,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "4e497e0d911eed64"
+  "sha256": "4e497e0d911eed64",
+  "title_source": "filename"
  },
  {
   "id": "btl-ekg-08-series-manual",
   "product_id": "btl-08-ecg-series",
   "vendor_slug": "btl",
-  "title": "073-80manen201",
+  "title": "BTL EKG 08 series manual",
   "path": "ecg-manuals/btl/BTL-EKG-08-series-manual.pdf",
   "cdn": "jsdelivr",
   "pages": 43,
   "bytes": 1076011,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "245aa6cd69d4cff7"
+  "sha256": "245aa6cd69d4cff7",
+  "title_source": "filename"
  },
  {
   "id": "burdick-e350i-ecg-user-manual",
@@ -296,7 +318,8 @@
   "bytes": 3806947,
   "lang": "unknown",
   "doc_type": "user-manual",
-  "sha256": "6c22b53247bf2db2"
+  "sha256": "6c22b53247bf2db2",
+  "title_source": "metadata"
  },
  {
   "id": "burdick-eclipse-ecg-user-manual",
@@ -309,7 +332,8 @@
   "bytes": 14250180,
   "lang": "unknown",
   "doc_type": "user-manual",
-  "sha256": "a18129a92cd67f94"
+  "sha256": "a18129a92cd67f94",
+  "title_source": "metadata"
  },
  {
   "id": "quinton-q-stress-4.5-manual",
@@ -322,7 +346,8 @@
   "bytes": 7832219,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "a77ba573d38e35cd"
+  "sha256": "a77ba573d38e35cd",
+  "title_source": "metadata"
  },
  {
   "id": "quinton-q-stress-system-user-manual-hillrom",
@@ -335,7 +360,8 @@
   "bytes": 11933467,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "6cf0ac24709e3f78"
+  "sha256": "6cf0ac24709e3f78",
+  "title_source": "metadata"
  },
  {
   "id": "cardiolex-ec-store-ecg-management-brochure-2023",
@@ -348,7 +374,8 @@
   "bytes": 1520886,
   "lang": "en",
   "doc_type": "brochure",
-  "sha256": "eca4b244ed2ed4fe"
+  "sha256": "eca4b244ed2ed4fe",
+  "title_source": "metadata"
  },
  {
   "id": "cardiolex-ec-store-ecg-management-brochure-v21",
@@ -361,20 +388,22 @@
   "bytes": 228907,
   "lang": "en",
   "doc_type": "brochure",
-  "sha256": "b19b71abe2fcfd6e"
+  "sha256": "b19b71abe2fcfd6e",
+  "title_source": "metadata"
  },
  {
   "id": "cardioline-cubestress-impressora-manual-usuario-pt",
   "product_id": "cardioline-200p",
   "vendor_slug": "cardioline",
-  "title": "200P",
+  "title": "Cardioline CubeStress impressora manual usuario pt",
   "path": "ecg-manuals/cardioline/Cardioline-CubeStress-impressora-manual-usuario-pt.pdf",
   "cdn": "jsdelivr",
   "pages": 32,
   "bytes": 1553468,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "05d6631adb3cda02"
+  "sha256": "05d6631adb3cda02",
+  "title_source": "filename"
  },
  {
   "id": "cardioline-delta-1-plus-ecg-recorder-user-manual",
@@ -387,7 +416,8 @@
   "bytes": 1649244,
   "lang": "unknown",
   "doc_type": "user-manual",
-  "sha256": "1313c7c9ff726723"
+  "sha256": "1313c7c9ff726723",
+  "title_source": "metadata"
  },
  {
   "id": "cardioline-delta-1-plus-user-manual-en",
@@ -400,20 +430,22 @@
   "bytes": 1332220,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "a3b9b2e8a57c7ca9"
+  "sha256": "a3b9b2e8a57c7ca9",
+  "title_source": "metadata"
  },
  {
   "id": "cardioline-ar600-user-manual",
   "product_id": "cardioline-ar600",
   "vendor_slug": "cardioline",
-  "title": "Microsoft Word - um_ar600_cardioline_01_eng1.doc",
+  "title": "Cardioline ar600 User manual",
   "path": "ecg-manuals/cardioline/Cardioline-ar600-User-manual.pdf",
   "cdn": "jsdelivr",
   "pages": 36,
   "bytes": 414093,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "3491a15caa53c692"
+  "sha256": "3491a15caa53c692",
+  "title_source": "filename"
  },
  {
   "id": "cardioline-touchecg-user-manual",
@@ -426,7 +458,8 @@
   "bytes": 8101078,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "ddf806bda418a9ac"
+  "sha256": "ddf806bda418a9ac",
+  "title_source": "metadata"
  },
  {
   "id": "cardios-dynamis-ecg-brochure",
@@ -439,7 +472,8 @@
   "bytes": 799989,
   "lang": "pt",
   "doc_type": "brochure",
-  "sha256": "76e5146efb8b92f2"
+  "sha256": "76e5146efb8b92f2",
+  "title_source": "metadata"
  },
  {
   "id": "cardios-dynamis-ecg-manual-anvisa-pt",
@@ -452,7 +486,8 @@
   "bytes": 1594274,
   "lang": "pt",
   "doc_type": "user-manual",
-  "sha256": "f17b0caeab29261c"
+  "sha256": "f17b0caeab29261c",
+  "title_source": "metadata"
  },
  {
   "id": "cardios-dynamis-ecg-telemedicina-passo-a-passo-pt",
@@ -465,7 +500,8 @@
   "bytes": 76607,
   "lang": "pt",
   "doc_type": "user-manual",
-  "sha256": "5b8bb08c16d2b471"
+  "sha256": "5b8bb08c16d2b471",
+  "title_source": "metadata"
  },
  {
   "id": "comen-cm1200-manual-usuario-pt",
@@ -478,7 +514,8 @@
   "bytes": 1853369,
   "lang": "pt",
   "doc_type": "user-manual",
-  "sha256": "1cfa50475254b6dc"
+  "sha256": "1cfa50475254b6dc",
+  "title_source": "metadata"
  },
  {
   "id": "comen-cm1200b-instrucoes-uso-pt",
@@ -491,20 +528,22 @@
   "bytes": 1371890,
   "lang": "pt",
   "doc_type": "ifu",
-  "sha256": "8ebddc46abf16a59"
+  "sha256": "8ebddc46abf16a59",
+  "title_source": "metadata"
  },
  {
   "id": "corpuls-aed-user-manual-v7.0-eng",
   "product_id": "corpuls-aed",
   "vendor_slug": "corpuls",
-  "title": "221209_GAN_corpuls aed_v7.0_ENG_K.pdf",
+  "title": "Corpuls AED user manual v7.0 ENG",
   "path": "ecg-manuals/corpuls/Corpuls-AED-user-manual-v7.0-ENG.pdf",
   "cdn": "jsdelivr",
   "pages": 80,
   "bytes": 2697306,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "94c733373beffb45"
+  "sha256": "94c733373beffb45",
+  "title_source": "filename"
  },
  {
   "id": "corpuls3-defibrillator-user-manual-frankshospitalworkshop",
@@ -517,7 +556,8 @@
   "bytes": 8706230,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "cb171348f98a824b"
+  "sha256": "cb171348f98a824b",
+  "title_source": "metadata"
  },
  {
   "id": "corpuls3-user-manual-v4.2-eng",
@@ -530,7 +570,8 @@
   "bytes": 14098396,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "dbd9aa20ad715cde"
+  "sha256": "dbd9aa20ad715cde",
+  "title_source": "metadata"
  },
  {
   "id": "customed-gluco-hct-manual",
@@ -543,46 +584,50 @@
   "bytes": 108960,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "141d7dddd8459276"
+  "sha256": "141d7dddd8459276",
+  "title_source": "metadata"
  },
  {
   "id": "customed-all-devices-safety-part-1",
   "product_id": "custo-med-diagnostic-systems-safety",
   "vendor_slug": "customed",
-  "title": "GA-1-All-Devices-Part-1-Safety-custo-med-EN-006-LEN.indd",
+  "title": "Customed all devices safety part 1",
   "path": "ecg-manuals/customed/Customed-all-devices-safety-part-1.pdf",
   "cdn": "jsdelivr",
   "pages": 16,
   "bytes": 508062,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "d3e3275d4a0f0df4"
+  "sha256": "d3e3275d4a0f0df4",
+  "title_source": "filename"
  },
  {
   "id": "drager-infinity-gamma-user-manual",
   "product_id": "drager-infinity-gamma",
   "vendor_slug": "drager",
-  "title": "GAM-F40-EN-r00.book",
+  "title": "Drager Infinity Gamma user manual",
   "path": "ecg-manuals/drager/Drager-Infinity-Gamma-user-manual.pdf",
   "cdn": "jsdelivr",
   "pages": 384,
   "bytes": 6685492,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "b0552ded60f75988"
+  "sha256": "b0552ded60f75988",
+  "title_source": "filename"
  },
  {
   "id": "drager-infinity-vista-xl-user-manual",
   "product_id": "drager-infinity-vista-xl",
   "vendor_slug": "drager",
-  "title": "VXL-F70-EN-R00.book",
+  "title": "Drager Infinity Vista XL user manual",
   "path": "ecg-manuals/drager/Drager-Infinity-Vista-XL-user-manual.pdf",
   "cdn": "jsdelivr",
   "pages": 382,
   "bytes": 4303600,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "1fd2ae4a6782addd"
+  "sha256": "1fd2ae4a6782addd",
+  "title_source": "filename"
  },
  {
   "id": "drager-patient-monitor-pm8060-user-manual",
@@ -595,7 +640,8 @@
   "bytes": 1216822,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "9d6a2604bf77cdaf"
+  "sha256": "9d6a2604bf77cdaf",
+  "title_source": "metadata"
  },
  {
   "id": "edan-em-301-em-601-manual-usuario-pt",
@@ -608,33 +654,36 @@
   "bytes": 1342735,
   "lang": "pt",
   "doc_type": "user-manual",
-  "sha256": "16279f134f1650f9"
+  "sha256": "16279f134f1650f9",
+  "title_source": "metadata"
  },
  {
   "id": "edan-se-1200-express-official-manual",
   "product_id": "edan-se-1200-express",
   "vendor_slug": "edan",
-  "title": "ENG-ECG-SE-1200 Express-V1.0-20200305",
+  "title": "EDAN SE 1200 Express official manual",
   "path": "ecg-manuals/edan/EDAN-SE-1200-Express-official-manual.pdf",
   "cdn": "jsdelivr",
   "pages": 2,
   "bytes": 498389,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "05fdcbce8c54918f"
+  "sha256": "05fdcbce8c54918f",
+  "title_source": "filename"
  },
  {
   "id": "edan-se-1201-official-manual",
   "product_id": "edan-se-1201",
   "vendor_slug": "edan",
-  "title": "ENG-ECG-SE-1201-V1.0-20200305",
+  "title": "EDAN SE 1201 official manual",
   "path": "ecg-manuals/edan/EDAN-SE-1201-official-manual.pdf",
   "cdn": "jsdelivr",
   "pages": 2,
   "bytes": 1256316,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "aa698af87812fa24"
+  "sha256": "aa698af87812fa24",
+  "title_source": "filename"
  },
  {
   "id": "edan-se-301-manual-usuario-pt",
@@ -647,20 +696,22 @@
   "bytes": 1447496,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "c4e33e007abbc10e"
+  "sha256": "c4e33e007abbc10e",
+  "title_source": "metadata"
  },
  {
   "id": "edan-se-601-series-official-manual",
   "product_id": "edan-se-601-series",
   "vendor_slug": "edan",
-  "title": "ENG-ECG-SE-601 series-V1.0-20200312",
+  "title": "EDAN SE 601 series official manual",
   "path": "ecg-manuals/edan/EDAN-SE-601-series-official-manual.pdf",
   "cdn": "jsdelivr",
   "pages": 2,
   "bytes": 959693,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "b7d1e4eb3f3bf0ec"
+  "sha256": "b7d1e4eb3f3bf0ec",
+  "title_source": "filename"
  },
  {
   "id": "edan-electrocardiograph-user-manual",
@@ -673,7 +724,8 @@
   "bytes": 1977186,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "6f67adeb33a708a6"
+  "sha256": "6f67adeb33a708a6",
+  "title_source": "metadata"
  },
  {
   "id": "fukuda-denshi-ds-8500-bedside-monitor-manual",
@@ -686,7 +738,8 @@
   "bytes": 8890339,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "ac2a67382cac9c7e"
+  "sha256": "ac2a67382cac9c7e",
+  "title_source": "metadata"
  },
  {
   "id": "fukuda-denshi-fx-8400-fa-operation-manual",
@@ -699,7 +752,8 @@
   "bytes": 7101907,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "7045ce18d6439317"
+  "sha256": "7045ce18d6439317",
+  "title_source": "metadata"
  },
  {
   "id": "fukuda-denshi-fx7202-ecg-user-manual",
@@ -712,33 +766,36 @@
   "bytes": 5151342,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "f730809cde8ce8f1"
+  "sha256": "f730809cde8ce8f1",
+  "title_source": "metadata"
  },
  {
   "id": "ge-case-v6-7-user-manual",
   "product_id": "ge-case",
   "vendor_slug": "ge-healthcare",
-  "title": "2060290-201_CASE_Advantech_OM_ENG.book",
+  "title": "GE CASE v6 7 user manual",
   "path": "ecg-manuals/ge-healthcare/GE-CASE-v6-7-user-manual.pdf",
   "cdn": "jsdelivr",
   "pages": 346,
   "bytes": 6802802,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "187ef9946e3113ca"
+  "sha256": "187ef9946e3113ca",
+  "title_source": "filename"
  },
  {
   "id": "ge-cardiosoft-diagnostic-system-user-guide-tiger",
   "product_id": "ge-cardiosoft",
   "vendor_slug": "ge-healthcare",
-  "title": "2060290-002_C_CardioSoft_OM_Eng.book",
+  "title": "GE CardioSoft diagnostic system user guide tiger",
   "path": "ecg-manuals/ge-healthcare/GE-CardioSoft-diagnostic-system-user-guide-tiger.pdf",
   "cdn": "jsdelivr",
   "pages": 326,
   "bytes": 7798604,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "c18b24145fd4ba60"
+  "sha256": "c18b24145fd4ba60",
+  "title_source": "filename"
  },
  {
   "id": "ge-mac-2000-manual",
@@ -751,7 +808,8 @@
   "bytes": 6276561,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "acf72a02b8ce51db"
+  "sha256": "acf72a02b8ce51db",
+  "title_source": "metadata"
  },
  {
   "id": "ge-mac-2000-operators-manual",
@@ -764,20 +822,22 @@
   "bytes": 6971594,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "8adc03f317d9c3aa"
+  "sha256": "8adc03f317d9c3aa",
+  "title_source": "metadata"
  },
  {
   "id": "ge-mac-400-quick-guide",
   "product_id": "ge-mac-400",
   "vendor_slug": "ge-healthcare",
-  "title": "2032589-001.book",
+  "title": "GE MAC 400 quick guide",
   "path": "ecg-manuals/ge-healthcare/GE-MAC-400-quick-guide.pdf",
   "cdn": "jsdelivr",
   "pages": 7,
   "bytes": 538659,
   "lang": "en",
   "doc_type": "quick-guide",
-  "sha256": "1155c944c2138415"
+  "sha256": "1155c944c2138415",
+  "title_source": "filename"
  },
  {
   "id": "ge-mac-800-operators-manual",
@@ -790,7 +850,8 @@
   "bytes": 2145653,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "7100e42c157bee6f"
+  "sha256": "7100e42c157bee6f",
+  "title_source": "metadata"
  },
  {
   "id": "ge-mac-vu360-user-manual",
@@ -803,7 +864,8 @@
   "bytes": 10404185,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "dbc32686cc39bb80"
+  "sha256": "dbc32686cc39bb80",
+  "title_source": "metadata"
  },
  {
   "id": "ge-t2100-st1-st2-treadmill-manual-operador-pt",
@@ -816,7 +878,8 @@
   "bytes": 1022478,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "6dbc382571eee11c"
+  "sha256": "6dbc382571eee11c",
+  "title_source": "metadata"
  },
  {
   "id": "marquette-mac-12-15-ecg-user-manual",
@@ -829,7 +892,8 @@
   "bytes": 13937075,
   "lang": "unknown",
   "doc_type": "user-manual",
-  "sha256": "b0ad791d1ff13cf0"
+  "sha256": "b0ad791d1ff13cf0",
+  "title_source": "metadata"
  },
  {
   "id": "marquette-mac-15-ecg-user-manual",
@@ -842,7 +906,8 @@
   "bytes": 15331180,
   "lang": "unknown",
   "doc_type": "user-manual",
-  "sha256": "30ede4694e9a81ff"
+  "sha256": "30ede4694e9a81ff",
+  "title_source": "metadata"
  },
  {
   "id": "marquette-mac-pc-ecg-service-manual",
@@ -855,20 +920,22 @@
   "bytes": 21470802,
   "lang": "unknown",
   "doc_type": "service-manual",
-  "sha256": "23433c4fa5a3fb34"
+  "sha256": "23433c4fa5a3fb34",
+  "title_source": "metadata"
  },
  {
   "id": "hp-pagewriter-xl-cardiographs-service-manual",
   "product_id": "hp-pagewriter-xl",
   "vendor_slug": "hewlett-packard",
-  "title": "_0608094836_001.pdf",
+  "title": "HP PageWriter XL Cardiographs service manual",
   "path": "ecg-manuals/hewlett-packard/HP-PageWriter-XL-Cardiographs-service-manual.pdf",
   "cdn": "jsdelivr",
   "pages": 280,
   "bytes": 14049465,
   "lang": "unknown",
   "doc_type": "service-manual",
-  "sha256": "41ac1f6870681542"
+  "sha256": "41ac1f6870681542",
+  "title_source": "filename"
  },
  {
   "id": "hp-pagewriter-xl-ecg-service-manual-1995",
@@ -881,7 +948,8 @@
   "bytes": 11529441,
   "lang": "en",
   "doc_type": "service-manual",
-  "sha256": "1dac899afd834b23"
+  "sha256": "1dac899afd834b23",
+  "title_source": "metadata"
  },
  {
   "id": "irhythm-zio-at-monitor-instructions-for-use",
@@ -894,7 +962,8 @@
   "bytes": 601110,
   "lang": "en",
   "doc_type": "ifu",
-  "sha256": "271b7f318e770daa"
+  "sha256": "271b7f318e770daa",
+  "title_source": "metadata"
  },
  {
   "id": "irhythm-zio-xt-clinical-reference-manual",
@@ -907,7 +976,8 @@
   "bytes": 1550817,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "0047111adde2e856"
+  "sha256": "0047111adde2e856",
+  "title_source": "metadata"
  },
  {
   "id": "irhythm-zio-xt-monitor-instructions-for-use",
@@ -920,7 +990,8 @@
   "bytes": 1611398,
   "lang": "en",
   "doc_type": "ifu",
-  "sha256": "ee71eadb9b3280c3"
+  "sha256": "ee71eadb9b3280c3",
+  "title_source": "metadata"
  },
  {
   "id": "meditech-ekg6012-user-manual",
@@ -933,7 +1004,8 @@
   "bytes": 1014098,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "f41cdbf854eb6b6e"
+  "sha256": "f41cdbf854eb6b6e",
+  "title_source": "metadata"
  },
  {
   "id": "meditech-pcs-5.67-software-user-manual",
@@ -946,7 +1018,8 @@
   "bytes": 1208499,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "f181601028772a76"
+  "sha256": "f181601028772a76",
+  "title_source": "metadata"
  },
  {
   "id": "lifepak-12-operating-instructions",
@@ -959,7 +1032,8 @@
   "bytes": 5217369,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "a7bd1fca237debec"
+  "sha256": "a7bd1fca237debec",
+  "title_source": "metadata"
  },
  {
   "id": "mindray-beneheart-c-s-series-manual-operador-pt",
@@ -972,20 +1046,22 @@
   "bytes": 1025056,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "76d848cd9f2e93fd"
+  "sha256": "76d848cd9f2e93fd",
+  "title_source": "metadata"
  },
  {
   "id": "mindray-beneheart-c-series-instructions-for-use",
   "product_id": "mindray-beneheart-c-s-series",
   "vendor_slug": "mindray",
-  "title": "Savior ops manual.book",
+  "title": "Mindray BeneHeart C series instructions for use",
   "path": "ecg-manuals/mindray/Mindray-BeneHeart-C-series-instructions-for-use.pdf",
   "cdn": "jsdelivr",
   "pages": 40,
   "bytes": 414080,
   "lang": "en",
   "doc_type": "ifu",
-  "sha256": "6f96b9ee018480a3"
+  "sha256": "6f96b9ee018480a3",
+  "title_source": "filename"
  },
  {
   "id": "mindray-beneheart-c1a-brochure",
@@ -998,7 +1074,8 @@
   "bytes": 402994,
   "lang": "pt",
   "doc_type": "brochure",
-  "sha256": "fbd89d7421d27958"
+  "sha256": "fbd89d7421d27958",
+  "title_source": "metadata"
  },
  {
   "id": "mindray-beneheart-r12-operators-manual",
@@ -1011,7 +1088,8 @@
   "bytes": 1911825,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "57fe37a4a8b347a2"
+  "sha256": "57fe37a4a8b347a2",
+  "title_source": "metadata"
  },
  {
   "id": "mindray-beneheart-r3-brochure-specifications",
@@ -1024,7 +1102,8 @@
   "bytes": 2668733,
   "lang": "en",
   "doc_type": "brochure",
-  "sha256": "4b1358bc790fc92c"
+  "sha256": "4b1358bc790fc92c",
+  "title_source": "metadata"
  },
  {
   "id": "mindray-beneheart-r3-operators-manual-official",
@@ -1037,20 +1116,22 @@
   "bytes": 2012244,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "b6f19051c4948c5c"
+  "sha256": "b6f19051c4948c5c",
+  "title_source": "metadata"
  },
  {
   "id": "mortara-eli-150-rx-manual",
   "product_id": "mortara-eli-150rx",
   "vendor_slug": "mortara",
-  "title": "ELI 150Rx ENG UM Rev D1.qxd",
+  "title": "Mortara ELI 150 Rx manual",
   "path": "ecg-manuals/mortara/Mortara-ELI-150-Rx-manual.pdf",
   "cdn": "jsdelivr",
   "pages": 76,
   "bytes": 9377177,
   "lang": "unknown",
   "doc_type": "user-manual",
-  "sha256": "64c4b8e750b3dbed"
+  "sha256": "64c4b8e750b3dbed",
+  "title_source": "filename"
  },
  {
   "id": "mortara-eli-150c-250c-archive",
@@ -1063,7 +1144,8 @@
   "bytes": 3193768,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "d5d3adb7f95d1c18"
+  "sha256": "d5d3adb7f95d1c18",
+  "title_source": "metadata"
  },
  {
   "id": "mortara-eli-150c-250c-manual-alt",
@@ -1076,7 +1158,8 @@
   "bytes": 23903346,
   "lang": "unknown",
   "doc_type": "user-manual",
-  "sha256": "cca63635bb73920d"
+  "sha256": "cca63635bb73920d",
+  "title_source": "metadata"
  },
  {
   "id": "mortara-eli-230-user-manual",
@@ -1089,7 +1172,8 @@
   "bytes": 1826656,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "584321a73d6ccbd4"
+  "sha256": "584321a73d6ccbd4",
+  "title_source": "metadata"
  },
  {
   "id": "mortara-eli-250-user-manual",
@@ -1102,7 +1186,8 @@
   "bytes": 1803200,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "1e516f72dbabbd68"
+  "sha256": "1e516f72dbabbd68",
+  "title_source": "metadata"
  },
  {
   "id": "mortara-h12-plus-digital-holter-recorder-user-manual",
@@ -1115,7 +1200,8 @@
   "bytes": 1635679,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "4993a22c27fd687b"
+  "sha256": "4993a22c27fd687b",
+  "title_source": "metadata"
  },
  {
   "id": "nihon-kohden-cardiofax-s-ecg-1250-service-manual",
@@ -1128,7 +1214,8 @@
   "bytes": 1532402,
   "lang": "en",
   "doc_type": "service-manual",
-  "sha256": "153e00d3c77dff21"
+  "sha256": "153e00d3c77dff21",
+  "title_source": "metadata"
  },
  {
   "id": "nihon-kohden-ecg-1550a-brochure",
@@ -1141,7 +1228,8 @@
   "bytes": 483273,
   "lang": "en",
   "doc_type": "brochure",
-  "sha256": "00997d5e33f6cf85"
+  "sha256": "00997d5e33f6cf85",
+  "title_source": "metadata"
  },
  {
   "id": "nihon-kohden-ecg-2550-brochure",
@@ -1154,7 +1242,8 @@
   "bytes": 1613164,
   "lang": "en",
   "doc_type": "brochure",
-  "sha256": "65c725f820c135dd"
+  "sha256": "65c725f820c135dd",
+  "title_source": "metadata"
  },
  {
   "id": "nihon-kohden-ecg-9320-manual",
@@ -1167,46 +1256,50 @@
   "bytes": 7033890,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "f8d1fa4e2b829b6d"
+  "sha256": "f8d1fa4e2b829b6d",
+  "title_source": "metadata"
  },
  {
   "id": "norav-necg-12c-user-manual-medplusequipment",
   "product_id": "norav-necg-12c",
   "vendor_slug": "norav",
-  "title": "Microsoft Word - NECG-12c User Manual.doc",
+  "title": "Norav NECG 12c user manual medplusequipment",
   "path": "ecg-manuals/norav/Norav-NECG-12c-user-manual-medplusequipment.pdf",
   "cdn": "jsdelivr",
   "pages": 137,
   "bytes": 3174198,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "0c740c7471749c49"
+  "sha256": "0c740c7471749c49",
+  "title_source": "filename"
  },
  {
   "id": "norav-necg-12c-user-manual-official",
   "product_id": "norav-necg-12c",
   "vendor_slug": "norav",
-  "title": "Microsoft Word - NECG-12C Electrocardiograph User Manual_NORAV.docx",
+  "title": "Norav NECG 12c user manual official",
   "path": "ecg-manuals/norav/Norav-NECG-12c-user-manual-official.pdf",
   "cdn": "jsdelivr",
   "pages": 120,
   "bytes": 2020069,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "239e318020a66cc3"
+  "sha256": "239e318020a66cc3",
+  "title_source": "filename"
  },
  {
   "id": "norav-pc-ecg-v5.9.7-users-guide",
   "product_id": "norav-pc-ecg-1200",
   "vendor_slug": "norav",
-  "title": "Microsoft Word - PCECG_OM-v597 -GmbH.docx",
+  "title": "Norav PC ECG v5.9.7 users guide",
   "path": "ecg-manuals/norav/Norav-PC-ECG-v5.9.7-users-guide.pdf",
   "cdn": "jsdelivr",
   "pages": 149,
   "bytes": 2749881,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "ab86accc47d20fbc"
+  "sha256": "ab86accc47d20fbc",
+  "title_source": "filename"
  },
  {
   "id": "philips-efficia-ecg100-brochure",
@@ -1219,7 +1312,8 @@
   "bytes": 2535424,
   "lang": "unknown",
   "doc_type": "brochure",
-  "sha256": "ffafde60dea49196"
+  "sha256": "ffafde60dea49196",
+  "title_source": "metadata"
  },
  {
   "id": "philips-pagewriter-tc20-brochure",
@@ -1232,20 +1326,22 @@
   "bytes": 869509,
   "lang": "en",
   "doc_type": "brochure",
-  "sha256": "d949df50e7bd7202"
+  "sha256": "d949df50e7bd7202",
+  "title_source": "metadata"
  },
  {
   "id": "philips-pagewriter-tc20-instructions-for-use",
   "product_id": "philips-pagewriter-tc50-tc70",
   "vendor_slug": "philips",
-  "title": "PWTC_IFU.book",
+  "title": "Philips PageWriter TC20 instructions for use",
   "path": "ecg-manuals/philips/Philips-PageWriter-TC20-instructions-for-use.pdf",
   "cdn": "jsdelivr",
   "pages": 295,
   "bytes": 7604688,
   "lang": "en",
   "doc_type": "ifu",
-  "sha256": "05e70be26b6f41f5"
+  "sha256": "05e70be26b6f41f5",
+  "title_source": "filename"
  },
  {
   "id": "philips-pagewriter-tc70-manual",
@@ -1258,7 +1354,8 @@
   "bytes": 10787290,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "745eba8206b6e825"
+  "sha256": "745eba8206b6e825",
+  "title_source": "metadata"
  },
  {
   "id": "philips-pagewriter-tc70-tc50-user-manual",
@@ -1271,7 +1368,8 @@
   "bytes": 10715955,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "8488e36269023b34"
+  "sha256": "8488e36269023b34",
+  "title_source": "metadata"
  },
  {
   "id": "philips-pagewriter-touch-service-manual",
@@ -1284,7 +1382,8 @@
   "bytes": 12441420,
   "lang": "en",
   "doc_type": "service-manual",
-  "sha256": "976e1c80b781de55"
+  "sha256": "976e1c80b781de55",
+  "title_source": "metadata"
  },
  {
   "id": "philips-pagewriter-trim-i-ii-iii-getting-started-guide",
@@ -1297,7 +1396,8 @@
   "bytes": 2136426,
   "lang": "en",
   "doc_type": "guide",
-  "sha256": "03b685f0b1ff8320"
+  "sha256": "03b685f0b1ff8320",
+  "title_source": "metadata"
  },
  {
   "id": "philips-pagewriter-trim-service-manual",
@@ -1310,7 +1410,8 @@
   "bytes": 7667620,
   "lang": "en",
   "doc_type": "service-manual",
-  "sha256": "189bd3566dd48c9e"
+  "sha256": "189bd3566dd48c9e",
+  "title_source": "metadata"
  },
  {
   "id": "philips-tempus-pro-documents",
@@ -1323,20 +1424,22 @@
   "bytes": 413473,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "31b274da0fc6c1bd"
+  "sha256": "31b274da0fc6c1bd",
+  "title_source": "metadata"
  },
  {
   "id": "philips-tempus-pro-user-operator-manual",
   "product_id": "philips-tempus-pro",
   "vendor_slug": "philips",
-  "title": "Microsoft Word - 41-2001EN-07 Tempus Pro User-Operator Manual",
+  "title": "Philips Tempus Pro user operator manual",
   "path": "ecg-manuals/philips/Philips-Tempus-Pro-user-operator-manual.pdf",
   "cdn": "jsdelivr",
   "pages": 274,
   "bytes": 18439264,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "05ebc831615505f6"
+  "sha256": "05ebc831615505f6",
+  "title_source": "filename"
  },
  {
   "id": "schiller-cardiovit-at-1-g2-datasheet",
@@ -1349,7 +1452,8 @@
   "bytes": 466725,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "4c9c4bd496ba8414"
+  "sha256": "4c9c4bd496ba8414",
+  "title_source": "metadata"
  },
  {
   "id": "schiller-cardiovit-at-102-g2-datasheet",
@@ -1362,20 +1466,22 @@
   "bytes": 475896,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "c9ea66cd3963f811"
+  "sha256": "c9ea66cd3963f811",
+  "title_source": "metadata"
  },
  {
   "id": "schiller-cardiovit-at-102-g2-user-manual",
   "product_id": "schiller-cardiovit-at-102-g2",
   "vendor_slug": "schiller",
-  "title": "2.511296d_EN_AT-102 G2.book",
+  "title": "SCHILLER Cardiovit AT 102 G2 user manual",
   "path": "ecg-manuals/schiller/SCHILLER-Cardiovit-AT-102-G2-user-manual.pdf",
   "cdn": "jsdelivr",
   "pages": 122,
   "bytes": 7697591,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "5178db9a83456d61"
+  "sha256": "5178db9a83456d61",
+  "title_source": "filename"
  },
  {
   "id": "schiller-cardiovit-ft-1-product-presentation",
@@ -1388,7 +1494,8 @@
   "bytes": 880221,
   "lang": "en",
   "doc_type": "brochure",
-  "sha256": "cacab6ed96b5fb1f"
+  "sha256": "cacab6ed96b5fb1f",
+  "title_source": "metadata"
  },
  {
   "id": "schiller-defigard-touch-7-brochure",
@@ -1401,7 +1508,8 @@
   "bytes": 1155910,
   "lang": "fr",
   "doc_type": "brochure",
-  "sha256": "ac472e90bff4cb2a"
+  "sha256": "ac472e90bff4cb2a",
+  "title_source": "metadata"
  },
  {
   "id": "schiller-6-channel-electrocardiograph-manual",
@@ -1414,7 +1522,8 @@
   "bytes": 1342023,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "26d87cc45cd4f689"
+  "sha256": "26d87cc45cd4f689",
+  "title_source": "metadata"
  },
  {
   "id": "schiller-at-2-ecg-user-manual",
@@ -1427,7 +1536,8 @@
   "bytes": 1182054,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "5b72b9e93125bfdf"
+  "sha256": "5b72b9e93125bfdf",
+  "title_source": "metadata"
  },
  {
   "id": "schiller-cs-200-service-handbook",
@@ -1440,20 +1550,22 @@
   "bytes": 3413694,
   "lang": "en",
   "doc_type": "service-manual",
-  "sha256": "908a05142ff25742"
+  "sha256": "908a05142ff25742",
+  "title_source": "metadata"
  },
  {
   "id": "schiller-cardiovit-at102-g2-datasheet",
   "product_id": "schiller-cardiovit-at-102-g2",
   "vendor_slug": "schiller",
-  "title": "2.500767_2021-02_EN_CARDIOVIT AT-102 G2_TD.fm",
+  "title": "Schiller Cardiovit AT102 G2 Datasheet",
   "path": "ecg-manuals/schiller/Schiller-Cardiovit-AT102-G2-Datasheet.pdf",
   "cdn": "jsdelivr",
   "pages": 2,
   "bytes": 160471,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "d1592a951fd589da"
+  "sha256": "d1592a951fd589da",
+  "title_source": "filename"
  },
  {
   "id": "schiller-sema-200-data-management-brochure",
@@ -1466,7 +1578,8 @@
   "bytes": 842317,
   "lang": "en",
   "doc_type": "brochure",
-  "sha256": "3c60c1d57c9d33d6"
+  "sha256": "3c60c1d57c9d33d6",
+  "title_source": "metadata"
  },
  {
   "id": "schiller-sema-data-management-brochure-2024",
@@ -1479,7 +1592,8 @@
   "bytes": 659188,
   "lang": "en",
   "doc_type": "brochure",
-  "sha256": "b110f5b65ca0d6da"
+  "sha256": "b110f5b65ca0d6da",
+  "title_source": "metadata"
  },
  {
   "id": "siemens-cardiostat-3-et-ecg-circuit-diagrams",
@@ -1492,20 +1606,22 @@
   "bytes": 11896032,
   "lang": "unknown",
   "doc_type": "user-manual",
-  "sha256": "0c69b76e494e4076"
+  "sha256": "0c69b76e494e4076",
+  "title_source": "metadata"
  },
  {
   "id": "spacelabs-healthcare-070-2407-00-rev-a",
   "product_id": "spacelabs-telemetry-transmitter-96281",
   "vendor_slug": "spacelabs",
-  "title": "070-2407-00 Rev A.book",
+  "title": "Spacelabs Healthcare 070 2407 00 Rev A",
   "path": "ecg-manuals/spacelabs/Spacelabs-Healthcare-070-2407-00-Rev-A.pdf",
   "cdn": "jsdelivr",
   "pages": 89,
   "bytes": 2156981,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "147d6df7613f5a10"
+  "sha256": "147d6df7613f5a10",
+  "title_source": "filename"
  },
  {
   "id": "spacelabs-sentinel-11-cardiology-information-system-brochure",
@@ -1518,7 +1634,8 @@
   "bytes": 1512046,
   "lang": "en",
   "doc_type": "brochure",
-  "sha256": "629e7cecea39c59f"
+  "sha256": "629e7cecea39c59f",
+  "title_source": "metadata"
  },
  {
   "id": "spacelabs-sentinel-cardiology-information-system-overview",
@@ -1531,7 +1648,8 @@
   "bytes": 227141,
   "lang": "en",
   "doc_type": "brochure",
-  "sha256": "8e56405c6d3d3efa"
+  "sha256": "8e56405c6d3d3efa",
+  "title_source": "metadata"
  },
  {
   "id": "spacelabs-vital-signs-monitor-93300-manual",
@@ -1544,7 +1662,8 @@
   "bytes": 205159,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "56af471529392a8f"
+  "sha256": "56af471529392a8f",
+  "title_source": "metadata"
  },
  {
   "id": "spacelabs-qube-monitors-capnography-pod-manual",
@@ -1557,7 +1676,8 @@
   "bytes": 967713,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "0d4140da19e534fd"
+  "sha256": "0d4140da19e534fd",
+  "title_source": "metadata"
  },
  {
   "id": "welch-allyn-cp-150-ecg-user-manual",
@@ -1570,7 +1690,8 @@
   "bytes": 1521061,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "d599f7f154bb9a5d"
+  "sha256": "d599f7f154bb9a5d",
+  "title_source": "metadata"
  },
  {
   "id": "welch-allyn-cp-150-directions-for-use",
@@ -1583,33 +1704,36 @@
   "bytes": 1566571,
   "lang": "en",
   "doc_type": "ifu",
-  "sha256": "e3063ed8d5fd41a9"
+  "sha256": "e3063ed8d5fd41a9",
+  "title_source": "metadata"
  },
  {
   "id": "welch-allyn-eli-230-user-manual",
   "product_id": "welch-allyn-eli-230",
   "vendor_slug": "welch-allyn",
-  "title": "Microsoft Word - a Cover2",
+  "title": "Welch Allyn ELI 230 user manual",
   "path": "ecg-manuals/welch-allyn/Welch-Allyn-ELI-230-user-manual.pdf",
   "cdn": "jsdelivr",
   "pages": 54,
   "bytes": 1958534,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "566203b14c5ad502"
+  "sha256": "566203b14c5ad502",
+  "title_source": "filename"
  },
  {
   "id": "welch-allyn-eli-280-user-manual",
   "product_id": "welch-allyn-eli-280",
   "vendor_slug": "welch-allyn",
-  "title": "Microsoft Word - a Cover rev 072013",
+  "title": "Welch Allyn ELI 280 user manual",
   "path": "ecg-manuals/welch-allyn/Welch-Allyn-ELI-280-user-manual.pdf",
   "cdn": "jsdelivr",
   "pages": 113,
   "bytes": 2364638,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "c2dd212c15e80fe2"
+  "sha256": "c2dd212c15e80fe2",
+  "title_source": "filename"
  },
  {
   "id": "welch-allyn-eli-380-user-manual-official",
@@ -1622,7 +1746,8 @@
   "bytes": 5368796,
   "lang": "en",
   "doc_type": "user-manual",
-  "sha256": "cffa4acc4634d0cf"
+  "sha256": "cffa4acc4634d0cf",
+  "title_source": "metadata"
  },
  {
   "id": "zoll-m-series-defibrillator-operators-guide",
@@ -1635,20 +1760,22 @@
   "bytes": 2876556,
   "lang": "en",
   "doc_type": "guide",
-  "sha256": "337329cbcfd1f4f6"
+  "sha256": "337329cbcfd1f4f6",
+  "title_source": "metadata"
  },
  {
   "id": "zoll-r-series-als-operators-guide",
   "product_id": "zoll-r-series",
   "vendor_slug": "zoll",
-  "title": "9650-0912-01-SF_U.book",
+  "title": "ZOLL R Series ALS operators guide",
   "path": "ecg-manuals/zoll/ZOLL-R-Series-ALS-operators-guide.pdf",
   "cdn": "jsdelivr",
   "pages": 178,
   "bytes": 8635113,
   "lang": "en",
   "doc_type": "guide",
-  "sha256": "fa73b36c9dd85e25"
+  "sha256": "fa73b36c9dd85e25",
+  "title_source": "filename"
  },
  {
   "id": "zoll-r-series-defibrillator-operators-guide",
@@ -1661,19 +1788,21 @@
   "bytes": 10213986,
   "lang": "en",
   "doc_type": "guide",
-  "sha256": "331b828af051827f"
+  "sha256": "331b828af051827f",
+  "title_source": "metadata"
  },
  {
   "id": "zoll-x-series-operators-guide",
   "product_id": "zoll-x-series",
   "vendor_slug": "zoll",
-  "title": "9650-002355-01 Rev B.book",
+  "title": "ZOLL X Series operators guide",
   "path": "ecg-manuals/zoll/ZOLL-X-Series-operators-guide.pdf",
   "cdn": "jsdelivr",
   "pages": 364,
   "bytes": 6637014,
   "lang": "en",
   "doc_type": "guide",
-  "sha256": "433e9c87128ca484"
+  "sha256": "433e9c87128ca484",
+  "title_source": "filename"
  }
 ]

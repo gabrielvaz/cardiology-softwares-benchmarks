@@ -1,0 +1,4 @@
+[
+  {"crop_id": "schiller-sema-data-management-brochure-2024-p0002-1", "is_ui_screenshot": true, "pattern": "ecg-viewer", "modalities": ["resting-ecg"], "caption": "Get a second opinion in the shortest possible time, with SEMA Liberty Mobile.", "confidence": 0.6},
+  {"crop_id": "schiller-sema-data-management-brochure-2024-p0002-2", "is_ui_screenshot": false, "reject_reason": "illustration"}
+]

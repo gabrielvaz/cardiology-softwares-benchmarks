@@ -1,0 +1,179 @@
+[
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0001-1",
+    "is_ui_screenshot": false,
+    "reject_reason": "hardware-photo"
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0037-1",
+    "is_ui_screenshot": false,
+    "reject_reason": "hardware-photo"
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0041-1",
+    "is_ui_screenshot": false,
+    "reject_reason": "hardware-photo"
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0046-1",
+    "is_ui_screenshot": false,
+    "reject_reason": "hardware-photo"
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0051-1",
+    "is_ui_screenshot": false,
+    "reject_reason": "hardware-photo"
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0055-1",
+    "is_ui_screenshot": true,
+    "pattern": "ecg-viewer",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Resting ECG application window showing the 12-lead trace, patient vitals, and automated interpretation alongside hookup, acquire, and lead-check controls.",
+    "confidence": 0.55
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0065-1",
+    "is_ui_screenshot": true,
+    "pattern": "calibration-leads",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Figure 35: Resting ECG Views and Filters panel",
+    "confidence": 0.55
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0066-1",
+    "is_ui_screenshot": true,
+    "pattern": "patient-registration",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Figure 36: Resting ECG Patient Information panel",
+    "confidence": 0.9
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0075-1",
+    "is_ui_screenshot": true,
+    "pattern": "stress-test",
+    "modalities": [
+      "stress-test"
+    ],
+    "caption": "Current Separating Vital Signs protocol bars",
+    "confidence": 0.85
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0096-1",
+    "is_ui_screenshot": true,
+    "pattern": "connectivity-integration",
+    "modalities": [
+      "stress-test",
+      "spirometry"
+    ],
+    "caption": "Figure 47: CareFusion LAB5 CPET Settings",
+    "confidence": 0.6
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0096-2",
+    "is_ui_screenshot": true,
+    "pattern": "connectivity-integration",
+    "modalities": [
+      "stress-test",
+      "spirometry"
+    ],
+    "caption": "Figure 47: CareFusion LAB5 CPET Settings",
+    "confidence": 0.55
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0103-1",
+    "is_ui_screenshot": true,
+    "pattern": "measurements-interpretation",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Numerical Heart results trends Figure 48: Late Potential Signal Averaging Screen",
+    "confidence": 0.6
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0110-1",
+    "is_ui_screenshot": true,
+    "pattern": "measurements-interpretation",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Figure 49: LP Signal Averaging Review Screen Numerical Results The results are calculated automatically. You can overrule the automatic positioning of the ONSET/OFFSET markers with the direction keys.",
+    "confidence": 0.6
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0111-1",
+    "is_ui_screenshot": true,
+    "pattern": "live-acquisition",
+    "modalities": [
+      "patient-monitoring"
+    ],
+    "caption": "Heart rate Slider time Total study time (beats/min) Figure 50: Monitoring ECG Screen",
+    "confidence": 0.6
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0117-1",
+    "is_ui_screenshot": true,
+    "pattern": "measurements-interpretation",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Tachogram Slider HRV results Figure 51: Heart Rate Variability Screen",
+    "confidence": 0.55
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0123-1",
+    "is_ui_screenshot": true,
+    "pattern": "measurements-interpretation",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Figure 52: Measurements—Tabular Screen",
+    "confidence": 0.85
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0126-1",
+    "is_ui_screenshot": true,
+    "pattern": "measurements-interpretation",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Measurements window toolbar with QRS and caliper tools above a 12-lead ECG grid.",
+    "confidence": 0.55
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0126-2",
+    "is_ui_screenshot": true,
+    "pattern": "measurements-interpretation",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Measurements window showing a 12-lead ECG grid with a numeric measurement table below.",
+    "confidence": 0.55
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0127-1",
+    "is_ui_screenshot": true,
+    "pattern": "measurements-interpretation",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Lower leads and a full rhythm strip with caliper markers in the Measurements window.",
+    "confidence": 0.55
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0127-2",
+    "is_ui_screenshot": true,
+    "pattern": "measurements-interpretation",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Lower leads and a full rhythm strip with a highlighted caliper segment in the Measurements window.",
+    "confidence": 0.55
+  }
+]

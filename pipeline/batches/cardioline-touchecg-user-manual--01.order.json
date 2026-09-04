@@ -1,0 +1,153 @@
+{
+ "batch_id": "cardioline-touchecg-user-manual--01",
+ "manual": {
+  "id": "cardioline-touchecg-user-manual",
+  "title": "touchECG",
+  "vendor_slug": "cardioline",
+  "pages": 109,
+  "doc_type": "user-manual",
+  "lang": "en"
+ },
+ "crops": [
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0018-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0018-1.png",
+   "page": 18,
+   "caption": "Main window with quick User Interface",
+   "context_above": "4 Main window with full User Interface 1"
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0018-2",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0018-2.png",
+   "page": 18,
+   "caption": "Main window with full User Interface",
+   "context_above": "touchECG 4. INTRODUCTION 1"
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0025-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0025-1.png",
+   "page": 25,
+   "caption": "Start page",
+   "context_above": "Permissions may be entered manually from the menu Settings > Permissions > Memory permissions. Note: The program starts up with “Quick user interface” default Note: if the “Boot Screen” mode is selected (see par. 5.2.1) TouchECG is started with a home screen that lets you enter the Ward ID. Once the program is launched the following window is displayed:"
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0026-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0026-1.png",
+   "page": 26,
+   "caption": "DEMO Mode",
+   "context_above": "5. PREPARATION FOR USE If no HD+ has been configured yet (see para. Errore. L'origine riferimento non è stata trovata.), TouchECG will start in DEMO mode showing a screen with sample traces. Video traces are marked with the word “DEMO,” just as saved and printed tests. Demo mode can be also enabled by selecting HD+ “Demo” in settings (see para. 8.2)."
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0027-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0027-1.png",
+   "page": 27,
+   "caption": "Boot Screen for entering the Ward ID.",
+   "context_above": "touchECG 5. PREPARATION FOR USE"
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0029-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0029-1.png",
+   "page": 29,
+   "caption": null,
+   "context_above": "Bluetooth activation and HD+ search 5. Click on the device to perform the pairing. Wait for the pairing procedure to complete, after which the HD+ will be connected to the system."
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0029-2",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0029-2.png",
+   "page": 29,
+   "caption": "Bluetooth activation and HD+ search",
+   "context_above": "touchECG 5. PREPARATION FOR USE 4. Click on the Search button (picture below B) to start HD+ search and wait for the HD+ device to be detected and added to the list of devices (picture below C), with a name like HDPlusxxxxxxxx (where xxxxxxxx is the device's serial number)."
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0030-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0030-1.png",
+   "page": 30,
+   "caption": "HD+ Pairing",
+   "context_above": "touchECG 5. PREPARATION FOR USE"
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0031-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0031-1.png",
+   "page": 31,
+   "caption": "Settings window",
+   "context_above": "5. PREPARATION FOR USE 3. Open the System tab and open the HD+ serial number dropdown menu which contains a list of all devices paired with the computer. Now select the serial number of the HD+ to want to connect to. 4. Click on Save to save this setting."
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0033-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0033-1.png",
+   "page": 33,
+   "caption": "Virtual keyboard configured correctly Virtual keyboard configured incorrectly Note: if Windows is in tablet mode, it enables the virtual keyboard by default directly from the PC settings and, in this case, the “Virtual Keyboard\" option in the touchECG must be disabled.",
+   "context_above": "touchECG 5. PREPARATION FOR USE"
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0033-2",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0033-2.png",
+   "page": 33,
+   "caption": "Virtual keyboard configured correctly Virtual keyboard configured incorrectly Note: if Windows is in tablet mode, it enables the virtual keyboard by default directly from the PC settings and, in this case, the “Virtual Keyboard\" option in the touchECG must be disabled.",
+   "context_above": "touchECG 5. PREPARATION FOR USE"
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0037-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0037-1.png",
+   "page": 37,
+   "caption": null,
+   "context_above": "therefore the good contact, by pulling the electrode. If the electrode moves freely, replace it. If the electrode does not move easily, a good electrical contact is ensured. 6.3.1. 10-wire cable connection (for acquisition of 12-lead ECG) Reference figure for the connection to the patient"
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0040-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0040-1.png",
+   "page": 40,
+   "caption": " V3R: Fifth rib between V1 and V4R (same level as electrode V3) 34",
+   "context_above": " V7: left posterior axillary line, level with lead V6  V8: tip of the left scapula, level with V7  V9: left paraspinal line, level with V8 Reference figure for the connection to the patient of the Right Leads"
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0040-2",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0040-2.png",
+   "page": 40,
+   "caption": " V7: left posterior axillary line, level with lead V6  V8: tip of the left scapula, level with V7  V9: left paraspinal line, level with V8 Reference figure for the connection to the patient of the Right Leads",
+   "context_above": "touchECG 6. EXECUTION OF THE EXAMINATION Reference figure for the connection to the patient of the Posterior Leads"
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0042-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0042-1.png",
+   "page": 42,
+   "caption": "Real time display window with Quick user interface",
+   "context_above": "A Real time display window with Full user interface"
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0042-2",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0042-2.png",
+   "page": 42,
+   "caption": "Real time display window with Full user interface",
+   "context_above": "touchECG 6. EXECUTION OF THE EXAMINATION"
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0046-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0046-1.png",
+   "page": 46,
+   "caption": "Real time display window with disconnected lead.",
+   "context_above": "The waveforms of the disconnected leads are displayed as square waves (see below). If all the leads are disconnected, all ECG traces display as square waves and the message “ Lead disconnected: all\" displays. In the same way, if the disconnected lead is N/RL, the message “ Lead disconnected: all\" displays and all leads display as square waves. If the patient cable is connected from the connector on the HD+ unit, the ECG traces display as flat lines."
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0048-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0048-1.png",
+   "page": 48,
+   "caption": "Patient window",
+   "context_above": "touchECG 6. EXECUTION OF THE EXAMINATION"
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0051-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0051-1.png",
+   "page": 51,
+   "caption": "Local archive search window",
+   "context_above": "Connectivity: connectivity option associated with the examination (linked to the HD+ unit used to acquire the ECG, as described in par. 10). Click on the column labels (e.g. “ID” or “Name and Surname) to order the list in increasing/decreasing order by the field in question. You can select an examination by clicking on its line in the list and use OK and Back to save the data or abort the operation."
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0052-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0052-1.png",
+   "page": 52,
+   "caption": "Work list",
+   "context_above": "Work list button You can select an order from the displayed work list by clicking on the line in question, and then select it (OK), delete (Delete) or abort (Back). You can also update the work list by pressing Update to download it again."
+  }
+ ]
+}

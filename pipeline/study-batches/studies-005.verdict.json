@@ -1,0 +1,253 @@
+[
+ {
+  "study_id": "pmid39319703_a-randomized-controlled-implementation-study-integrating-patient-self-screening-",
+  "design": "rct",
+  "topics": [
+   "usability",
+   "telemedicine",
+   "diagnostic-accuracy"
+  ],
+  "n": 200,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [
+   "single-lead ECG device"
+  ],
+  "product_ids": [],
+  "metric": "AF diagnosis rate, participant satisfaction, and device usability/feasibility (confidence, ease of use, efficiency) in self-screening vs usual care",
+  "result": "AF diagnosed in 10.3% of intervention vs 2.0% of control participants (OR 5.6, 95% CI 1.4-37.3, p=0.03); 97.9% of intervention vs 59.1% of control-waitlisted participants satisfied (p<0.001); 93% confident using the device, 98% found it easy to use, 96% found screening efficient.",
+  "has_quantitative_data": true
+ },
+ {
+  "study_id": "pmid39367187_validation-and-user-experience-of-a-dry-electrode-based-health-patch-for-heart-r",
+  "design": "other",
+  "topics": [
+   "device-validation",
+   "usability"
+  ],
+  "n": 25,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [
+   "Health Patch",
+   "Shimmer3 ECG Unit",
+   "Cosmed K5"
+  ],
+  "product_ids": [],
+  "metric": "Agreement (Lin's concordance coefficient) between Health Patch and reference devices for heart rate, respiratory rate and HRV; qualitative user experience",
+  "result": "Lin's CCC 0.98 for heart rate, 0.56 for respiratory rate, 0.85 for HRV (RMSSD); participants generally reported a positive experience with minor adhesive-related skin irritation.",
+  "has_quantitative_data": true
+ },
+ {
+  "study_id": "pmid39378296_evaluating-the-effects-of-different-cognitive-tasks-on-autonomic-nervous-system-",
+  "design": "other",
+  "topics": [
+   "signal-processing"
+  ],
+  "n": 25,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": "Skin conductance level, reaction time and HRV changes during cognitive tasks vs baseline, using a low-cost ECG/SCR test battery",
+  "result": "Skin conductance levels and reaction times increased with cognitive load, and vagally-mediated HRV parameters changed significantly vs baseline; no specific effect-size numbers reported in the abstract.",
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid39453795_solving-the-inverse-problem-of-electrocardiography-for-cardiac-digital-twins-a-s",
+  "design": "narrative-review",
+  "topics": [
+   "signal-processing",
+   "ai-algorithm"
+  ],
+  "n": null,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": null,
+  "result": "Review of deterministic and probabilistic (including deep-learning) methods for solving the ECG inverse problem for cardiac digital twins; discusses validation strategies and clinical-workflow integration challenges without a single pooled quantitative outcome.",
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid39813797_the-unica-sleep-hrv-analysis-tool-an-integrated-open-source-tool-for-heart-rate-",
+  "design": "algorithm-development",
+  "topics": [
+   "signal-processing",
+   "usability"
+  ],
+  "n": null,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": "Validation of the UNICA-HRV open-source MATLAB tool against established HRV tools (Kubios, PhysioZoo)",
+  "result": "Described as robust and precise for generating HRV metrics compared with Kubios and PhysioZoo; no specific accuracy figures reported in the abstract.",
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid39920923_exploring-the-limits-of-scan-time-reduction-for-ferumoxytol-enhanced-whole-heart",
+  "design": "simulation",
+  "topics": [
+   "diagnostic-accuracy",
+   "workflow"
+  ],
+  "n": 30,
+  "sus_score": null,
+  "task_time": "Accelerated free-running MRI acquisitions reduced to 3 minutes or less (from a 6-minute baseline) while preserving diagnostic image quality",
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": "Diagnostic image-quality rating (5-point Likert) and consistency of motion-state selection across undersampling levels (SIMBA vs XD-MC-SIMBA)",
+  "result": "43% (31/72) of cases showed improved quality scores with XD-MC-SIMBA vs SIMBA; 58% (7/12) of 1-minute datasets improved to good/excellent quality; scan time accelerated to 3 minutes or less while preserving diagnostic quality.",
+  "has_quantitative_data": true
+ },
+ {
+  "study_id": "pmid39943314_wear-your-heart-on-your-sleeve-smart-textile-ecg-wearables-for-comfort-integrati",
+  "design": "narrative-review",
+  "topics": [
+   "diagnostic-accuracy",
+   "device-validation",
+   "usability"
+  ],
+  "n": null,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": "AF detection rate, signal-to-noise ratio and total analysis time of textile ECG wearables vs Holter/12-lead ECG, plus user acceptability (comfort, usability, skin effects)",
+  "result": "Narrative review; comparative performance and acceptability of textile ECG devices are discussed qualitatively, with no pooled quantitative results reported in the abstract.",
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid40031322_cardiac-phase-estimation-using-deep-learning-analysis-of-pulsed-mode-projections",
+  "design": "algorithm-development",
+  "topics": [
+   "ai-algorithm",
+   "signal-processing",
+   "workflow"
+  ],
+  "n": null,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": "<6% RMSE in cardiac phase estimation (phase range 0-100%)",
+  "devices": [],
+  "product_ids": [],
+  "metric": "Cardiac phase estimation accuracy (RMSE) of PhaseNet vs competing methods, toward ECG-gating-free autonomous cardiac CT",
+  "result": "~50% RMSE improvement vs standard CNN-LSTM and ~24% vs a multi-channel residual network; the added uncertainty-driven Viterbi regularizer gave a further ~14% RMSE improvement, reaching <6% RMSE overall.",
+  "has_quantitative_data": true
+ },
+ {
+  "study_id": "pmid40207501_value-of-artificial-intelligence-for-enhancing-suspicion-of-cardiac-amyloidosis-",
+  "design": "narrative-review",
+  "topics": [
+   "ai-algorithm",
+   "diagnostic-accuracy",
+   "usability"
+  ],
+  "n": null,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": "AI model diagnostic performance (AUC, sensitivity, specificity) for cardiac amyloidosis from ECG/echocardiography, across 13 included studies",
+  "result": "AUC 0.71-1.00, sensitivity 16%-100%, specificity 75%-100% across 13 studies (n=50-2451 patients); only 4 studies included external validation; usability, cost and interoperability cited as adoption barriers.",
+  "has_quantitative_data": true
+ },
+ {
+  "study_id": "pmid40276542_a-multicenter-pragmatic-implementation-study-of-ai-ecg-based-clinical-decision-s",
+  "design": "rct",
+  "topics": [
+   "ai-algorithm",
+   "workflow",
+   "diagnostic-accuracy"
+  ],
+  "n": 32000,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": "Trial design/methods paper; primary outcome will be detection of LVEF <=40% by echocardiography among clinical encounters exposed to EHR-integrated ECG-AI CDSS vs usual care",
+  "result": "Protocol paper for a multicenter cluster-randomized trial across 5 health systems, recruiting clinicians and covering >32,000 eligible clinical encounters with 90-day follow-up; no outcome results reported yet.",
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid40431809_investigating-the-use-of-electrooculography-sensors-to-detect-stress-during-work",
+  "design": "other",
+  "topics": [
+   "not-relevant"
+  ],
+  "n": 12,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [
+   "smart eyewear (EOG sensor)"
+  ],
+  "product_ids": [],
+  "metric": "ML classification accuracy for occupational stress detection using EOG signals",
+  "result": "Random Forest reached 85.8% (2-class) and 82.4% (3-class) accuracy classifying stress from EOG signals captured via smart eyewear in 12 subjects; an occupational human-factors study unrelated to cardiology software.",
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid40626773_infusion-therapy-nursing-team-implementation-and-effectiveness-of-initial-result",
+  "design": "observational",
+  "topics": [
+   "not-relevant"
+  ],
+  "n": null,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": "PICC insertion outcomes of a nurse-led infusion therapy team, using intracavitary ECG for tip navigation",
+  "result": "First-year report: 1502 activities including 896 PICC insertions with 81.7% first-attempt success (intracavitary ECG used only as a navigation aid); a nursing-service report, not a cardiology software study.",
+  "has_quantitative_data": false
+ },
+ {
+  "study_id": "pmid40634209_single-lead-electrocardiograms-and-artificial-intelligence-for-managing-cardiac-",
+  "design": "survey",
+  "topics": [
+   "usability",
+   "ai-algorithm",
+   "workflow"
+  ],
+  "n": 221,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [
+   "single-lead ECG device"
+  ],
+  "product_ids": [],
+  "metric": "French GP survey on acceptability and utility of a single-lead ECG device with AI interpretation and a decision tree for arrhythmia management",
+  "result": "221/1102 GPs responded; 44% owned an ECG device; 77% believed single-lead ECG would simplify use; 72% would use ECG more often with AI interpretation; decision-tree relevance rated 8/10.",
+  "has_quantitative_data": true
+ },
+ {
+  "study_id": "pmid40696075_a-web-based-system-for-real-time-ecg-monitoring-using-mysql-database-and-digimes",
+  "design": "algorithm-development",
+  "topics": [
+   "telemedicine",
+   "signal-processing"
+  ],
+  "n": null,
+  "sus_score": null,
+  "task_time": null,
+  "error_rate": null,
+  "devices": [],
+  "product_ids": [],
+  "metric": null,
+  "result": "Describes the architecture of a wireless (DigiMesh) ECG monitoring system with MySQL cloud storage and web-based display for remote patient monitoring; no formal evaluation or performance metrics reported in the abstract.",
+  "has_quantitative_data": false
+ }
+]

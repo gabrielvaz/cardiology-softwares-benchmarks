@@ -1,0 +1,146 @@
+{
+ "batch_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger--05",
+ "manual": {
+  "id": "ge-cardiosoft-diagnostic-system-user-guide-tiger",
+  "title": "2060290-002_C_CardioSoft_OM_Eng.book",
+  "vendor_slug": "ge-healthcare",
+  "pages": 326,
+  "doc_type": "user-manual",
+  "lang": "en"
+ },
+ "crops": [
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0246-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0246-1.png",
+   "page": 246,
+   "caption": "1. Click on the down arrow of the function key whose function you wish to change. 2. Select a function from the list. 12-28 CardioSoft Revision C",
+   "context_above": "You can assign different functions to function keys F1 through F12 of the PC keyboard. Click Modify... to open the Assign function to keys F1 through F12 window. The text boxes display the currently assigned functions. 1 1"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0249-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0249-1.png",
+   "page": 249,
+   "caption": "A Click to print the ambulatory blood pressure measurement setup. B Select box to change the statistical wake-up time. C Select box to change the statistical night time. D Click to select the measurement protocol. E Click to edit the protocol (see next section).",
+   "context_above": "The Acquisition tab is already on top. K J C D E F G H I A B"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0250-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0250-1.png",
+   "page": 250,
+   "caption": "1. Select the number of BP periods. 2. Select the beginning of the period. 3. Select the end of the period. 4. Choose whether measurements are to be taken at exactly or at approximately the selected intervals.",
+   "context_above": "Editing the BP Protocol Click Modify to display the configuration menu. 2 3 1 4 5 6 7 8 9 10"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0251-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0251-1.png",
+   "page": 251,
+   "caption": "A Click to print the ambulatory blood pressure measurement setup. B Select documents to be included in the report. C Select the Configured Report format. D Click button to edit the Configured Report or create a new one (see “Report Editor” on page 12-10). E Select number of copies.",
+   "context_above": "Click the Miscellaneous tab to open the window. C D F G H I J K A B E"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0253-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0253-1.png",
+   "page": 253,
+   "caption": "A Click to print the spirometry test setup. B Select the Equation for Reference Value Calculation. C Select the Interpretation Mode. D Select the Measurement Mode. E Select the PT Code. F Select to print the report automatically after the test.",
+   "context_above": "“General Tab” on page 12-40). Acquisition Tab The Acquisition tab is already on top. B CD E F GH I J K A"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0254-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0254-1.png",
+   "page": 254,
+   "caption": "A Click to print the spirometry test setup. B Select documents to be included in the report. C Select the Configured Report format. D Click button to edit the Configured Report or create a new one (see “Report Editor” on page 12-10).",
+   "context_above": "Miscellaneous Tab Click the Miscellaneous tab to open the window. H F G I J K A B C D E"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0258-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0258-1.png",
+   "page": 258,
+   "caption": "Test Patient",
+   "context_above": "Click the System Configuration button on the initial screen to display the menu. General Tab A B C D E F G"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0263-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0263-1.png",
+   "page": 263,
+   "caption": "Receive Data from ECG Device General",
+   "context_above": "database. Note If an ECG is received without patient ID (not even blanks), it will automatically appear in the list for manual assignment with the special patient ID “000000“. 1"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0269-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0269-1.png",
+   "page": 269,
+   "caption": ". Time Zone",
+   "context_above": "Changing System Date and Time Click Change System Date/Time ( M on the General tab) to display the setup window. A B F C D E"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0270-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0270-1.png",
+   "page": 270,
+   "caption": "1. Enter the date range for the statistical analysis. 2. Select the period (month, quarter, year). 3. Click to calculate the statistics.",
+   "context_above": "Procedure Statistics Click Procedure Statistics ( N on the General tab) to display the setup window. 3 2 1 4"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0272-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0272-1.png",
+   "page": 272,
+   "caption": "none",
+   "context_above": "Devices Tab Click the Devices tab to open the window. F G E A B C D"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0274-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0274-1.png",
+   "page": 274,
+   "caption": "Synchronize Lists",
+   "context_above": "Click the MUSE tab to open the window. Note CardioSoft is compatible with the following versions of the MUSE system: Pre 5C, 5C to 7.1 or 7.2 and above. N O"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0277-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0277-1.png",
+   "page": 277,
+   "caption": "Modify... Change software option. Are you sure? Yes Load",
+   "context_above": "Click the Option Code tab to open the option code window. If you have purchased additional software options, enter the option codes to activate the software options. The code numbers are given on the supplied option code sheets or on a disk. 3 6 5 1 4"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0278-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0278-1.png",
+   "page": 278,
+   "caption": null,
+   "context_above": "After selecting the language, first load the factory settings to set all text libraries to the new language ( Custom Setup — Factory Settings — Load ). Select Chinese, Japanese, Korean or Russian only when the operating system of your computer supports the required character sets. N O M A B C D F H J K L E I G"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0279-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0279-1.png",
+   "page": 279,
+   "caption": "A Select to transfer data to the EMR interface via a network. B Select to transfer data to the EMR interface via a shared directory. C Set or select the communication folders (read orders from the EMR interface, write data to the EMR interface). D Click to view the error log.",
+   "context_above": "EMR Tab Click the EMR tab to open the window (with XEMR option only). A B C D E F"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0280-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0280-1.png",
+   "page": 280,
+   "caption": null,
+   "context_above": "Note Information about installing the connectivity server can be found in the CardioSoft Software Installation and Upgrade Guide. Click the Connectivity Server tab to open the window. D E F A B C"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0281-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0281-1.png",
+   "page": 281,
+   "caption": "Serial Modem",
+   "context_above": "E Click to open a dialog to add inbound connections (see below). F Click to save the settings. Adding Inbound Connections A B C D E"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0307-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0307-1.png",
+   "page": 307,
+   "caption": null,
+   "context_above": "CHS Interpretation mode based on the \"American Thoracic Society recommendations for disability testing.\" The most important criterion used is the FEV1 / FVC ratio; the changes of FEV 1 and FVC are also considered. The underlying reference values are those published by K . NUDSON"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0310-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0310-1.png",
+   "page": 310,
+   "caption": "Installing the Program Note",
+   "context_above": "4. Select the patient whose records you wish to see. This will bring up the list with the patient's records. 5. Select the record you would like to review. 1 3 2 4"
+  }
+ ]
+}

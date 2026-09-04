@@ -1,0 +1,34 @@
+{
+ "batch_id": "schiller-sema-200-data-management-brochure--01",
+ "manual": {
+  "id": "schiller-sema-200-data-management-brochure",
+  "title": "Schiller SEMA 200 data management brochure",
+  "vendor_slug": "schiller",
+  "pages": 5,
+  "doc_type": "brochure",
+  "lang": "en"
+ },
+ "crops": [
+  {
+   "crop_id": "schiller-sema-200-data-management-brochure-p0001-1",
+   "image": "pipeline/candidates/schiller-sema-200-data-management-brochure/schiller-sema-200-data-management-brochure-p0001-1.png",
+   "page": 1,
+   "caption": null,
+   "context_above": null
+  },
+  {
+   "crop_id": "schiller-sema-200-data-management-brochure-p0002-1",
+   "image": "pipeline/candidates/schiller-sema-200-data-management-brochure/schiller-sema-200-data-management-brochure-p0002-1.png",
+   "page": 2,
+   "caption": null,
+   "context_above": null
+  },
+  {
+   "crop_id": "schiller-sema-200-data-management-brochure-p0004-1",
+   "image": "pipeline/candidates/schiller-sema-200-data-management-brochure/schiller-sema-200-data-management-brochure-p0004-1.png",
+   "page": 4,
+   "caption": null,
+   "context_above": null
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+@import "tailwindcss";
+
+/**
+ * CardioBench looks like a reference work, not a product marketing site.
+ * Neutral light ground because the screenshots are themselves mostly light
+ * clinical UI, and a dark chrome would fight them for attention. One accent,
+ * used only for state and links, never for decoration.
+ */
+
+@theme {
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, monospace;
+
+  --color-ink: #14161a;
+  --color-ink-soft: #4a5058;
+  --color-ink-faint: #868d96;
+  --color-rule: #e3e5e8;
+  --color-rule-soft: #eef0f2;
+  --color-ground: #ffffff;
+  --color-ground-sunk: #f6f7f8;
+  --color-accent: #b03a1a;
+  --color-accent-soft: #fdf3ef;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: var(--color-ground);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  font-feature-settings: "kern" 1, "liga" 1, "cv05" 1;
+  text-rendering: optimizeLegibility;
+}
+
+/* Screenshots are the content. Give them a hairline so a white UI on white
+   ground still reads as a bounded artefact rather than floating pixels. */
+.shot {
+  background: var(--color-ground-sunk);
+  border: 1px solid var(--color-rule);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.shot img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* Thumbnail crops on the pattern cards need to fill their box and be cropped.
+   `.shot img` above outranks Tailwind's h-full/object-cover on specificity, so
+   the fill behaviour has to be declared here rather than in the markup. */
+.shot-fill,
+.shot-fill img {
+  height: 100%;
+}
+
+.shot-fill img {
+  object-fit: cover;
+  object-position: top center;
+}
+
+/* Used where a caption is quoted from the vendor's own manual rather than
+   written by a model. The distinction is load-bearing for credibility. */
+.quoted {
+  font-style: italic;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.link {
+  text-decoration: underline;
+  text-decoration-color: var(--color-rule);
+  text-underline-offset: 3px;
+  transition: text-decoration-color 120ms ease;
+}
+
+.link:hover {
+  text-decoration-color: var(--color-accent);
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}

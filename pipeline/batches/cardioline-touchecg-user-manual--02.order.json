@@ -1,0 +1,139 @@
+{
+ "batch_id": "cardioline-touchecg-user-manual--02",
+ "manual": {
+  "id": "cardioline-touchecg-user-manual",
+  "title": "touchECG",
+  "vendor_slug": "cardioline",
+  "pages": 109,
+  "doc_type": "user-manual",
+  "lang": "en"
+ },
+ "crops": [
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0054-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0054-1.png",
+   "page": 54,
+   "caption": "QA Override button enabled Note: The temporary storage capacity is 30 minutes. Once exhausted, touchECG deletes the first minute and",
+   "context_above": "touchECG 6. EXECUTION OF THE EXAMINATION"
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0055-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0055-1.png",
+   "page": 55,
+   "caption": "Display in Review mode",
+   "context_above": "The Auto button is enabled and you can therefore record an examination using the selected 10s portion (par. 6.7). PDF printing of variable duration ECG: It is possible to save all the recorded track or a part of it by moving the markers on the continuous track and pressing the Save PDF button. The save format will respect the following views: 12x1, 3x3, 1x1, while gain, speed and muscle filter will be applied as selected by the user."
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0056-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0056-1.png",
+   "page": 56,
+   "caption": "Saving registration",
+   "context_above": "Selecting 10s of trace"
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0056-2",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0056-2.png",
+   "page": 56,
+   "caption": "Selecting 10s of trace",
+   "context_above": "touchECG 6. EXECUTION OF THE EXAMINATION"
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0060-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0060-1.png",
+   "page": 60,
+   "caption": "Examination preview window with Full user interface",
+   "context_above": "(see par. 6.7.1). The changes are applied to both the preview and the printed and saved examination (if any). The Urgent button enables you to attribute the “Urgent” status to the examination, as described in par. 6.7.4, while the Transmit, Print and Save buttons enable you to transmit the examination to an external system, print and save it (par. 6.7.4 and 6.7.6). Finally, the Launch App button launches an external application, as configured in the Settings (e.g. a web browser), while Send email sends the examination by email as a PDF (par. 6.7.7)."
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0061-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0061-1.png",
+   "page": 61,
+   "caption": "The preview window with Quick user interface Windows",
+   "context_above": "touchECG 6. EXECUTION OF THE EXAMINATION"
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0065-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0065-1.png",
+   "page": 65,
+   "caption": "Window for editing the interpretation",
+   "context_above": "touchECG 6. EXECUTION OF THE EXAMINATION"
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0069-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0069-1.png",
+   "page": 69,
+   "caption": "Examinations archive window",
+   "context_above": "acquire the ECG, as described in par. 10.2).  Filtered: indicates whether the exam is filtered, that is, if it contains the waveforms filtered with the muscle filter. If this is the case, no LP (muscle) filter can be applied anymore while viewing the exam. Click on the column labels (e.g. “ID” or “Name and Surname) to order the list in increasing/decreasing order by the field in question."
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0073-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0073-1.png",
+   "page": 73,
+   "caption": "Work List display window",
+   "context_above": "7. CONNECTIVITY, RECEIVING WORK LISTS AND TRANSMITTING ECG EXAMINATIONS The work list can be acquired automatically (option -g) using the command line and, if necessary, always automatically by launching the acquisition of a test in Auto mode (option -a) ; while if you only want to go directly to the work list screen without making the choice of the first patient, you can use the -w option."
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0074-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0074-1.png",
+   "page": 74,
+   "caption": "Examinations archive window",
+   "context_above": "touchECG 7. CONNECTIVITY, RECEIVING WORK LISTS AND TRANSMITTING ECG EXAMINATIONS"
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0076-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0076-1.png",
+   "page": 76,
+   "caption": "GDT settings",
+   "context_above": "RX_EDP.GDT Exam folder C: \\ GDT \\ OUT => a file is created in the chosen folder with the causal name ADNAN £ 432423DFDSF £ 43.GDT  Attach PDF examination: if enabled, allows you to attach a PDF examination report to the GDT examination file"
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0077-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0077-1.png",
+   "page": 77,
+   "caption": "Cardioline connectivity settings",
+   "context_above": "touchECG 7. CONNECTIVITY, RECEIVING WORK LISTS AND TRANSMITTING ECG EXAMINATIONS  Password: password for the username with which touchECG automatically accesses Cardioline ECGWebApp"
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0079-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0079-1.png",
+   "page": 79,
+   "caption": "XML settings",
+   "context_above": "You can then receive work lists in XML format and send tests in XML format. To connect in XML mode, select “XML” in the “Receive protocol”, “Send protocol” and “Protocol configuration” fields in the CONNECTIVITY tab of the Settings (see par.8.2) You must also configure the fields which appear after having selected “Protocol Configuration”:  Examinations folder: path of the folder in which touchECG saves the XML format examination file."
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0079-2",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0079-2.png",
+   "page": 79,
+   "caption": "Text file settings Windows",
+   "context_above": "touchECG 7. CONNECTIVITY, RECEIVING WORK LISTS AND TRANSMITTING ECG EXAMINATIONS"
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0081-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0081-1.png",
+   "page": 81,
+   "caption": "Settings Window",
+   "context_above": "touchECG 8. DEVICE SETTINGS Use Save and Back to save or cancel any changes."
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0089-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0089-1.png",
+   "page": 89,
+   "caption": "Windows",
+   "context_above": "Settings. If the PIN is not correct, an error message is shown in the lower bar of the application  Back Closes the window without opening the Settings."
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0092-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0092-1.png",
+   "page": 92,
+   "caption": "9.3. Enable the audit trail The audit trail feature is automatically enabled if the software is normally installed from the CD through the Standard setup, whereas for the ClickOnce version, it must be enabled as follows:",
+   "context_above": "touchECG 9. SET THE DEVICE IN ACCORDANCE WITH GDPR (General Data Protection Regulation) – Windows only"
+  },
+  {
+   "crop_id": "cardioline-touchecg-user-manual-p0094-1",
+   "image": "pipeline/candidates/cardioline-touchecg-user-manual/cardioline-touchecg-user-manual-p0094-1.png",
+   "page": 94,
+   "caption": "Settings window – LICENSE tab",
+   "context_above": "lected in the acquired examinations. For example, an examination acquired by an HD+ without the interpretation option enabled will not have an automatic interpretation, while an examination acquired to the same touchECG with an HD+ unit with the interpretation option enabled will have an automatic interpretation. In the same way, an examination acquired by an HD+ unit without the DICOM connectivity option cannot be transmitted to a PACS system, while an examination acquired to the same touchECG but with an HD+ unit with its DICOM connectivity option enabled can be transmitted to a PACS system."
+  }
+ ]
+}

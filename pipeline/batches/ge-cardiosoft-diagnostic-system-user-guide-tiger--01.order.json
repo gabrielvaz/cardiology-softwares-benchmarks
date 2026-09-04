@@ -1,0 +1,153 @@
+{
+ "batch_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger--01",
+ "manual": {
+  "id": "ge-cardiosoft-diagnostic-system-user-guide-tiger",
+  "title": "2060290-002_C_CardioSoft_OM_Eng.book",
+  "vendor_slug": "ge-healthcare",
+  "pages": 326,
+  "doc_type": "user-manual",
+  "lang": "en"
+ },
+ "crops": [
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0033-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0033-1.png",
+   "page": 33,
+   "caption": null,
+   "context_above": "to EN 55011, class A, may be disturbed by radiation emitted by the PC system. In this case, the user is required to take appropriate measures. Refer to the Electromagnetic Immunity information in this product’s service manual for EN 60601-1-2 (2001) Edition 2 compliance information and safety information for this product."
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0037-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0037-1.png",
+   "page": 37,
+   "caption": "New Test Local Database MUSE Browser",
+   "context_above": "Putting the System Into Service Initial Screen"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0048-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0048-1.png",
+   "page": 48,
+   "caption": "1. Shave any hair from each electrode site and degrease each site with alcohol. 2. Remove the epidermal skin layer at each site. Use an abrasive pad or skin prep cream (for example, EPICONT, Part no. 217 083 12).",
+   "context_above": "Preparing the Patient's Skin Preparing the Patient's Skin"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0051-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0051-1.png",
+   "page": 51,
+   "caption": null,
+   "context_above": "Applying Electrodes Standard 15 Lead Electrode Placement Standard leads + right, recommended for pediatric ECGs."
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0053-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0053-1.png",
+   "page": 53,
+   "caption": null,
+   "context_above": "Applying Electrodes FRANK X, Y, Z Lead Electrode Placement To record the orthogonal FRANK leads X, Y, and Z, apply electrodes G (A3), B (A2), J (A4) and I (A1) in addition to the standard lead electrodes."
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0061-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0061-1.png",
+   "page": 61,
+   "caption": "J Note Before running a new test, you are required to select a patient record from the database or to enter a new patient. Depending on the",
+   "context_above": "Selecting a Patient Record from the Local Database Selecting a Patient Record from the Local Database Overview A B E D C"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0062-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0062-1.png",
+   "page": 62,
+   "caption": "1. Enter the patient's last name or the patient ID to find a particular patient. It is sufficient to enter the first letters or numbers. 2. Select the test type. 3. Check the patient information. If it needs to be modified: a. Type over the current data and",
+   "context_above": "Selecting a Patient Record from the Local Database 4 5 1 2"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0064-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0064-1.png",
+   "page": 64,
+   "caption": "A Requested orders. B Your location number. C . The list only shows orders for your location The list shows orders for all locations . D",
+   "context_above": "Orders from the MUSE System The Order List button allows you to view a list of orders for the previously selected patient. If a patient was not selected, you will see the requested orders for all patients. A"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0065-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0065-1.png",
+   "page": 65,
+   "caption": "New Patient",
+   "context_above": "Entering a New Patient Entering a New Patient"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0072-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0072-1.png",
+   "page": 72,
+   "caption": "M K J O N L A Lead check window B Schematic representation of the applied electrodes: green: correct, yellow: lead problem (high impedance), white: not used, red: electrode disconnected or lead break (numbers indicate the",
+   "context_above": "The actual waveform data appears in the area below. With this modality you can acquire a 10-second resting ECG with subsequent analysis and/or you can record the full disclosure ECG for a period of up to 60 minutes. A B"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0074-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0074-1.png",
+   "page": 74,
+   "caption": "Test Information ECG Acquisition",
+   "context_above": "Recording a Resting ECG Operating Steps"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0075-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0075-1.png",
+   "page": 75,
+   "caption": "Interpretation ECG Acquisition",
+   "context_above": "Recording a Resting ECG 5 3 4"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0076-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0076-1.png",
+   "page": 76,
+   "caption": "Start Full Disclosure ECG Rhythm Writer Stop Writer",
+   "context_above": "Full Disclosure ECG You can acquire the full disclosure ECG over a maximum period of 60 minutes. Operating Steps"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0077-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0077-1.png",
+   "page": 77,
+   "caption": "A Click a tab to display the corresponding window. B Patient Information area. C Test Information area. D Measurement Results area. E Interpretation area. F Click to display patient list for a new test.",
+   "context_above": "Post Test Review Test Summary D C B A E"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0079-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0079-1.png",
+   "page": 79,
+   "caption": "1 x 10s I ... aVF 1 x 10s V1 ... V6",
+   "context_above": "On this screen you see the reference ECG. Depending on the selected screen format and speed, the waveforms may take up several screens. C B D E F A"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0080-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0080-1.png",
+   "page": 80,
+   "caption": "A Click to select the lead: With you scroll through the leads, with you open the list. B Click icon to terminate the zoom function. C Click to select the zoom factor. D Click icon to print the segment.",
+   "context_above": "Zoom Mode A zoom factor from 2 to 12 can be selected and the selected segment can be displayed in all leads. C B A D E F"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0081-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0081-1.png",
+   "page": 81,
+   "caption": "1. Position the cursor on the first measurement point and click. A caliper appears. 2. Position the cursor on the second measurement point and click. Now you will see the second caliper ",
+   "context_above": "Measuring the ECG Amplitudes (mV), intervals (ms) and slopes (mV/s) can be measured on all ECG waveforms. 2 3 3 1 2 1"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0082-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0082-1.png",
+   "page": 82,
+   "caption": "A Click button for a reanalysis (with the HEART ECG analysis program only, see next page). B Click button to display the tabular summary. C Click to select the gain (amplitude). D Click to select the speed. E Click icon to copy the waveform area to the Clipboard.",
+   "context_above": "Medians This screen shows the median complexes of all leads as well as the measurement marks that formed the basis for analysis. You are free to perform additional measurements, if needed. B C A D E"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0083-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0083-1.png",
+   "page": 83,
+   "caption": null,
+   "context_above": "The T-offset measurement mark can be adjusted in each individual lead (see page after next). Measurements can also be performed on the complex. B C A I D G H E F"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0085-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0085-1.png",
+   "page": 85,
+   "caption": null,
+   "context_above": "adjust. Adjusting the T-offset mark on this screen (page 5-19) does not affect the position of the T-offset mark on the previous screen (page 5-17). 2 3 1"
+  }
+ ]
+}

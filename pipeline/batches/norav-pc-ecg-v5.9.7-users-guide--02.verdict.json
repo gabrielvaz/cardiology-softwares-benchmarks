@@ -1,0 +1,57 @@
+[
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0128-1",
+    "is_ui_screenshot": true,
+    "pattern": "measurements-interpretation",
+    "modalities": [
+      "resting-ecg"
+    ],
+    "caption": "Figure 56: Measurements—Caliper Toolbar of Caliper Display",
+    "confidence": 0.75
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0142-1",
+    "is_ui_screenshot": false,
+    "reject_reason": "printed-trace"
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0142-2",
+    "is_ui_screenshot": false,
+    "reject_reason": "printed-trace"
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0143-1",
+    "is_ui_screenshot": false,
+    "reject_reason": "printed-trace"
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0144-1",
+    "is_ui_screenshot": false,
+    "reject_reason": "printed-trace"
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0144-2",
+    "is_ui_screenshot": false,
+    "reject_reason": "printed-trace"
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0145-1",
+    "is_ui_screenshot": false,
+    "reject_reason": "printed-trace"
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0145-2",
+    "is_ui_screenshot": false,
+    "reject_reason": "printed-trace"
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0146-1",
+    "is_ui_screenshot": false,
+    "reject_reason": "printed-trace"
+  },
+  {
+    "crop_id": "norav-pc-ecg-v5.9.7-users-guide-p0146-2",
+    "is_ui_screenshot": false,
+    "reject_reason": "printed-trace"
+  }
+]

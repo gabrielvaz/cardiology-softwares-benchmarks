@@ -1,0 +1,153 @@
+{
+ "batch_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger--04",
+ "manual": {
+  "id": "ge-cardiosoft-diagnostic-system-user-guide-tiger",
+  "title": "2060290-002_C_CardioSoft_OM_Eng.book",
+  "vendor_slug": "ge-healthcare",
+  "pages": 326,
+  "doc_type": "user-manual",
+  "lang": "en"
+ },
+ "crops": [
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0171-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0171-1.png",
+   "page": 171,
+   "caption": "A Click icon to open folders individually. B Click icons to simultaneously open (++) or close (- - ) all folders. C Click icons to copy folders , individual lines , lines including the chapter . D Click icon to confirm the test results.",
+   "context_above": "right. In the Interpretation area you can edit the texts as needed (enter new text, copy, cut, paste, etc.). Refer to section “Editing the Interpretation Library” on page 12-34 for information on editing the standard texts. A B C D E"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0172-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0172-1.png",
+   "page": 172,
+   "caption": "A Click a tab to display the corresponding window. B Click button to display the tabular summary. C Window with measuring values at the cursor position. D Click down arrow to select the display format (the same format is used for the printout).",
+   "context_above": "be displayed as you move the mouse over the diagram. For measurements taken with TONOPORT IVa, the ECG strips are also displayed. C D A B"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0173-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0173-1.png",
+   "page": 173,
+   "caption": null,
+   "context_above": "Tabular Summary Note Individual measurements in the Tabular Summary can be suppressed by double-clicking or by clicking with the right mouse button; they can be restored in the same way. Suppressed measurement data are excluded from the statistical analysis."
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0174-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0174-1.png",
+   "page": 174,
+   "caption": "Statistics Summary",
+   "context_above": "Hourly Averages The diagram shows the Hourly Averages of all measurements taken during the monitoring period. Click Tabular to view the same values in tabular format."
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0175-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0175-1.png",
+   "page": 175,
+   "caption": "Print",
+   "context_above": "Post Test Review"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0175-2",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0175-2.png",
+   "page": 175,
+   "caption": "Revision C CardioSoft 7-17 2060290-002",
+   "context_above": "Click the Print button to print the report. The print setup window opens where you can temporarily adjust the settings for the printout. Refer to section “Miscellaneous Tab” on page 12-33 for details on changing the setup permanently. 2 3 1 1 2 4 5"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0184-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0184-1.png",
+   "page": 184,
+   "caption": "R S A Click buttons to change the waveform scale. B Click option button to display the flow-volume loop. C Click option button to display the volume-time curve. D Reference curve.",
+   "context_above": "Refer to section “Acquisition Tab” on page 12-35 for information  on selecting the Measurement Mode , the Interpretation Mode , or the Equation for Reference Value Calculation or on entering the PT Code . C D E F G A B"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0187-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0187-1.png",
+   "page": 187,
+   "caption": "Best test",
+   "context_above": "The flow-volume loop of the current test and of the best test are displayed. The table shows the measuring values ( Act. ), the reference values and the percentage deviation of the current test. A B C D E F"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0190-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0190-1.png",
+   "page": 190,
+   "caption": "A Click tab to display the flow-volume loop and tabular data. B Patient Information area. C Test Information area. D Measurement Results area. E Interpretation. F Select to display and print the system evaluation, or deselect .",
+   "context_above": "Post Test Review Test Summary D C A E F B"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0192-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0192-1.png",
+   "page": 192,
+   "caption": "A Click icon to open folders individually. B Click icons to simultaneously open (++) or close (- -) all folders. C Click icons to copy folders , individual lines , lines including the chapter .",
+   "context_above": "Interpretation area on the right. In the Interpretation area you can edit the texts as needed (enter new text, copy, cut, paste, etc.). Refer to section “Editing the Library” on page 12-37 for information Interpretation on editing the standard texts. A B C D E"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0194-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0194-1.png",
+   "page": 194,
+   "caption": "A Data relating to test 1 (reference test, test selected first). B Click tab to display the flow-volume loops and tabular data. C Data relating to test 2.",
+   "context_above": "A window opens listing all the patient's spirograms. 2. Select a test. 3. Click OK to clear the window. A B C"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0195-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0195-1.png",
+   "page": 195,
+   "caption": "% of ref. values % deviation from ref. values",
+   "context_above": "Click Spirometry/Compare/FVC Measurement to display the comparison screen with the flow-volume loop. The screen shows the two curves and the percentage deviation from the reference values or the percentage of the reference values attained. A B"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0200-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0200-1.png",
+   "page": 200,
+   "caption": "all",
+   "context_above": "Selecting Patient Records A B C D E F G H I J"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0216-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0216-1.png",
+   "page": 216,
+   "caption": "An order list query is automatically sent via the network. These are the default search criteria: orders for the selected patient  orders for the present day (today)  orders assigned to this workstation ",
+   "context_above": "Performing Procedures with the Order List (Scheduled Procedures) 1. Click New Test . 2. Select the patient and click Order List ."
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0218-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0218-1.png",
+   "page": 218,
+   "caption": null,
+   "context_above": "Performing Procedures without the Order List (Unscheduled Procedures) Elements of the Order List - Explanation A"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0228-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0228-1.png",
+   "page": 228,
+   "caption": "Insert Report Items",
+   "context_above": "Click Modify... on the Final Report tab to display the Configured Report Editor window. You can enter text and insert report items from a list (e.g., patient name, heart rate). At the time the report is printed the program will replace these report items with the actual data. 1 2 10 4 11 5 3 6 7 12 9 8"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0232-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0232-1.png",
+   "page": 232,
+   "caption": "The highlighted items are selected for display. 1. Click a highlighted item to deselect it. 2. Click a deselected item to select it. 3. To create your own column headings:",
+   "context_above": "You can define up to 5 columns of data in the Tabular Summary in addition to the standard 8. Select preconfigured data types or create new column headings. Click Configure Tabular Summary on the “Screen Tab” on page 12-13 to display the configuration window."
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0234-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0234-1.png",
+   "page": 234,
+   "caption": "Add/remove fields",
+   "context_above": "Click Configure Vital Signs on the “Screen Tab” on page 12-13 to display the configuration window. You can choose the vital signs to be displayed  the order in which they are presented  the font size "
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0238-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0238-1.png",
+   "page": 238,
+   "caption": "12 lead Median Writer Store Median Medians",
+   "context_above": "Exercise Test Setup Protocol Editor Screen A B C D E F G H I J"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0240-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0240-1.png",
+   "page": 240,
+   "caption": "TEST 14 New Protocol",
+   "context_above": "Exercise Test Setup Creating a New Phase 4 5 2 6 8 7"
+  }
+ ]
+}

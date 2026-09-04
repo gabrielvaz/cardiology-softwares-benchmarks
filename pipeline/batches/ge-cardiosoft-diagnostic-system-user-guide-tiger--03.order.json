@@ -1,0 +1,153 @@
+{
+ "batch_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger--03",
+ "manual": {
+  "id": "ge-cardiosoft-diagnostic-system-user-guide-tiger",
+  "title": "2060290-002_C_CardioSoft_OM_Eng.book",
+  "vendor_slug": "ge-healthcare",
+  "pages": 326,
+  "doc_type": "user-manual",
+  "lang": "en"
+ },
+ "crops": [
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0136-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0136-1.png",
+   "page": 136,
+   "caption": "A Click to display the graphic trends. B Click to display other leads of the trends (not available on all screens). backward forward",
+   "context_above": "After the Test — Post Test Review Graphic Trends Overview A B"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0137-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0137-1.png",
+   "page": 137,
+   "caption": null,
+   "context_above": "Viewing the Full Disclosure ECG By selecting the Full disclosure option on the trend screen, you can view the full disclosure ECG. The operating controls in the full disclosure window are explained in section “Full Disclosure ECG” on page 6-45."
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0138-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0138-1.png",
+   "page": 138,
+   "caption": null,
+   "context_above": "1. Locate the ST value in the trend graph of interest and click: a new window with the corresponding median complex will open. 2. Click on the ST value in the median complex window: a new window with the new and old ST values appears. 3. Click Yes and the ST value will be changed. 1 2 3"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0139-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0139-1.png",
+   "page": 139,
+   "caption": "TWA Heart Rate Limit",
+   "context_above": "2. A new window with the corresponding median complexes will open. 3. Click on the TWA value in the median complex window: a new window with the new and old TWA values appears. 4. Click Yes and the TWA value will be changed. 2 1 3"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0140-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0140-1.png",
+   "page": 140,
+   "caption": "Note Reanalyze the sample cardiac cycles as described under “Reanalysis” on page 6-39. A Click the lead label to change the displayed leads.",
+   "context_above": "Overview This screen shows the median complexes collected at each stage, beginning with the pretest phase. A C B"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0141-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0141-1.png",
+   "page": 141,
+   "caption": "Reanalyze",
+   "context_above": "above the baseline can be edited. To activate reanalysis Click the Zoom icon on the Sample Cardiac Cycles screen  position it over a complex and click the left mouse button  A B C"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0143-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0143-1.png",
+   "page": 143,
+   "caption": "A Click to view more sample TWA cycles. B Click to show and hide the measurement marks. C Select the speed of the displayed medians. D Select the gain for the displayed medians. E Select the number of lines (1, 3, 6). F Number of medians shown per stage:",
+   "context_above": "This screen shows the Sample TWA Cycles. Questionable values are identified with a question mark ?. Two-headed arrows identify the position where the TWA value was determined. Individual leads can be excluded. You may then repeat the analysis without these leads. This method prevents false-positive TWA values, particularly when permanently disturbed leads are excluded."
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0144-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0144-1.png",
+   "page": 144,
+   "caption": "ECG Strips",
+   "context_above": "This screen displays 10-second ECG strips stored during the last 10 seconds of each stage  acquired manually, or  acquired automatically as configured in the Protocol Editor .  E B H A C D F G G"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0145-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0145-1.png",
+   "page": 145,
+   "caption": "Arrhythmia Review Arrhythmia Review Arrhythmia Review Arrhythmia Review",
+   "context_above": "The system will save a 10-second ECG strip each time an arrhythmia occurs and when the Event Marker Full Disclosure button is clicked on the acquisition screen (to a maximum of 20). When the event memory is full, the strips will be overwritten according to preset priorities. F I A H B C E G H D"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0147-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0147-1.png",
+   "page": 147,
+   "caption": "Full Disclosure ECG",
+   "context_above": "analysis algorithm may be color-coded. On the display you will also see when filter or cubic spline were enabled or disabled, e.g. in the form of FRF off = FRF-, Spline ON = Spline +. A D E F C B"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0149-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0149-1.png",
+   "page": 149,
+   "caption": "A Click icon to print the displayed screen. B Click icon to initiate one of the following actions the ECG strip is saved the ECG strip is printed, or the ECG strip is saved and printed (see section “Writer Tab” on page 12-12).",
+   "context_above": "2. Position the magnifying glass on the region of interest and click. An enlarged view of the selected region appears. The operating controls basically remain the same. When you click the printer icon, however, only that page will be printed."
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0150-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0150-1.png",
+   "page": 150,
+   "caption": "6-48 CardioSoft Revision C 2060290-002",
+   "context_above": "beat changes in the course of the test (updated at 30 second intervals). Click anywhere in the waterfall to display the median complex and measurement of the corresponding point in time (associated phase, stage, HR, BP, and METS appear at the right). G A B H F C D E"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0151-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0151-1.png",
+   "page": 151,
+   "caption": "A Click to select another lead. B Click to rotate the display horizontally. C Click to rotate the display vertically.",
+   "context_above": "H Click to select the color menu. 3D Graph A B C"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0152-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0152-1.png",
+   "page": 152,
+   "caption": "12SL",
+   "context_above": "12SL This screen shows the measurements from the 12SL ECG analysis. A B C D E F"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0153-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0153-1.png",
+   "page": 153,
+   "caption": "12SL Report",
+   "context_above": "This screen shows the median complexes of the orthogonal FRANK leads X, Y and Z as well as the vector loops in three planes. A B C D"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0154-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0154-1.png",
+   "page": 154,
+   "caption": "Configured Report Tabular Summary Graded Exercise Summary Report Trend Reports Configured Report",
+   "context_above": "Click the Print button to print the report. The print setup window opens where you can temporarily adjust the settings for the printout. Refer to section “Final Report Tab” on page 12-23 for details on changing the setup permanently. 1 2 3 6 4 1 5 8 7"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0157-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0157-1.png",
+   "page": 157,
+   "caption": "F E D A Click to enter the names and IP addresses of the remote stations. B Click to select the station.",
+   "context_above": "automatically. If the system does not find the IP address, you can enter the address manually. 4. Click OK to clear the window. 5. Click the Select Station button and select the station."
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0163-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0163-1.png",
+   "page": 163,
+   "caption": "A Measurement protocol details. B Click to connect the ambulatory blood pressure monitor to the system. Click to activate the programming mode. If a patient is selected first, C TONOPORT V devices of version 2.0 and later will automatically copy that patient’s ID number from the CardioSoft database.",
+   "context_above": "Acquisition Screen A"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0164-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0164-1.png",
+   "page": 164,
+   "caption": "Programming",
+   "context_above": "With TONOPORT V, version 2.0 and later: E: Patient ID stored in the TONOPORT device.  F: Patient data from the CardioSoft database assigned to the patient  ID. D E F A B C"
+  },
+  {
+   "crop_id": "ge-cardiosoft-diagnostic-system-user-guide-tiger-p0167-1",
+   "image": "pipeline/candidates/ge-cardiosoft-diagnostic-system-user-guide-tiger/ge-cardiosoft-diagnostic-system-user-guide-tiger-p0167-1.png",
+   "page": 167,
+   "caption": "A Click a tab to display the corresponding window. B Patient Information area. C Test Information area. D Measurement Results (Statistics Summary). E Interpretation.",
+   "context_above": "Test Summary C D E B A"
+  }
+ ]
+}

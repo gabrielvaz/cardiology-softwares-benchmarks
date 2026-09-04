@@ -1,0 +1,20 @@
+{
+ "batch_id": "spacelabs-sentinel-cardiology-information-system-overview--01",
+ "manual": {
+  "id": "spacelabs-sentinel-cardiology-information-system-overview",
+  "title": "Spacelabs Sentinel cardiology information system overview",
+  "vendor_slug": "spacelabs",
+  "pages": 3,
+  "doc_type": "brochure",
+  "lang": "en"
+ },
+ "crops": [
+  {
+   "crop_id": "spacelabs-sentinel-cardiology-information-system-overview-p0003-1",
+   "image": "pipeline/candidates/spacelabs-sentinel-cardiology-information-system-overview/spacelabs-sentinel-cardiology-information-system-overview-p0003-1.png",
+   "page": 3,
+   "caption": null,
+   "context_above": "Make Sentinel Your Single Source of Comprehensive Diagnostic Cardiology Information"
+  }
+ ]
+}
