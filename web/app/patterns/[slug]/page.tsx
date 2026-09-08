@@ -6,7 +6,8 @@ import {
   getPattern,
   getManual,
   screensByProduct,
-  assetUrl,
+  screenUrl,
+  manualUrl,
   label,
   type Screen,
 } from "@/lib/data";
@@ -49,7 +50,7 @@ function Provenance({ screen }: { screen: Screen }) {
     if (!manual) return null;
     return (
       <a
-        href={assetUrl(manual.path, manual.cdn) + `#page=${screen.source.page}`}
+        href={manualUrl(manual) + `#page=${screen.source.page}`}
         target="_blank"
         rel="noreferrer"
         className="link text-[11px] text-ink-faint hover:text-accent"
@@ -72,7 +73,7 @@ function ScreenCard({ screen }: { screen: Screen }) {
     <figure className="min-w-0">
       <div className="shot">
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={assetUrl(screen.image)} alt={screen.caption ?? ""} loading="lazy" />
+        <img src={screenUrl(screen.image)} alt={screen.caption ?? ""} loading="lazy" />
       </div>
       <figcaption className="mt-2.5">
         {screen.caption && (

@@ -15,6 +15,12 @@
   "reject_reason": "hardware-photo"
  },
  {
+  "crop_id": "cardiolex-ec-store-ecg-management-brochure-2023-p0001-4",
+  "is_ui_screenshot": false,
+  "reject_reason": "marketing-photo",
+  "reject_note": "Foto de marketing: paciente numa esteira ergométrica ao fundo, com dois profissionais de saúde em primeiro plano apontando para uma tela de ECG. Há pessoas visíveis na cena, não é uma captura digital pura da interface."
+ },
+ {
   "crop_id": "cardiolex-ec-store-ecg-management-brochure-2023-p0001-5",
   "is_ui_screenshot": false,
   "reject_reason": "hardware-photo"
@@ -43,6 +49,12 @@
   "crop_id": "cardiolex-ec-store-ecg-management-brochure-v21-p0001-3",
   "is_ui_screenshot": false,
   "reject_reason": "hardware-photo"
+ },
+ {
+  "crop_id": "cardiolex-ec-store-ecg-management-brochure-v21-p0001-4",
+  "is_ui_screenshot": false,
+  "reject_reason": "marketing-photo",
+  "reject_note": "Mesma foto de marketing da variante anterior: paciente na esteira ergométrica e dois profissionais de saúde em primeiro plano diante do monitor. Pessoas visíveis na cena, não é captura de interface."
  },
  {
   "crop_id": "cardiolex-ec-store-ecg-management-brochure-v21-p0001-5",
@@ -195,9 +207,27 @@
   "reject_reason": "other"
  },
  {
+  "crop_id": "schiller-sema-200-data-management-brochure-p0001-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "marketing-composite",
+  "reject_note": "Página de brochure com foto de monitor e teclado físicos (perspectiva, sombra) mostrando uma tela de software sobreposta a um traçado de papel ao fundo; não é uma captura digital limpa."
+ },
+ {
+  "crop_id": "schiller-sema-200-data-management-brochure-p0002-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "marketing-photo",
+  "reject_note": "Fotografia de uma enfermeira e um médico olhando um laptop em um corredor de hospital; há pessoas visíveis, com três telas de software diferentes empilhadas ao lado como composição de marketing."
+ },
+ {
   "crop_id": "schiller-sema-200-data-management-brochure-p0004-1",
   "is_ui_screenshot": false,
   "reject_reason": "hardware-photo"
+ },
+ {
+  "crop_id": "schiller-sema-data-management-brochure-2024-p0002-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "marketing-composite",
+  "reject_note": "Render de marketing com tablet e smartphone inclinados lado a lado (reflexo, sombra, perspectiva 3D), cada um mostrando uma tela diferente, mais texto promocional; composição de vários dispositivos, não uma captura de interface."
  },
  {
   "crop_id": "schiller-sema-data-management-brochure-2024-p0002-2",
@@ -213,6 +243,18 @@
   "crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0002-1",
   "is_ui_screenshot": false,
   "reject_reason": "printed-trace"
+ },
+ {
+  "crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0002-2",
+  "is_ui_screenshot": false,
+  "reject_reason": "marketing-composite",
+  "reject_note": "Render de marketing de um iPad e um iPhone inclinados e sobrepostos, cada um exibindo uma tela/relatório diferente (relatório impresso no tablet, lista de app no celular); composição de dois dispositivos fotorrealistas, não uma captura de interface isolada."
+ },
+ {
+  "crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0004-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "marketing-photo",
+  "reject_note": "Foto de banco de imagens de três profissionais de saúde (médica em primeiro plano com estetoscópio) com o slogan 'Sentinel - Getting you to the Heart of the matter'; não há nenhuma interface de software visível na imagem."
  },
  {
   "crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0004-2",

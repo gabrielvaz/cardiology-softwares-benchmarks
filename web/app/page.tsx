@@ -1,11 +1,13 @@
 import Link from "next/link";
+import { Hero } from "@/components/Hero";
 import {
   getPatterns,
   getProducts,
   getScreens,
   getManuals,
   screensByProduct,
-  assetUrl,
+  screenUrl,
+  manualUrl,
   label,
   type Pattern,
 } from "@/lib/data";
@@ -52,7 +54,7 @@ function PatternCard({ pattern }: { pattern: Pattern }) {
             {preview.map((s) => (
               <div key={s.id} className="flex-1 min-w-0 shot shot-fill rounded-[2px]">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={assetUrl(s.image)} alt="" loading="lazy" />
+                <img src={screenUrl(s.image)} alt="" loading="lazy" />
               </div>
             ))}
           </div>
@@ -110,6 +112,9 @@ export default function HomePage() {
   // seeded web captures carry no pattern yet, and counting them would overstate
   // what the site can actually show.
   const catalogued = screens.filter((s) => s.pattern).length;
+  const productsShown = new Set(
+    screens.filter((s) => s.pattern && s.product_id).map((s) => s.product_id),
+  ).size;
   const byGroup = GROUP_ORDER.map((g) => ({
     group: g,
     patterns: patterns
@@ -118,37 +123,21 @@ export default function HomePage() {
   })).filter((g) => g.patterns.length > 0);
 
   return (
-    <div className="mx-auto max-w-[1400px] px-6">
-      <section className="pt-14 pb-10 border-b border-rule">
-        <h1 className="text-[34px] leading-[1.1] font-semibold tracking-[-0.02em] max-w-[22ch]">
-          Clinical UI patterns, across the vendors
-        </h1>
-        <p className="mt-5 max-w-[68ch] text-[15px] leading-[1.6] text-ink-soft">
-          How does the ECG viewer differ between fourteen vendors? Where does everyone
-          put lead selection? What does a report editor look like when the signature is a
-          regulated act? CardioBench answers those by screen type, using screenshots
-          cropped out of the manufacturers&rsquo; own manuals and linked back to the page
-          they came from.
-        </p>
+    <>
+      <Hero
+        stats={[
+          { value: String(catalogued), caption: "screens catalogued" },
+          { value: `${withScreens} of ${patterns.length}`, caption: "screen types covered" },
+          { value: String(productsShown), caption: "products with screens" },
+          { value: String(manuals.length), caption: "manuals" },
+          {
+            value: manuals.reduce((n, m) => n + m.pages, 0).toLocaleString("en"),
+            caption: "pages of documentation",
+          },
+        ]}
+      />
 
-        <dl className="mt-9 flex flex-wrap gap-x-12 gap-y-5">
-          {[
-            [catalogued, "screens catalogued"],
-            [withScreens + " of " + patterns.length, "screen types covered"],
-            [products.length, "products"],
-            [manuals.length, "manuals"],
-            [manuals.reduce((n, m) => n + m.pages, 0).toLocaleString("en"), "pages of documentation"],
-          ].map(([value, caption]) => (
-            <div key={String(caption)}>
-              <dt className="text-[22px] font-semibold tabular tracking-tight">{value}</dt>
-              <dd className="mt-0.5 text-[11.5px] uppercase tracking-[0.07em] text-ink-faint">
-                {caption}
-              </dd>
-            </div>
-          ))}
-        </dl>
-      </section>
-
+      <div className="mx-auto max-w-[1400px] px-6">
       {byGroup.map(({ group, patterns: list }) => (
         <section key={group} className="py-10 border-b border-rule-soft last:border-0">
           <h2 className="text-[11.5px] uppercase tracking-[0.1em] text-ink-faint font-semibold mb-5">
@@ -161,6 +150,7 @@ export default function HomePage() {
           </div>
         </section>
       ))}
-    </div>
+      </div>
+    </>
   );
 }

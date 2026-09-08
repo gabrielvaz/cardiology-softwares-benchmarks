@@ -1,5 +1,19 @@
 [
-  {"crop_id": "schiller-sema-200-data-management-brochure-p0001-1", "is_ui_screenshot": true, "pattern": "patient-registration", "modalities": ["resting-ecg"], "caption": "Patient search and record selection screen on a SEMA-200 workstation, listing patients by name with a list of their stored recordings.", "confidence": 0.65},
-  {"crop_id": "schiller-sema-200-data-management-brochure-p0002-1", "is_ui_screenshot": true, "pattern": "stress-test", "modalities": ["stress-test"], "caption": "Exercise ECG stress test screen on a SEMA-200 workstation, showing heart rate and blood pressure trend charts alongside workload and recovery time measurements.", "confidence": 0.45},
-  {"crop_id": "schiller-sema-200-data-management-brochure-p0004-1", "is_ui_screenshot": false, "reject_reason": "hardware-photo"}
+ {
+  "crop_id": "schiller-sema-200-data-management-brochure-p0001-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "marketing-composite",
+  "reject_note": "Página de brochure com foto de monitor e teclado físicos (perspectiva, sombra) mostrando uma tela de software sobreposta a um traçado de papel ao fundo; não é uma captura digital limpa."
+ },
+ {
+  "crop_id": "schiller-sema-200-data-management-brochure-p0002-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "marketing-photo",
+  "reject_note": "Fotografia de uma enfermeira e um médico olhando um laptop em um corredor de hospital; há pessoas visíveis, com três telas de software diferentes empilhadas ao lado como composição de marketing."
+ },
+ {
+  "crop_id": "schiller-sema-200-data-management-brochure-p0004-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "hardware-photo"
+ }
 ]

@@ -44,6 +44,12 @@ REJECT_REASONS = {
     "electrode-diagram", "hardware-photo", "printed-trace", "legal-notice",
     "chart-or-graph", "logo-or-branding", "illustration", "table-or-text",
     "unreadable", "other",
+    # Added after an audit found staged marketing imagery had been accepted:
+    # the original stage 2 prompt said a screen inside a device mockup still
+    # counts, which let brochure photography through.
+    "marketing-photo",      # staged scene with people; a screen may be visible in it
+    "marketing-composite",  # brochure page mixing photography with one or more screens
+    "photo-of-screen",      # photograph of a physical monitor rather than a capture
 }
 
 

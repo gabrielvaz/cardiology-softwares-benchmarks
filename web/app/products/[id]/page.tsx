@@ -7,7 +7,8 @@ import {
   getPatterns,
   screensForProduct,
   manualsForProduct,
-  assetUrl,
+  screenUrl,
+  manualUrl,
   label,
 } from "@/lib/data";
 
@@ -117,7 +118,7 @@ export default async function ProductPage({
                 className="flex items-baseline gap-3 text-[13px] border-b border-rule-soft pb-2 last:border-0"
               >
                 <a
-                  href={assetUrl(m.path, m.cdn)}
+                  href={manualUrl(m)}
                   target="_blank"
                   rel="noreferrer"
                   className="link flex-1 min-w-0"
@@ -149,7 +150,7 @@ export default async function ProductPage({
                 <figure key={s.id}>
                   <div className="shot">
                     {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img src={assetUrl(s.image)} alt={s.caption ?? ""} loading="lazy" />
+                    <img src={screenUrl(s.image)} alt={s.caption ?? ""} loading="lazy" />
                   </div>
                   {s.caption && (
                     <figcaption

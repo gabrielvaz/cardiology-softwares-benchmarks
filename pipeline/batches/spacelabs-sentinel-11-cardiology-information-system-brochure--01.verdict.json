@@ -1,8 +1,34 @@
 [
-  {"crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0001-1", "is_ui_screenshot": false, "reject_reason": "logo-or-branding"},
-  {"crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0002-1", "is_ui_screenshot": false, "reject_reason": "printed-trace"},
-  {"crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0002-2", "is_ui_screenshot": true, "pattern": "worklist", "modalities": ["resting-ecg"], "caption": "Reports to review list on a mobile device, showing pending cardiology reports by patient with physician and confirmation status, alongside the full report view on tablet.", "confidence": 0.7},
-  {"crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0004-1", "is_ui_screenshot": true, "pattern": "dashboard-home", "modalities": ["resting-ecg", "holter", "abpm", "stress-test", "spirometry"], "caption": "Sentinel home navigation menu listing test types (ABP, Holter, Resting/Rhythm, Stress, Ergospirometry, Spirometry, Event, Plethysmography) alongside patient and case actions.", "confidence": 0.5},
-  {"crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0004-2", "is_ui_screenshot": false, "reject_reason": "hardware-photo"},
-  {"crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0005-1", "is_ui_screenshot": false, "reject_reason": "hardware-photo"}
+ {
+  "crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0001-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "logo-or-branding"
+ },
+ {
+  "crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0002-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "printed-trace"
+ },
+ {
+  "crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0002-2",
+  "is_ui_screenshot": false,
+  "reject_reason": "marketing-composite",
+  "reject_note": "Render de marketing de um iPad e um iPhone inclinados e sobrepostos, cada um exibindo uma tela/relatório diferente (relatório impresso no tablet, lista de app no celular); composição de dois dispositivos fotorrealistas, não uma captura de interface isolada."
+ },
+ {
+  "crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0004-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "marketing-photo",
+  "reject_note": "Foto de banco de imagens de três profissionais de saúde (médica em primeiro plano com estetoscópio) com o slogan 'Sentinel - Getting you to the Heart of the matter'; não há nenhuma interface de software visível na imagem."
+ },
+ {
+  "crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0004-2",
+  "is_ui_screenshot": false,
+  "reject_reason": "hardware-photo"
+ },
+ {
+  "crop_id": "spacelabs-sentinel-11-cardiology-information-system-brochure-p0005-1",
+  "is_ui_screenshot": false,
+  "reject_reason": "hardware-photo"
+ }
 ]

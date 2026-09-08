@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import { getManuals, getProducts, assetUrl } from "@/lib/data";
+import { getManuals, getProducts, manualUrl } from "@/lib/data";
 
 export const metadata: Metadata = {
   title: "Manuals",
@@ -88,7 +88,7 @@ export default function ManualsPage() {
                     className="flex items-baseline gap-3 text-[13px] py-1.5 border-b border-rule-soft last:border-0"
                   >
                     <a
-                      href={assetUrl(m.path, m.cdn)}
+                      href={manualUrl(m)}
                       target="_blank"
                       rel="noreferrer"
                       className="link flex-1 min-w-0 truncate"

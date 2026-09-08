@@ -117,9 +117,18 @@ language throughout, which keeps screen-type calls consistent.
 > {"crop_id": "...", "is_ui_screenshot": false, "reject_reason": "electrode-diagram"}
 > ```
 >
+> Marketing material needs particular care. A screen inside a *drawn* device
+> frame is still a screen and should be accepted. But reject anything where the
+> interface is part of a **photograph**: a staged clinic scene with people, a
+> laptop shot at an angle, a photograph of a physical monitor. Also reject
+> brochure pages that combine photography with screens, or that stack several
+> different screens into one image with marketing copy around them, because
+> that image is a page layout, not a screen.
+>
 > `reject_reason` must be one of: electrode-diagram, hardware-photo,
 > printed-trace, legal-notice, chart-or-graph, logo-or-branding, illustration,
-> table-or-text, unreadable, other.
+> table-or-text, marketing-photo, marketing-composite, photo-of-screen,
+> unreadable, other.
 >
 > Do not guess a screen type to avoid leaving a field empty. `--collect`
 > rejects records with values outside the vocabulary rather than repairing
@@ -205,6 +214,16 @@ T-wave alternans displays, and serial median comparison were all mapped onto
 Meditech PCS, being an EHR rather than a cardiology product, mapped onto the
 taxonomy poorly throughout. Worth revisiting once more of the corpus is
 classified and the real distribution of screen types is visible.
+
+**Marketing photography got through the first run.** The original stage 2
+prompt told the classifier that "a screenshot inside a device mockup is still a
+screenshot", which was meant to rescue legitimate screens shown in a drawn
+frame. It instead admitted stock photography: staged clinic scenes with
+patients and clinicians, with a workstation visible in shot. An audit of all
+181 accepted screens found 7 such cases, every one of them from a marketing
+brochure rather than a manual, and all 7 were removed. The prompt above now
+draws the line at *photographed* versus *drawn*, and three reject reasons were
+added for it. Brochures remain the highest-risk source in the corpus.
 
 **`user-management` is still empty.** 17 of 18 patterns have screens; nothing in
 the processed subset shows an account or permissions screen, which is plausible

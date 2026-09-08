@@ -1,0 +1,68 @@
+name: Deploy CardioBench to Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+          cache-dependency-path: web/pnpm-lock.yaml
+
+      - run: pnpm install --frozen-lockfile
+        working-directory: web
+
+      # Screens are the site's primary content and only 6.4 MB, so they ship
+      # with the deploy rather than through a CDN. Manuals stay in the repo and
+      # are served over jsDelivr; 539 MB cannot go into a Pages artifact.
+      - name: Stage screen assets
+        run: |
+          mkdir -p web/public/assets
+          cp -R screens web/public/assets/screens
+          du -sh web/public/assets/screens
+
+      - name: Build
+        run: pnpm build
+        working-directory: web
+        env:
+          ASSET_BASE: local
+          BASE_PATH: /cardiology-softwares-benchmarks
+
+      # Pages runs Jekyll by default, which drops directories starting with an
+      # underscore. Next puts every bundle in _next.
+      - run: touch web/out/.nojekyll
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

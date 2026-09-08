@@ -5,6 +5,14 @@
  * Neutral light ground because the screenshots are themselves mostly light
  * clinical UI, and a dark chrome would fight them for attention. One accent,
  * used only for state and links, never for decoration.
+ *
+ * Everything below is inside `@layer base` or `@layer components` on purpose.
+ * Unlayered CSS outranks *every* cascade layer, so a bare `a { color: inherit }`
+ * silently beats `text-white` and a bare `.shot img { height: auto }` beats
+ * `object-cover`. Both of those actually happened here: the primary button
+ * rendered black-on-black and the card thumbnails refused to fill their box.
+ * Keeping base styles in a layer is what lets utilities win, which is the whole
+ * point of using them.
  */
 
 @theme {
@@ -23,74 +31,78 @@
   --color-accent-soft: #fdf3ef;
 }
 
-html {
-  -webkit-text-size-adjust: 100%;
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    background: var(--color-ground);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-feature-settings: "kern" 1, "liga" 1, "cv05" 1;
+    text-rendering: optimizeLegibility;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
 }
 
-body {
-  background: var(--color-ground);
-  color: var(--color-ink);
-  font-family: var(--font-sans);
-  font-feature-settings: "kern" 1, "liga" 1, "cv05" 1;
-  text-rendering: optimizeLegibility;
-}
+@layer components {
+  /* Screenshots are the content. Give them a hairline so a white UI on white
+     ground still reads as a bounded artefact rather than floating pixels. */
+  .shot {
+    background: var(--color-ground-sunk);
+    border: 1px solid var(--color-rule);
+    border-radius: 3px;
+    overflow: hidden;
+  }
 
-/* Screenshots are the content. Give them a hairline so a white UI on white
-   ground still reads as a bounded artefact rather than floating pixels. */
-.shot {
-  background: var(--color-ground-sunk);
-  border: 1px solid var(--color-rule);
-  border-radius: 3px;
-  overflow: hidden;
-}
+  .shot img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
 
-.shot img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
+  /* Thumbnails on the pattern cards fill their box and crop from the top. */
+  .shot-fill,
+  .shot-fill img {
+    height: 100%;
+  }
 
-/* Thumbnail crops on the pattern cards need to fill their box and be cropped.
-   `.shot img` above outranks Tailwind's h-full/object-cover on specificity, so
-   the fill behaviour has to be declared here rather than in the markup. */
-.shot-fill,
-.shot-fill img {
-  height: 100%;
-}
+  .shot-fill img {
+    object-fit: cover;
+    object-position: top center;
+  }
 
-.shot-fill img {
-  object-fit: cover;
-  object-position: top center;
-}
+  /* Marks a caption quoted from the vendor's own manual rather than written by
+     a model. The distinction is load-bearing for credibility. */
+  .quoted {
+    font-style: italic;
+  }
 
-/* Used where a caption is quoted from the vendor's own manual rather than
-   written by a model. The distinction is load-bearing for credibility. */
-.quoted {
-  font-style: italic;
-}
+  .link {
+    text-decoration: underline;
+    text-decoration-color: var(--color-rule);
+    text-underline-offset: 3px;
+    transition: text-decoration-color 120ms ease;
+  }
 
-a {
-  color: inherit;
-  text-decoration: none;
-}
+  .link:hover {
+    text-decoration-color: var(--color-accent);
+  }
 
-.link {
-  text-decoration: underline;
-  text-decoration-color: var(--color-rule);
-  text-underline-offset: 3px;
-  transition: text-decoration-color 120ms ease;
-}
-
-.link:hover {
-  text-decoration-color: var(--color-accent);
-}
-
-.tabular {
-  font-variant-numeric: tabular-nums;
+  .tabular {
+    font-variant-numeric: tabular-nums;
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  * {
+  *,
+  *::before,
+  *::after {
     transition-duration: 0.01ms !important;
     animation-duration: 0.01ms !important;
   }

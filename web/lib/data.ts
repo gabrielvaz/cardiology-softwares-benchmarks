@@ -117,6 +117,20 @@ export interface Study {
 const GH_REPO = "gabrielvaz/cardiology-softwares-benchmarks";
 const GH_BRANCH = "main";
 
+/**
+ * GitHub Pages serves a project repo from a subpath. Next rewrites its own
+ * routes and bundles, but a hand-written `<img src="/img/x.webp">` is emitted
+ * verbatim and 404s there, so site-owned assets have to be prefixed by hand.
+ */
+export function basePath(): string {
+  return process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+}
+
+/** For assets that ship with the site itself, under web/public. */
+export function siteAsset(path: string): string {
+  return `${basePath()}${path.startsWith("/") ? path : `/${path}`}`;
+}
+
 function read<T>(file: string, fallback: T): T {
   const p = path.join(DATA_DIR, file);
   if (!fs.existsSync(p)) return fallback;
@@ -124,20 +138,30 @@ function read<T>(file: string, fallback: T): T {
 }
 
 /**
- * Assets live in the repo and are served by CDN, never bundled into the deploy.
+ * Two different asset routes, for two different reasons.
  *
- * `ASSET_BASE=local` switches to paths under /assets, which is how the site is
- * checked before the repo is public: jsDelivr can only serve a public repo, so
- * every image would 404 during development otherwise.
+ * Screens (6.4 MB of WebP) ship with the deploy: they are the site's primary
+ * content, and routing them through a CDN would mean the site renders empty
+ * until that CDN has indexed the repo. Manuals (539 MB of PDF) cannot ship with
+ * the deploy, so they go through jsDelivr over the public repo, with the two
+ * files above jsDelivr's 20 MB cap falling back to raw.githubusercontent.
  */
+export function screenUrl(repoPath: string): string {
+  return `${basePath()}/assets/${repoPath}`;
+}
+
+export function manualUrl(manual: Pick<Manual, "path" | "cdn">): string {
+  if (manual.cdn === "raw") {
+    return `https://raw.githubusercontent.com/${GH_REPO}/${GH_BRANCH}/${manual.path}`;
+  }
+  return `https://cdn.jsdelivr.net/gh/${GH_REPO}@${GH_BRANCH}/${manual.path}`;
+}
+
+/** @deprecated use screenUrl or manualUrl; kept so nothing silently breaks. */
 export function assetUrl(repoPath: string, cdn: "jsdelivr" | "raw" = "jsdelivr"): string {
-  if (process.env.ASSET_BASE === "local") {
-    return `/assets/${repoPath}`;
-  }
-  if (cdn === "raw") {
-    return `https://raw.githubusercontent.com/${GH_REPO}/${GH_BRANCH}/${repoPath}`;
-  }
-  return `https://cdn.jsdelivr.net/gh/${GH_REPO}@${GH_BRANCH}/${repoPath}`;
+  return cdn === "raw"
+    ? `https://raw.githubusercontent.com/${GH_REPO}/${GH_BRANCH}/${repoPath}`
+    : `https://cdn.jsdelivr.net/gh/${GH_REPO}@${GH_BRANCH}/${repoPath}`;
 }
 
 let cache: {

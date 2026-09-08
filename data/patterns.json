@@ -11,28 +11,28 @@
   "name": "Dashboard & home",
   "function_group": "management-worklist",
   "description": "The first screen after sign-in. Reveals what each vendor believes the user came to do: start an exam, clear a queue, or read yesterday's backlog.",
-  "screen_count": 2
+  "screen_count": 1
  },
  {
   "slug": "worklist",
   "name": "Worklist",
   "function_group": "management-worklist",
   "description": "The queue of exams waiting to be acquired, reviewed or signed. The densest table in clinical software, and the screen where status vocabulary and triage priority get designed.",
-  "screen_count": 11
+  "screen_count": 10
  },
  {
   "slug": "patient-registration",
   "name": "Patient registration",
   "function_group": "acquisition",
   "description": "Entering or retrieving patient identity before an exam. Where manual typing, barcode scanning and HIS/EMR lookup compete, and where wrong-patient error is designed against.",
-  "screen_count": 14
+  "screen_count": 13
  },
  {
   "slug": "live-acquisition",
   "name": "Live acquisition",
   "function_group": "acquisition",
   "description": "Real-time signal during recording, before anything is stored. Carries the highest time pressure of any screen in the product and the most aggressive feedback requirements.",
-  "screen_count": 13
+  "screen_count": 11
  },
  {
   "slug": "calibration-leads",
@@ -46,7 +46,7 @@
   "name": "ECG viewer",
   "function_group": "review-analysis",
   "description": "Where the trace is actually read. The signature screen of the category, and the one with the widest design variance: lead selection placement, caliper behaviour, grid rendering and scroll model all differ product to product.",
-  "screen_count": 21
+  "screen_count": 20
  },
  {
   "slug": "measurements-interpretation",
@@ -67,7 +67,7 @@
   "name": "Stress test",
   "function_group": "review-analysis",
   "description": "Exercise protocol screens: stage timing, treadmill or ergometer control, ST trend and blood pressure prompts. The only screen in the category driven by a live protocol clock.",
-  "screen_count": 18
+  "screen_count": 17
  },
  {
   "slug": "report-editor",
